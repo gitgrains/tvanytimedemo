@@ -1,0 +1,2119 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<TVAMain xmlns='urn:tva:metadata:2002' xmlns:mpeg7='urn:mpeg:mpeg7:schema:2001' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='urn:tva:metadata:2002 I:\tv-anytime\Specifications\COR1_SP003v13\tva_metadata_v13.xsd'>
+  <!--Use of this BBC data for non-TV-Anytime purposes is strictly forbidden.-->
+  <ProgramDescription>
+    <ProgramInformationTable>
+      <ProgramInformation programId='crid://bbc.co.uk/276854493'>
+        <BasicDescription>
+          <Title><![CDATA[Despatch Box]]></Title>
+          <Synopsis length='short'><![CDATA[Political discussion analysing the day's events in Parliament.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.1'>
+            <Name><![CDATA[Political]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:despatchbox@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://news.bbc.co.uk/1/hi/uk_politics/despatch_box/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/despatchbox</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276854494'>
+        <BasicDescription>
+          <Title><![CDATA[From Here To Modernity]]></Title>
+          <Synopsis length='short'><![CDATA[Open University. Kirsty Wark documents the decline of Modernist architecture, through to Post-Modernism and the heritage movement.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.2'>
+            <Name><![CDATA[Lifelong/further education]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.open2.net/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:ces-gen@open.ac.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276854495'>
+        <BasicDescription>
+          <Title><![CDATA[Open Advice]]></Title>
+          <Synopsis length='short'><![CDATA[Open University. Staying On Course: When studying with the OU, the choice of course is all important. Students reveal how they are making the big decision.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.2'>
+            <Name><![CDATA[Lifelong/further education]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.open2.net/openadvice</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:openadvice@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276854496'>
+        <BasicDescription>
+          <Title><![CDATA[Pause]]></Title>
+          <Synopsis length='short'><![CDATA[Open University. Three Stages Of Learning: Professor Charles Handy talks about the three phases of working life that he thinks many people go through.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.2'>
+            <Name><![CDATA[Lifelong/further education]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.open2.net/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:ces-gen@open.ac.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276854497'>
+        <BasicDescription>
+          <Title><![CDATA[Sydney: Living With Difference]]></Title>
+          <Synopsis length='short'><![CDATA[Open University. In just twenty years, Sydney has transformed itself from an outpost of the British Empire to one of the most cosmopolitan cities in the world.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.2'>
+            <Name><![CDATA[Lifelong/further education]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.open2.net/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:ces-gen@open.ac.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276854498'>
+        <BasicDescription>
+          <Title><![CDATA[PSHE: Dear Nobody]]></Title>
+          <Synopsis length='short'><![CDATA[Secondary Schools. Berlie Doherty's acclaimed novel about school-age pregnancy.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.1'>
+            <Name><![CDATA[School Programmes]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/schools/11_16/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:lzone@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276854499'>
+        <BasicDescription>
+          <Title><![CDATA[PSHE: Alison]]></Title>
+          <Synopsis length='short'><![CDATA[Secondary Schools. A light-hearted but moving look at a young couple's first sexual encounter.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.1'>
+            <Name><![CDATA[School Programmes]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/schools/11_16/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:lzone@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276854500'>
+        <BasicDescription>
+          <Title><![CDATA[Japanese Language And People]]></Title>
+          <Synopsis length='short'><![CDATA[Languages. Eating, Drinking And Entertainment: Introduction to the language, culture and everyday life in Japan.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.2'>
+            <Name><![CDATA[Lifelong/further education]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/languages/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/JapaneseLanguageAndPeople'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276854501'>
+        <BasicDescription>
+          <Title><![CDATA[Japanese Language And People]]></Title>
+          <Synopsis length='short'><![CDATA[Languages. Time Out: Introduction to the language, culture and everyday life in Japan.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.2'>
+            <Name><![CDATA[Lifelong/further education]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/languages/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/JapaneseLanguageAndPeople'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276854502'>
+        <BasicDescription>
+          <Title><![CDATA[Working For Yourself]]></Title>
+          <Synopsis length='short'><![CDATA[Using The Internet: Practical guides, top tips from users and a look at basic email packages, plus a look at browsers and search engines, news services and saving and printing sites.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.2'>
+            <Name><![CDATA[Lifelong/further education]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/education/lzone/workyourself.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/lzone</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:lzone@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276854503'>
+        <BasicDescription>
+          <Title><![CDATA[Velocity Diagrams]]></Title>
+          <Synopsis length='short'><![CDATA[Open University. How diagrams showing a component's speed can help to solve engineering problems.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.2'>
+            <Name><![CDATA[Lifelong/further education]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.open2.net/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:ces-gen@open.ac.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>1</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276854504'>
+        <BasicDescription>
+          <Title><![CDATA[Digital Being: Spontaneity]]></Title>
+          <Synopsis length='short'><![CDATA[Open University. Human life forms in the digital age - and spontaneity.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.2'>
+            <Name><![CDATA[Lifelong/further education]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.open2.net/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:ces-gen@open.ac.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276854505'>
+        <BasicDescription>
+          <Title><![CDATA[Cybersouls]]></Title>
+          <Synopsis length='short'><![CDATA[Open University. When we can talk across continents and enter virtual realities, could the human body eventually become redundant?]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.2'>
+            <Name><![CDATA[Lifelong/further education]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.open2.net/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:ces-gen@open.ac.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855254'>
+        <BasicDescription>
+          <Title><![CDATA[Rotten Ralph]]></Title>
+          <Synopsis length='short'><![CDATA[CBBC. The Point Of No Return: Ralph pesters his family to rent out the new Bongo Bob video, but the fines soon start to mount up when he forgets to return it to the shop.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4'>
+            <Name><![CDATA[FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.3'>
+            <Name><![CDATA[CARTOON/ANIMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbbc/cartoons</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:cbbc@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855255'>
+        <BasicDescription>
+          <Title><![CDATA[Smurfs' Adventures]]></Title>
+          <Synopsis length='short'><![CDATA[CBBC. The First Telesmurf/Handy's Kite: Only three apples high, they live in mushroom houses and take their morning showers with dew drops. But with Gargamel around, no-one is safe.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4'>
+            <Name><![CDATA[FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.3'>
+            <Name><![CDATA[CARTOON/ANIMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbbc/cartoons</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:cbbc@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>1</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855256'>
+        <BasicDescription>
+          <Title><![CDATA[Woody Woodpecker]]></Title>
+          <Synopsis length='short'><![CDATA[CBBC. Temper Temper/Legend Of Rocky Point/Crash Course: More spooky nonsense and fun with Woody and his pals Wally Walrus, Buzz Buzzard, Chilly Willy and Winnie Woodpecker.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4'>
+            <Name><![CDATA[FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.3'>
+            <Name><![CDATA[CARTOON/ANIMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbbc/cartoons/woody/index.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:cbbc@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855257'>
+        <BasicDescription>
+          <Title><![CDATA[CBBC At The Fame Academy]]></Title>
+          <Synopsis length='short'><![CDATA[CBBC. Catch up with the latest happenings and the juiciest gossip from the Academy.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5'>
+            <Name><![CDATA[AMUSEMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6'>
+            <Name><![CDATA[MUSIC]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.7'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbbc/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:fameacademy.cbbc@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855258'>
+        <BasicDescription>
+          <Title><![CDATA[Blue Peter]]></Title>
+          <Synopsis length='short'><![CDATA[CBBC. Simon joins Bishop Willy Pwaisiho as he returns to the Solomon Islands where he is chief to people once thought to be the most warlike in the South Pacific. W/S. [Signed]]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3'>
+            <Name><![CDATA[General non-fiction]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.1.1'>
+            <Name><![CDATA[Primary]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <SignLanguage translation='true' type='BSL'>EN-UK</SignLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/bluepeter</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:bluepeter@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855259'>
+        <BasicDescription>
+          <Title><![CDATA[The Wayne Manifesto]]></Title>
+          <Synopsis length='short'><![CDATA[CBBC. Amy Pastrami: Violet's back from America and her stories of 'Amy Pastrami Day' ignite the imagination of the drama teacher.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4'>
+            <Name><![CDATA[FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbbc/drama/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:cbbc@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855260'>
+        <BasicDescription>
+          <Title><![CDATA[Clifford The Big Red Dog]]></Title>
+          <Synopsis length='short'><![CDATA[CBeebies. Clifford And The Beanstalk: When Jetta lands the lead role in the school play, she learns the hard way that hard work and preparation are the things that make you successful.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1.1'>
+            <Name><![CDATA[age 4-7]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbeebies/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:cbeebies@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/CliffordTheBigRedDog'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855261'>
+        <BasicDescription>
+          <Title><![CDATA[Doctor Otter]]></Title>
+          <Synopsis length='short'><![CDATA[CBeebies. Colour Me Lucky: The Donfuss children find a brightly coloured chameleon called Lucky in the woods. Though he isn't very good at hide a seek, Doctor Otter soon finds him a new role.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1.1'>
+            <Name><![CDATA[age 4-7]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbeebies/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:cbeebies@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855262'>
+        <BasicDescription>
+          <Title><![CDATA[Andy Pandy]]></Title>
+          <Synopsis length='short'><![CDATA[CBeebies. The Picnic: There is great excitement in the garden when Looby Loo plans a picnic. However, while helping, Teddy manages to break her plates. Luckily, Andy Pandy has a solution.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1.1'>
+            <Name><![CDATA[age 4-7]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbeebies/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:cbeebies@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/AndyPandy'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855263'>
+        <BasicDescription>
+          <Title><![CDATA[Fimbles]]></Title>
+          <Synopsis length='short'><![CDATA[CBeebies. Treasure Chest: Florrie finds a treasure chest, which she takes to a secret hiding place. But then the chest mysteriously disappears. W/S. Followed by Teletubbies Count To Christmas.]]></Synopsis>
+          <PromotionalInformation><![CDATA[BBC Book: Fimbles Activity / Sticker Book]]></PromotionalInformation>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1.1'>
+            <Name><![CDATA[age 4-7]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbeebies/fimbles</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:cbeebies@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Fimbles'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855467'>
+        <BasicDescription>
+          <Title><![CDATA[Teletubbies Count To Christmas]]></Title>
+          <Synopsis length='short'><![CDATA[CBeebies. A magic Teletubbies moment in the style of an Advent Calendar on a count down to Christmas Day.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1.1'>
+            <Name><![CDATA[age 4-7]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:teletubbies@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbeebies/teletubbies</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855264'>
+        <BasicDescription>
+          <Title><![CDATA[Pingu]]></Title>
+          <Synopsis length='short'><![CDATA[CBeebies: Pingu And Pinga Stay Up: More fun with the intelligent but rather clumsy and occasionally misunderstood loveable penguin.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1.1'>
+            <Name><![CDATA[age 4-7]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbeebies/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:CBeebies@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>1</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855265'>
+        <BasicDescription>
+          <Title><![CDATA[Tweenies]]></Title>
+          <Synopsis length='short'><![CDATA[CBeebies. The Circus: Max visits the circus to find out about life in the circus, and meets some talented friends.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1.1'>
+            <Name><![CDATA[age 4-7]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbeebies/tweenies</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:tweenies@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855266'>
+        <BasicDescription>
+          <Title><![CDATA[Teletubbies]]></Title>
+          <Synopsis length='short'><![CDATA[CBeebies. Silvie's Fish Pond: Dipsy follows a cloud that makes a puddle of rain. When his hat falls in the puddle, he sings a sad song, but when the sun dries his hat, Dipsy sings a happy song.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1.1'>
+            <Name><![CDATA[age 4-7]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:teletubbies@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbeebies/teletubbies</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855267'>
+        <BasicDescription>
+          <Title><![CDATA[Birthdays]]></Title>
+          <Synopsis length='short'><![CDATA[CBeebies. Will your birthday card be among today's colourful selection?]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1.1'>
+            <Name><![CDATA[age 4-7]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbeebies/birthdays</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:cbeebies@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855268'>
+        <BasicDescription>
+          <Title><![CDATA[Schools: Megamaths]]></Title>
+          <Synopsis length='short'><![CDATA[[Age 7-9] Fractions. Tenths And Decimals: The Fraction Numberline Tightrope and Freddie the Fraction Frog show the Maths Man the similarities between tenths and decimal fractions.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.1'>
+            <Name><![CDATA[School Programmes]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/megamaths</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:schools.primary@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855269'>
+        <BasicDescription>
+          <Title><![CDATA[Schools: Look And Read]]></Title>
+          <Synopsis length='short'><![CDATA[[Age 7-9] Spywatch. Captured: The children go to the quarry at night and discover Grainger's secret.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.1'>
+            <Name><![CDATA[School Programmes]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/lookandread</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:schools.primary@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855270'>
+        <BasicDescription>
+          <Title><![CDATA[Schools: Science Zone]]></Title>
+          <Synopsis length='short'><![CDATA[[Age 9-11] Changes In Materials. A Rusty Tale: While Vicky gets to grips with a rusty VW Beetle, we look at how rust develops, and see how rust is a benefit to sculptor, Sophie Ryder.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.1'>
+            <Name><![CDATA[School Programmes]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/schools/4_11/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:schools.primary@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855271'>
+        <BasicDescription>
+          <Title><![CDATA[Schools: Focus]]></Title>
+          <Synopsis length='short'><![CDATA[[Age 9-11] Citizenship. Minorities. A Home From Home. Refugees: Though Britain provides a safe haven, the arrival of asylum seekers has also produced a strong wave of hostility against them.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.1'>
+            <Name><![CDATA[School Programmes]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/schools/4_11/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:schools.primary@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855272'>
+        <BasicDescription>
+          <Title><![CDATA[Schools: Primary History]]></Title>
+          <Synopsis length='short'><![CDATA[[Age 7-9] Roman Britain. Gods, Games And Goodbye: An investigation into the Romans, with a look at the origins of Rome, the conquest of Britain and everyday life in the towns and countryside.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.6'>
+            <Name><![CDATA[Education]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.1'>
+            <Name><![CDATA[School Programmes]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/schools/4_11/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:schools.primary@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855273'>
+        <BasicDescription>
+          <Title><![CDATA[Working Lunch]]></Title>
+          <Synopsis length='short'><![CDATA[Business, consumer and workplace news from the award-winning team who tell it like it is. With Adrian Chiles, Adam Shaw and roving reporter Rob Pittam.]]></Synopsis>
+          <PromotionalInformation><![CDATA[Tel: 020 8740 4724 (national rate)]]></PromotionalInformation>
+          <Keyword type='main'><![CDATA[markets]]></Keyword>
+          <Keyword type='main'><![CDATA[finance]]></Keyword>
+          <Keyword type='main'><![CDATA[corporate]]></Keyword>
+          <Keyword type='main'><![CDATA[money]]></Keyword>
+          <Keyword type='main'><![CDATA[business]]></Keyword>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.5'>
+            <Name><![CDATA[Finance]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2.4'>
+            <Name><![CDATA[Advice]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.3.26'>
+            <Name><![CDATA[Consumer advice]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.7'>
+            <Name><![CDATA[Economy/Market/Financial/Business]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/workinglunch</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:working.lunch@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/WorkingLunch'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855274'>
+        <BasicDescription>
+          <Title><![CDATA[Teletubbies Everywhere]]></Title>
+          <Synopsis length='short'><![CDATA[CBeebies. Carousel (France): Round and round the world we go! New adventures away from Teletubbyland using song and dance to help pre-schoolers say Eh-Oh to numbers and words.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1.1'>
+            <Name><![CDATA[age 4-7]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:teletubbies@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbeebies/teletubbies</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/TeletubbiesEverywhere'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855275'>
+        <BasicDescription>
+          <Title><![CDATA[Higher And Higher]]></Title>
+          <Synopsis length='short'><![CDATA[Musical starring Frank Sinatra. Unable to pay his servants, a bankrupt spendthrift attempts to secure a wealthy marriage for his kitchen maid, by passing her off as his debutante daughter. [1944, b&w]]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4'>
+            <Name><![CDATA[FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.11'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.7'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/films/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855276'>
+        <BasicDescription>
+          <Title><![CDATA[Westminster Live]]></Title>
+          <Synopsis length='short'><![CDATA[An update on the day's events in Parliament, plus your chance to question the politicians. Phone 0345 514614 [local rate], fax 020 7973 6283 [national rate], or email west.live@bbc.co.uk.]]></Synopsis>
+          <PromotionalInformation><![CDATA[Tel: 0845 751 4614 (local rate)]]></PromotionalInformation>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.1'>
+            <Name><![CDATA[Political]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://news.bbc.co.uk/hi/english/uk_politics/westminster_live/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/politics/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:west.live@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855277'>
+        <BasicDescription>
+          <Title><![CDATA[BBC News]]></Title>
+          <Synopsis length='short'><![CDATA[The latest national and international news from the BBC. Followed by regional news and Weather.]]></Synopsis>
+          <Keyword type='main'><![CDATA[News]]></Keyword>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.15'>
+            <Name><![CDATA[Public Affairs]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.16'>
+            <Name><![CDATA[Current affairs]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.6'>
+            <Name><![CDATA[National politics/National Assembly]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.8'>
+            <Name><![CDATA[Foreign/International]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/news</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BbcNews'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855278'>
+        <BasicDescription>
+          <Title><![CDATA[Animal Park]]></Title>
+          <Synopsis length='short'><![CDATA[Ben Fogle from Castaway and Kate Humble explore life behind the scenes at Longleat Safari Park. Comet the lioness is off to Newquay zoo, while vet Duncan Williams, tackles Benzi the ostrich.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.6.2'>
+            <Name><![CDATA[Nature/natural sciences]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.6.3'>
+            <Name><![CDATA[Animals/Wildlife]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.6.4'>
+            <Name><![CDATA[Environment/geography]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/nature/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:nature@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/AnimalPark'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855279'>
+        <BasicDescription>
+          <Title><![CDATA[Ready Steady Cook]]></Title>
+          <Synopsis length='short'><![CDATA[Take top chefs Kevin Woodford and Tony Tobin, add two contestants, throw in some ingredients and garnish liberally with Ainsley Harriott. Simmer and enjoy.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.3.2'>
+            <Name><![CDATA[Cookery]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.1'>
+            <Name><![CDATA[Game show]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/food</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ReadySteadyCook'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855280'>
+        <BasicDescription>
+          <Title><![CDATA[The Weakest Link USA]]></Title>
+          <Synopsis length='short'><![CDATA[Nine contestants play as a team but only one will survive to reach the prize. Who will make it through the questions and survive Anne Robinson's barbed comments?]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.1'>
+            <Name><![CDATA[Game show]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/weakestlink/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:theweakestlink@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855281'>
+        <BasicDescription>
+          <Title><![CDATA[The Simpsons]]></Title>
+          <Synopsis length='short'><![CDATA[Twenty Two Short Films About Springfield: The lives of Springfield residents are highlighted in a series of interconnecting stories.]]></Synopsis>
+          <Keyword type='main'><![CDATA[America]]></Keyword>
+          <Keyword type='main'><![CDATA[satire]]></Keyword>
+          <Keyword type='main'><![CDATA[comedy]]></Keyword>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1.1'>
+            <Name><![CDATA[Pure entertainment]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.7'>
+            <Name><![CDATA[Fantasy/Fairy tale]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.7'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.3.1'>
+            <Name><![CDATA[Anime]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.53'>
+            <Name><![CDATA[Wacky]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.27'>
+            <Name><![CDATA[Humorous]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.12'>
+            <Name><![CDATA[Crazy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.13'>
+            <Name><![CDATA[Cutting edge]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.11'>
+            <Name><![CDATA[Contemporary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.11'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cult/simpsons/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/TheSimpsons'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855282'>
+        <BasicDescription>
+          <Title><![CDATA[Fresh Prince Of Bel Air]]></Title>
+          <Synopsis length='short'><![CDATA[Will Goes A Courtin': When Will refuses to pay rent until his air-conditioner is fixed, Philip takes the matter to court.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.11'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.7'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/comedy/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/FreshPrinceOfBelAir'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855283'>
+        <BasicDescription>
+          <Title><![CDATA[Buffy The Vampire Slayer]]></Title>
+          <Synopsis length='short'><![CDATA[All The Way: It's Halloween and while Anya ropes everyone in to help at a Magic Box sale, Dawn takes advantage of the hectic situation, and slips away on a mission of her own.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.1'>
+            <Name><![CDATA[General light drama]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cult/buffy/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BuffyTheVampireSlayer'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855284'>
+        <BasicDescription>
+          <Title><![CDATA[Time Flyers]]></Title>
+          <Synopsis length='short'><![CDATA[The Lost Avenue: The Time Flyers team travels back 6,000 years to the spectacular stone circle at Avebury, and recreates what happened to the huge stones that made up the avenue.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[The Lost Avenue
+
+The Time Flyers team travels back 6,000 years to the spectacular stone circle at Avebury, part of the Stone Age complex in Wiltshire that includes its famous older brother, Stonehenge. 
+
+Recently, archaeologists have uncovered a completely new avenue leading away from the Avebury stone circle. From the air the whole layout is made clear, including the mark in the crops that first hinted at the existence of a forgotten avenue. 
+The Time Flyers team joins the dig excavation to search for some of the buried stones that once made up the avenue. They also ask whether the avenue was used for funeral rites and what Avebury's relationship to Stonehenge might be. It's a story of pagan rituals, druids and cutting-edge archaeological science as the team recreate what happened to the huge stones that made up the avenue.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.4'>
+            <Name><![CDATA[Documentary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.5.3'>
+            <Name><![CDATA[History]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/history</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/history/programmes/timeflyers/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855285'>
+        <BasicDescription>
+          <Title><![CDATA[Home Front In The Garden]]></Title>
+          <Synopsis length='short'><![CDATA[Hemel Hempstead: Diarmuid Gavin creates a gentle but magical garden for a family recently arrived from New Zealand, featuring an undulating wooden path through a bog garden.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.3.3'>
+            <Name><![CDATA[Gardening]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:homefront@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/homes/homefront/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855286'>
+        <BasicDescription>
+          <Title><![CDATA[Have You Remembered What...]]></Title>
+          <Synopsis length='short'><![CDATA[...Not To Wear? Rose: London cab driver Rose put up a struggle when Trinny and Susannah tried to get her out of her jeans. A year on, Rose is still driving her cab, but what's she wearing?]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.3.26'>
+            <Name><![CDATA[Consumer advice]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2.4'>
+            <Name><![CDATA[Advice]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/lifestyle</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855287'>
+        <BasicDescription>
+          <Title><![CDATA[Horizon]]></Title>
+          <Synopsis length='short'><![CDATA[The Day The Earth Nearly Died: 250 million years ago, 95% of all life on Earth was wiped out. The cause has long remained a mystery. Horizon investigates the day the earth nearly died.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[The Day The Earth Nearly Died
+
+It was the mother of all catastrophes. 250 million years ago, 95% of all life on Earth was wiped out in the greatest disaster our planet has ever experienced. Yet the cause of this cataclysm has long remained a mystery. No one knew what had done it, or whether it could happen again. Now, Horizon can reveal what really happened on the day the Earth nearly died.
+
+It occurred in an era long before the dinosaurs, when strange, half-forgotten reptiles roamed the Earth. It was as complete a world back then as ours is today. Then, the fossil record shows, everything died out in a geological instant.
+
+When palaeontologists looked for the reason, they could find almost nothing. The Permian killer had left no fingerprints. But there were a few clues. There were signs that the entire continent of Siberia had caught fire in massive volcanic eruption, filling the atmosphere with greenhouse gases. In the Antarctic there were hints of a meteor the size of Manhattan. Perhaps the Permian creatures had met the same fate as the dinosaurs.
+
+But a trip to Greenland may have finally revealed the truth. It seems that there was not one Permian killer, but two, including a strange and terrifying force from deep within the oceans.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.4'>
+            <Name><![CDATA[Documentary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.5.3'>
+            <Name><![CDATA[History]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/horizon/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:horizon@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Horizon'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855288'>
+        <BasicDescription>
+          <Title><![CDATA[Look Around You]]></Title>
+          <Synopsis length='short'><![CDATA[The Brain: Examining what happens when a thin metal probe is inserted into a subject's brain to stimulate an area known as the broab. How does this affect his mental state?]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.11'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.7'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/lookaroundyou</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855289'>
+        <BasicDescription>
+          <Title><![CDATA[The League Of Gentlemen]]></Title>
+          <Synopsis length='short'><![CDATA[Anarchy In Royston Vasey: Tubbs and Edward leave the sanctuary of the Local Shop in search of a 'no-tail', and Les McQueen is astounded that Creme Brulee have reformed, without him.]]></Synopsis>
+          <PromotionalInformation><![CDATA[BBC Video: The League of Gentlemen Christmas Special DVD]]></PromotionalInformation>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.11'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.7'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/comedy/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855290'>
+        <BasicDescription>
+          <Title><![CDATA[Newsnight]]></Title>
+          <Synopsis length='short'><![CDATA[In-depth investigation and analysis of the stories behind the day's headlines.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.16'>
+            <Name><![CDATA[Current affairs]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.15'>
+            <Name><![CDATA[Public Affairs]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.2'>
+            <Name><![CDATA[Magazine]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.1'>
+            <Name><![CDATA[Political]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.43'>
+            <Name><![CDATA[Serious]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.29'>
+            <Name><![CDATA[Insightful]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.2'>
+            <Name><![CDATA[Analytical]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/newsnight</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:newsnight@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Newsnight'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276855291'>
+        <BasicDescription>
+          <Title><![CDATA[Mega Mela Revealed]]></Title>
+          <Synopsis length='short'><![CDATA[A special behind the scenes look at the Mega Mela Awards Show, with exclusive interviews with stars and winners on the night. Presented by Sonia Deol and Harkirn Bahra.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.7'>
+            <Name><![CDATA[Rap/Hip Hop/Reggae]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.8'>
+            <Name><![CDATA[Electronic/Club/Urban/Dance]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/asianlife/tv/megamela/2002/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/asianlife/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+    </ProgramInformationTable>
+  </ProgramDescription>
+</TVAMain>

@@ -1,0 +1,1375 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<TVAMain xmlns='urn:tva:metadata:2002' xmlns:mpeg7='urn:mpeg:mpeg7:schema:2001' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='urn:tva:metadata:2002 I:\tv-anytime\Specifications\COR1_SP003v13\tva_metadata_v13.xsd'>
+  <!--Use of this BBC data for non-TV-Anytime purposes is strictly forbidden.-->
+  <ProgramDescription>
+    <ProgramInformationTable>
+      <ProgramInformation programId='crid://bbc.co.uk/3257141456'>
+        <BasicDescription>
+          <Title><![CDATA[Crossing Continents]]></Title>
+          <Synopsis length='short'><![CDATA[Namibia: Is President Sam Nujoma taking his country down the same road as Zimbabwe? Rosie Goldsmith travels around this vast country in search of the answer to that question.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Namibia
+
+When Sam Nujoma, President of Namibia, shook his finger and railed at Tony Blair at the Earth summit in September the world took notice. Calling Blair a colonialist and blaming the British for the ills of Southern Africa he staunchly defended his friend Robert Mugabe's right to deal with white farmers as he saw fit and declared that Namibia doesn't need western aid.  
+
+Is Nujoma taking his country down the same road as Zimbabwe? Rosie Goldsmith travels around this vast country in search of the answer to that question.]]></Synopsis>
+          <Keyword type='main'><![CDATA[politics]]></Keyword>
+          <Keyword type='main'><![CDATA[international relations]]></Keyword>
+          <Keyword type='main'><![CDATA[diplomacy]]></Keyword>
+          <Keyword type='main'><![CDATA[economy]]></Keyword>
+          <Keyword type='main'><![CDATA[culture]]></Keyword>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.4'>
+            <Name><![CDATA[Documentary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.16'>
+            <Name><![CDATA[Current affairs]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.3'>
+            <Name><![CDATA[Economic]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.2'>
+            <Name><![CDATA[Social]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.1'>
+            <Name><![CDATA[Political]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.10'>
+            <Name><![CDATA[Confrontational]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.11'>
+            <Name><![CDATA[Contemporary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <CreditsList/>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:6'>Recommendation</HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>crid://bbc.co.uk/297823234</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:crossing.continents@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/continents</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/CrossingContinents'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257141720'>
+        <BasicDescription>
+          <Title><![CDATA[Home Truths]]></Title>
+          <Synopsis length='short'><![CDATA[John Peel takes another wry look at the foibles of family life .]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:home.truths@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/hometruths/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/HomeTruths'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142087'>
+        <BasicDescription>
+          <Title><![CDATA[The Food Programme]]></Title>
+          <Synopsis length='short'><![CDATA[Sheila Dillon looks at kitchen gadgets, from the most useful to the most spectacularly useless, and investigates the latest items of kitchen paraphernalia. .]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Gadgets
+
+This week, Sheila will discover which are the most useful and most useless kitchen gadgets ever invented and what bits of cookery kit are being dreamed up by the gadget maestros in their work shops in Northern Italy.
+
+.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.3.2'>
+            <Name><![CDATA[Cookery]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/factual/foodprogramme.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/TheFoodProgramme'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142100'>
+        <BasicDescription>
+          <Title><![CDATA[The Archers]]></Title>
+          <Synopsis length='short'><![CDATA[Simon has some important news.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.1'>
+            <Name><![CDATA[General light drama]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.2.1'>
+            <Name><![CDATA[Soap Opera]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2.1'>
+            <Name><![CDATA[Fictional portrayal of life]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:archers@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/archers/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/TheArchers'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142279'>
+        <BasicDescription>
+          <Title><![CDATA[Midnight News]]></Title>
+          <Synopsis length='short'><![CDATA[The latest national and international news from BBC Radio 4.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/news</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142280'>
+        <BasicDescription>
+          <Title><![CDATA[Moral Notes]]></Title>
+          <Synopsis length='short'><![CDATA[Love: Simon Brett explores how the Victorians perfected the use of popular song as a vehicle of values, morality and beliefs. Then Weather, Bells On Sunday and Sailing By.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[The Victorians perfected the use of popular song as a way to reflect values, morality and beliefs. It is an art which has never lost its ability to act as a mirror to society, as Simon Brett reveals in his exploration of morality in note form from the early 19th century until today.
+
+Part 3, Love
+
+The Victorians edged the concept of Love in lace. Under their tutelage it grew to an ideal to be aspired to - at least in public. But behind the sentiment lies a reality not that different from our own, and then, as now it is a morality which is well documented in song.
+
+Then Weather, Bells On Sunday and Sailing By.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.4'>
+            <Name><![CDATA[Documentary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.5.3'>
+            <Name><![CDATA[History]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142281'>
+        <BasicDescription>
+          <Title><![CDATA[Shipping Forecast]]></Title>
+          <Synopsis length='short'><![CDATA[The latest Shipping Forecast.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/weather/ukweather/shipping.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142282'>
+        <BasicDescription>
+          <Title><![CDATA[As BBC World Service]]></Title>
+          <Synopsis length='short'><![CDATA[BBC Radio 4 joins the BBC World Service for a selection of news and current affairs, arts and science programmes. BBC Radio 4 resumes at ....]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/worldservice/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142283'>
+        <BasicDescription>
+          <Title><![CDATA[Radio 4 Open Up]]></Title>
+          <Synopsis length='short'><![CDATA[Includes a News Summary, the latest Shipping and Inshore Waters forecasts, and Prayer For The Day.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/news</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142284'>
+        <BasicDescription>
+          <Title><![CDATA[Farming Today]]></Title>
+          <Synopsis length='short'><![CDATA[Agricultural news and features presented by Sarah Mukherhee.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.6.2'>
+            <Name><![CDATA[Nature/natural sciences]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.6.3'>
+            <Name><![CDATA[Animals/Wildlife]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.6.4'>
+            <Name><![CDATA[Environment/geography]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/news/farmingtoday/index.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:farming.today@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/FarmingToday'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142285'>
+        <BasicDescription>
+          <Title><![CDATA[Today]]></Title>
+          <Synopsis length='short'><![CDATA[With Sarah Montague and James Naughtie. Includes Sports Desk at 6.25am, 7.25am and 8.25am; Weather at 6.55am and 7.55am; Thought For The Day at 7.45am.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:Today@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/today</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Today'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142286'>
+        <BasicDescription>
+          <Title><![CDATA[Start The Week]]></Title>
+          <Synopsis length='short'><![CDATA[Andrew Marr and guests set the cultural agenda for the week.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/factual/starttheweek.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142287'>
+        <BasicDescription>
+          <Title><![CDATA[Book Of The Week]]></Title>
+          <Synopsis length='short'><![CDATA[Peacemakers: By Margaret MacMillan. Part 1, The Delegates: For the first six months of 1919 Paris effectively became the capital of the world.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Peacemakers
+
+By Margaret MacMillan, read by Jane Lapotaire. 
+
+Part 1, The Delegates:
+
+For the first six months of 1919 Paris effectively became the capital of the world as the heads of state of over 30 countries gathered to try and create a new world order in the wake of the first world war.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.1'>
+            <Name><![CDATA[General light drama]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/arts/book_of_the_week.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BookOfTheWeek'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142288'>
+        <BasicDescription>
+          <Title><![CDATA[Woman's Hour]]></Title>
+          <Synopsis length='short'><![CDATA[With Jenni Murray. Includes at 10.45am the drama Mary Hays In Love: Philippa Gregory introduces the love letters sent between Mary Hays and John Eccles.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[With Jenni Murray. Includes at 10.45am the drama Mary Hays In Love:
+
+Adapted for radio and introduced by Philippa Gregory.
+
+Part One
+
+Philippa Gregory introduces the love letters sent between the early feminist writer, Mary Hays, and her neighbour, John Eccles, in 1779. Mary and John are young, in love and forbidden to marry.
+
+Mary Hays ...... Poppy Miller
+John Eccles ...... Nick Fletcher
+
+director ...... Gaynor Macfarlane]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.1'>
+            <Name><![CDATA[General light drama]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:Womanshour@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/womanshour/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/WomansHour'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142289'>
+        <BasicDescription>
+          <Title><![CDATA[Mapping The Town]]></Title>
+          <Synopsis length='short'><![CDATA[Leeds: Julian Richards explores how Leeds found itself ideally placed to move from little more than a river crossing, to the boomtown of the cloth industry and the industrial revolution.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.5.3'>
+            <Name><![CDATA[History]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.4'>
+            <Name><![CDATA[Documentary]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142290'>
+        <BasicDescription>
+          <Title><![CDATA[Dr Finlay]]></Title>
+          <Synopsis length='short'><![CDATA[The Further Adventures Of A Black Bag. Miracle By Lestrange:  When new fangled Alternative Medicine hits Levenford, Finlay and Cameron find they are losing all their patients, even Janet.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[The Further Adventures Of A Black Bag
+
+A further yarn about Scotland's most celebrated doctor in Sue Rodwell's new dramatisation of AJ Cronin's comic stories.
+
+Miracle By Lestrange: When new fangled Alternative Medicine hits Levenford, Finlay and Cameron find they are losing all their patients, even Janet.
+
+Dr Finlay ...... John Gordon Sinclair
+Dr Cameron ...... Brian Pettifer
+Janet ...... Celia Imrie
+Lestrange ...... David Bamber
+Annie Grant ...... Claire Neilson]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.1'>
+            <Name><![CDATA[General light drama]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/comedy/drfinlay.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142291'>
+        <BasicDescription>
+          <Title><![CDATA[News]]></Title>
+          <Synopsis length='short'><![CDATA[The latest national and international news headlines from BBC Radio 4.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/news</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142292'>
+        <BasicDescription>
+          <Title><![CDATA[You And Yours]]></Title>
+          <Synopsis length='short'><![CDATA[Consumer news and discussion with John Waite and Winifred Robinson.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.3.26'>
+            <Name><![CDATA[Consumer advice]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2.4'>
+            <Name><![CDATA[Advice]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:youandyours@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/youandyours/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/YouAndYours'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142293'>
+        <BasicDescription>
+          <Title><![CDATA[The World At One]]></Title>
+          <Synopsis length='short'><![CDATA[National and international news from BBC Radio 4. With reports from our correspondents worldwide. Presented by Nick Clarke.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/wato</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/TheWorldAtOne'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142294'>
+        <BasicDescription>
+          <Title><![CDATA[Brain Of Britain 2002]]></Title>
+          <Synopsis length='short'><![CDATA[Chairman Robert Robinson presents the third semi-final, featuring contestants from the West and the North of England and Wales. .]]></Synopsis>
+          <Synopsis length='long'><![CDATA[A nationwide general knowledge contest in which listeners compete to become this year's Brain Of Britain.
+
+Chairman Robert Robinson presents the third semi-final, featuring contestants from the West and the North of England and Wales.
+
+The programme includes Beat The Brains in which listeners put their own questions to the contestants.
+
+.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.1'>
+            <Name><![CDATA[Game show]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/comedy/brain.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142296'>
+        <BasicDescription>
+          <Title><![CDATA[Afternoon Play]]></Title>
+          <Synopsis length='short'><![CDATA[Racer: By Kevin Fegan. A mix of poetry and interviews with riders and their families based on the famous Isle of Mann TT Races. The Racer is played by Paul McGann.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Racer: By Kevin Fegan
+
+A mix of poetry and interviews with riders and their families based on the famous Isle of Mann TT Races. An exciting, high speed journey seen through the eyes of a racer lapping the circuit. Evocatively named landmarks remind the racer of triumphs, accidents and more poignantly of the people he has loved. The Racer is played by Paul McGann.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.1'>
+            <Name><![CDATA[General light drama]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/arts/afternoonplay.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/AfternoonPlay'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142297'>
+        <BasicDescription>
+          <Title><![CDATA[Money Box Live]]></Title>
+          <Synopsis length='short'><![CDATA[Paul Lewis and guests takes listeners' calls on a topical issue affecting personal finance. Call in on 0870 010 0444 [national rates].]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.7'>
+            <Name><![CDATA[Economy/Market/Financial/Business]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/moneybox</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:moneybox@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142298'>
+        <BasicDescription>
+          <Title><![CDATA[The City]]></Title>
+          <Synopsis length='short'><![CDATA[By Hermann Hesse. A week of stories about cities and the experience of living in them begins with an archetypal fable of the birth and death of a city from Hesse's collection of fairy tales.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[By Hermann Hesse
+
+A week of stories about cities and the experience of living in them begins with an archetypal fable of the birth and death of a city from Hesse's collection of fairy tales, read by Andrew Hilton.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.1'>
+            <Name><![CDATA[General light drama]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142299'>
+        <BasicDescription>
+          <Title><![CDATA[Herbs: Pure And Simple]]></Title>
+          <Synopsis length='short'><![CDATA[The Cabbage Family: Jekka McVicar travels to the Cotswolds to find out more about herbs and reveals some practical herbal remedies. She is joined by chef Raymond Blanc.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Programme 1: The Cabbage Family
+
+Herb farmer Jekka McVicar travels to the Cotswolds to explore more about the magical world of herbs and reveal some practical herbal remedies. She is joined by world renowned chef Raymond Blanc.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.3.3'>
+            <Name><![CDATA[Gardening]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.3.2'>
+            <Name><![CDATA[Cookery]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/education/beyond/factsheets/herbs/herbs2_home.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142301'>
+        <BasicDescription>
+          <Title><![CDATA[Four Corners]]></Title>
+          <Synopsis length='short'><![CDATA[Gavin Esler and guests look behind the headlines to the international issues and cultures which shape the world.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/factual/fourcorners.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/FourCorners'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142302'>
+        <BasicDescription>
+          <Title><![CDATA[PM]]></Title>
+          <Synopsis length='short'><![CDATA[Full coverage and analysis of the day's news, plus the sports headlines. Presented by Clare English and Carolyn Quinn.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:pm@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/pm</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142303'>
+        <BasicDescription>
+          <Title><![CDATA[Six O'Clock News]]></Title>
+          <Synopsis length='short'><![CDATA[The latest national and international news from BBC Radio 4.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/news</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142304'>
+        <BasicDescription>
+          <Title><![CDATA[I'm Sorry I Haven't A Clue]]></Title>
+          <Synopsis length='short'><![CDATA[Humphrey Lyttelton hosts the inimitable antidote to panel games. Usual suspects Tim Brooke-Taylor, Graeme Garden and Barry Cryer are this week joined by Tony Hawks. .]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.11'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.7'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.1'>
+            <Name><![CDATA[Game show]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:imsorryihaventaclue@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/comedy/clue.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ImSorryIHaventAClue'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142305'>
+        <BasicDescription>
+          <Title><![CDATA[The Archers]]></Title>
+          <Synopsis length='short'><![CDATA[Chaba's feeling vulnerable.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.1'>
+            <Name><![CDATA[General light drama]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.2.1'>
+            <Name><![CDATA[Soap Opera]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2.1'>
+            <Name><![CDATA[Fictional portrayal of life]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:archers@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/archers/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/TheArchers'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142306'>
+        <BasicDescription>
+          <Title><![CDATA[Front Row]]></Title>
+          <Synopsis length='short'><![CDATA[Mark Lawson's guests include Barry Humphries, who discusses his memoir My Life As Me.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.4'>
+            <Name><![CDATA[Arts & Media]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.10'>
+            <Name><![CDATA[Cultural]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:frontrow@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/arts/frontrow.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/FrontRow'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142307'>
+        <BasicDescription>
+          <Title><![CDATA[Mary Hays In Love]]></Title>
+          <Synopsis length='short'><![CDATA[Philippa Gregory introduces the love letters sent between the early feminist writer, Mary Hays, and her neighbour, John Eccles, in 1779.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Part One
+
+Adapted for radio and introduced by Philippa Gregory.
+
+Philippa Gregory introduces the love letters sent between the early feminist writer, Mary Hays, and her neighbour, John Eccles, in 1779. Mary and John are young, in love and forbidden to marry.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.1'>
+            <Name><![CDATA[General light drama]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142308'>
+        <BasicDescription>
+          <Title><![CDATA[Rookie Reverends]]></Title>
+          <Synopsis length='short'><![CDATA[Alex Kirby meets the Church of England's new recruits. Carolyn Cooke and Liz Law are taking their first tentative steps into a demanding and sometimes hostile world.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[The second of two programmes in which Alex Kirby meets the Church of England's new recruits. Carolyn Cooke and Liz Law are taking their first tentative steps into a demanding and sometimes hostile world. How will they cope with funerals, weddings and the general pressures of parish life? Both women talk openly about ambition, faith, doubts and fears.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.4'>
+            <Name><![CDATA[Documentary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.2.1'>
+            <Name><![CDATA[Religion]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.8'>
+            <Name><![CDATA[ENRICHMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142310'>
+        <BasicDescription>
+          <Title><![CDATA[Animal Farm]]></Title>
+          <Synopsis length='short'><![CDATA[Sue Broom explores the future of farming. The focus is on salmon where increasing emphasis on quality, and the prospect of genetically engineered fish are the main concerns.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Sue Broom continues to look at the science behind the future of Britain's livestock production. This week the focus is salmon where increasing emphasis on quality, and the prospect of genetically engineered fish are the main concerns.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.4'>
+            <Name><![CDATA[Documentary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/science/animalfarm.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:radioscience@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142312'>
+        <BasicDescription>
+          <Title><![CDATA[The World Tonight]]></Title>
+          <Synopsis length='short'><![CDATA[Analysis of the day's national and international stories, including interviews with politicians and public figures.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:world.tonight@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/worldtonight</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142313'>
+        <BasicDescription>
+          <Title><![CDATA[Book At Bedtime]]></Title>
+          <Synopsis length='short'><![CDATA[Tiger In The Smoke: By Margery Allingham. Anton Lessor reads the evocative story of dangerous men in search of mysterious treasure in post war London. Tonight the Gaffer returns.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.1'>
+            <Name><![CDATA[General light drama]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/arts/readingand_shortstories.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BookAtBedtime'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257142315'>
+        <BasicDescription>
+          <Title><![CDATA[Today In Parliament]]></Title>
+          <Synopsis length='short'><![CDATA[A review of the day's events in Parliament.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.1'>
+            <Name><![CDATA[Political]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio4/news/todayinparl.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+    </ProgramInformationTable>
+  </ProgramDescription>
+</TVAMain>

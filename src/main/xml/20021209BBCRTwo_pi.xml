@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<TVAMain xmlns='urn:tva:metadata:2002' xmlns:mpeg7='urn:mpeg:mpeg7:schema:2001' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='urn:tva:metadata:2002 I:\tv-anytime\Specifications\COR1_SP003v13\tva_metadata_v13.xsd'>
+  <!--Use of this BBC data for non-TV-Anytime purposes is strictly forbidden.-->
+  <ProgramDescription>
+    <ProgramInformationTable>
+      <ProgramInformation programId='crid://bbc.co.uk/3257011247'>
+        <BasicDescription>
+          <Title><![CDATA[Janice Long]]></Title>
+          <Synopsis length='short'><![CDATA[Janice provides a mellow mix of music and chat to take you through the night. Includes Pause For Thought at 1.30am.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.4.1'>
+            <Name><![CDATA[Pop]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:janice.long@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio2/shows/janicel_show/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257011248'>
+        <BasicDescription>
+          <Title><![CDATA[Mo Dutta]]></Title>
+          <Synopsis length='short'><![CDATA[Mo's magical music mix plus the usual banter make early mornings the best time of your day! Includes Pause For Thought at 3.30am with Mal Pope.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.4.1'>
+            <Name><![CDATA[Pop]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:mo@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio2/shows/mod_show/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257011251'>
+        <BasicDescription>
+          <Title><![CDATA[Ken Bruce]]></Title>
+          <Synopsis length='short'><![CDATA[Badly Drawn Boy has the single of the week, and the album of the week comes from Culture Club. Plus Martine McCutcheon chooses some of her favourite records in The Tracks Of My Years.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.4.1'>
+            <Name><![CDATA[Pop]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:ken.bruce@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio2/shows/ken_bruce/index.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257011252'>
+        <BasicDescription>
+          <Title><![CDATA[Jimmy Young]]></Title>
+          <Synopsis length='short'><![CDATA[Jimmy talks to Tim Llewellyn, Former BBC Middle East Correspondent, who recently visited Babhdad. Phone the Comment Line free on 0500 288291 or the Question Line free on 0800 022022.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.4.1'>
+            <Name><![CDATA[Pop]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:jimmyyoung@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio2/shows/jimmy_young/index.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257011253'>
+        <BasicDescription>
+          <Title><![CDATA[Steve Wright In The Afternoon]]></Title>
+          <Synopsis length='short'><![CDATA[Steve gives you a chance to test your knowledge in The Big Quiz and Jonathan Cainer has your astrological forecasts.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.4.1'>
+            <Name><![CDATA[Pop]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:steve.wright@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio2/shows/steve_wright/index.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257011254'>
+        <BasicDescription>
+          <Title><![CDATA[Johnnie Walker]]></Title>
+          <Synopsis length='short'><![CDATA[Tonight's guest is author Margaret Cook, ex-wife of Robin. Featuring sport, business news, views, music, the Mystery Voice competition and regular travel updates.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.4.1'>
+            <Name><![CDATA[Pop]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:jw@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio2/shows/johnnie_walker/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257011255'>
+        <BasicDescription>
+          <Title><![CDATA[Album Chart Show With Simon Mayo]]></Title>
+          <Synopsis length='short'><![CDATA[Simon Mayo with the official Top 20 album chart rundown, plus interviews and previews of new releases. Simon chats to one time Pop Idol contestant Darius.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.4.1'>
+            <Name><![CDATA[Pop]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio2/shows/album_show/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257011256'>
+        <BasicDescription>
+          <Title><![CDATA[Best Of Jazz]]></Title>
+          <Synopsis length='short'><![CDATA[Humphry Lyttelton presents a selection of jazz. From traditional to modern, bebop to big band.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.2'>
+            <Name><![CDATA[Jazz]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:thebestofjazz@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio2/shows/best_of_jazz_show/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257011257'>
+        <BasicDescription>
+          <Title><![CDATA[The Phil Collins Big Band Bash]]></Title>
+          <Synopsis length='short'><![CDATA[Phil Collins presents the series focusing on big bands. This sixth programme looks at how big band has borrowed from pop and vice versa.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Following the success of the Sony Nominated 3rd series, Phil Collins continues his exploration of some of the Best of Modern Big Band Jazz.  
+
+Phil's interest in the Big Band sound started in childhood but took on a new life when he put a big band together and took it on tour in the UK four years ago. Since then he has grown in confidence as a performer and expert recording an album of his own material and performing throughout Europe as well as presenting for Radio 2. With his unique combination of musical knowledge, relaxed presentation, a massive variety of music and personal enthusiasm Phil Collins presents listeners - jazz aficionados and new comers to Big Band - with some of the best of the genre with the authority and warmth which his audience has grown to love. 
+
+Programme six:
+What happens when pop and jazz collide? Some fantastic Big band! Phil Collins looks at how Big Band has borrowed from the popular music and visa versa. Featuring some extraordinary versions of Beatles and Stones hits including the psychedelic strains of I Am the Walrus, Big Band Style from Colin Towns Mask Orchestra, and Paint it Black from the Fraser Myers Big Band. Plus: Bill Wyman being Nina Simone. 
+
+Writer/ Researcher: Richard Willcox]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.2'>
+            <Name><![CDATA[Jazz]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257011258'>
+        <BasicDescription>
+          <Title><![CDATA[Big Band Special]]></Title>
+          <Synopsis length='short'><![CDATA[Stacey Kent presents the second part of a concert at the Cliff's Pavilion featuring the BBC Big Band, conducted by Barrie Forgie, with guest singer Carole Kidd.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.2'>
+            <Name><![CDATA[Jazz]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:bbcbigband@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio2/shows/big_band_show/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257011259'>
+        <BasicDescription>
+          <Title><![CDATA[Richard Allinson]]></Title>
+          <Synopsis length='short'><![CDATA[Classic hits from five decades of rock and pop. From the Four Tops to Macy Gray, Steely Dan to the Stones. Tonight Richard talks to Marti Pellow.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.4.1'>
+            <Name><![CDATA[Pop]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:richard.allinson@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio2/shows/richarda_show/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+    </ProgramInformationTable>
+  </ProgramDescription>
+</TVAMain>

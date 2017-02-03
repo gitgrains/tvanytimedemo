@@ -1,0 +1,576 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<TVAMain xmlns='urn:tva:metadata:2002' xmlns:mpeg7='urn:mpeg:mpeg7:schema:2001' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='urn:tva:metadata:2002 I:\tv-anytime\Specifications\COR1_SP003v13\tva_metadata_v13.xsd'>
+  <!--Use of this BBC data for non-TV-Anytime purposes is strictly forbidden.-->
+  <ProgramDescription>
+    <ProgramInformationTable>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075077'>
+        <BasicDescription>
+          <Title><![CDATA[Morning On 3]]></Title>
+          <Synopsis length='short'><![CDATA[Penny Gore plays Faure's Dolly Suite, Beethoven's String Trio, Op 9 No 3, Nielsen's Rhapsody Overture, Mozart's Regina coeli, Wagner's Parsifal and Mendelssohn's Elijah.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Presented by Penny Gore
+
+6.10am
+Faur� orch. Rabaud: Dolly Suite
+Orchestre de Paris
+Serge Baudo (conductor)
+
+6.30am
+Beethoven: String Trio in C minor, Op.9 No.3
+Itzhak Perlman (violin)
+Pinchas Zuckerman (viola)
+Lynn Harrell (cello)
+
+7.00am
+Nielsen: Rhapsodic Overture - A Fantasy Journey to the Faroes
+Gothenburg Symphony Orchestra
+Neeme J�rvi (conductor)
+
+7.40am
+Mozart: Regina Coeli
+Barbara Bonney (soprano)
+Arnold Schoenberg Choir
+Nikolaus Harnoncourt (conductor)
+
+8.00am
+Wagner: Prelude to Parsifal, Act 1
+Amsterdam Concertgebouw Orchestra
+Bernard Haitink (conductor)
+
+8.40am
+Mendelssohn: Elijah - Finale, Part 2
+Alastair Miles (bass),
+Helen Donath (soprano)
+Jard van Nes (alto)
+Donald George (tenor)
+Arnold Schoenberg Choir
+Israel Philharmonic Orchestra
+Kurt Masur (conductor)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:morningon3@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/mon3.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075078'>
+        <BasicDescription>
+          <Title><![CDATA[Composer Of The Week]]></Title>
+          <Synopsis length='short'><![CDATA[Today's look at the versatile pianist Billy Mayerl includes the pieces Busybody, Jack in the Box, Sleepy Piano, What You Going To Do, Sennen Cove, Marigold, Chopsticks, Robots and Honky-Tonk.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Billy Mayerl (1902 to 1959)
+
+The Versatile Celebrity: In today's programme, which includes Billy Mayerl's biggest hit, Donald Macleod is joined by Mayerl's biographer Professor Peter Dickinson.  
+
+Busybody
+Lansdowne Light Orchestra/Billy Mayerl
+
+Jack in the Box
+Sleepy Piano
+Billy Mayerl (piano)
+
+Oriental
+Eric Parkin (piano)
+
+Three Japanese Pictures
+BBC Concert Orchestra/Roderick Dunk
+
+What You Going To Do?
+Pick up the Rhythm
+Alison Taffs (mezzo-soprano)
+Alex Hassan (piano)
+
+Sennen Cove
+BBC Concert Orchestra
+Roderick Dunk
+
+Marigold
+Chopsticks
+Billy Mayerl (piano)
+
+Robots
+Eric Parkin (piano)
+
+Honky-Tonk
+Billy Mayerl (piano)
+Katia & Marielle Labeque (piano)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.4'>
+            <Name><![CDATA[Arts & Media]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/cotw.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ComposerOfTheWeek'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075079'>
+        <BasicDescription>
+          <Title><![CDATA[CD Masters]]></Title>
+          <Synopsis length='short'><![CDATA[Rob Cowan plays Chabrier's Bourree fantasque, Prokofiev's Piano Sonata No 3, Brahms' Sextet No 1, Prokofiev's Piano Sonata No 5,  Dix's The Trumpeter and Purcell's Dioclesian.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[With Rob Cowan
+
+Chabrier orch. Mottl: Bourr�e fantasque 
+Detroit Symphony Orchestra
+Paul Paray (conductor)
+
+Prokofiev: Piano Sonata No. 3, Op. 28
+Alexis Weissenberg (piano)
+
+Brahms: Sextet No. 1 in B flat major, Op. 18
+Yehudi Menuhin and Robert Masters (violins)
+Cecil Aronowitz and Ernst Wallfisch (violas)
+Maurice Gendron and Derek Simpson (cellos)
+
+Prokofiev: Piano Sonata No. 5, Op. 38
+Barbara Nissman (piano)
+
+Dix: The Trumpeter
+Peter Dawson (bass-baritone)
+Unnamed Orchestra & Conductor
+
+Purcell: Suite of instrumental music from Dioclesian
+Concentus Musicus
+Nikolaus Harnoncourt]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/cdmasters.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075080'>
+        <BasicDescription>
+          <Title><![CDATA[Morning Performance]]></Title>
+          <Synopsis length='short'><![CDATA[Bath Mozartfest 2002: The second of five programmes from the annual celebration of Mozart's music in Bath. Pieces include Mozart's Duo in B flat for violin and viola.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Bath Mozartfest 2002
+
+Stephanie Hughes presents the first of this week's programmes from the annual celebration of Mozart's music in Bath.  Music includes Mozart's String Quintet in E flat played by the Vienna Sextet and Schumann's Andante & Variations played by the pianists Peter Donohoe and Martin Roscoe.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:morning.performance@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/morningp.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075081'>
+        <BasicDescription>
+          <Title><![CDATA[Lunchtime Concert]]></Title>
+          <Synopsis length='short'><![CDATA[The English Cornett and Sackbut Ensemble, with Robert Howarth on keyboards play music for brass from the Italian Renaissance, with works by Giovanni Gabrieli, Banchieri and Palestrina.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Nicola Heywood-Thomas introduces the last in a series of BBC concerts recorded in Cardiff Castle's lavish Banqueting Hall. Today's concert features music for brass from the Italian Renaissance including works by Giovanni Gabrieli, Banchieri and Palestrina.
+
+English Cornett and Sackbut Ensemble
+Robert Howarth (director, keyboards)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/r3lunch.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:lunchtime.concert@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075082'>
+        <BasicDescription>
+          <Title><![CDATA[BBC Orchestras]]></Title>
+          <Synopsis length='short'><![CDATA[The BBC Philharmonic led by Edward Downes, with soprano Anne Evans and bassist John Tomlinson play Wagner's Gotterdammerung, Die Meistersinger von Nurnberg, Tristan und Isolde and Die Walkure.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[BBC Philharmonic: Great Orchestrators
+
+With Wagner, the orchestra made a quantum leap from a few dozen to nearly a hundred players. The BBC Philharmonic draws on all its resources, not least the conductor Sir Edward Downes, for a concert of Wagner's most memorable music. 
+Presented by Sandy Burnett. 
+
+Wagner: Dawn & Siegfrieds Rhine Journey from "G�tterd�mmerung"
+Fliedermonolog from "Die Meistersinger von Nurnberg"
+Prelude & Liebestod from "Tristan und Isolde"
+The Ride of the Valkyries & Closing Scene from "Die Walk�re"
+Sir Edward Downes (conductor)
+Anne Evans (soprano)
+John Tomlinson (bass)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:bbc.orchestras@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/bbcorchestras.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075083'>
+        <BasicDescription>
+          <Title><![CDATA[Making Tracks]]></Title>
+          <Synopsis length='short'><![CDATA[Music for younger listeners presented by CBBC's Angellica Bell and Adrian Dickson.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5'>
+            <Name><![CDATA[AMUSEMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6'>
+            <Name><![CDATA[MUSIC]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/makingtracks/index.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075084'>
+        <BasicDescription>
+          <Title><![CDATA[Voices]]></Title>
+          <Synopsis length='short'><![CDATA[Hugo Wolf: Eichendorff Lieder. A recital by tenor Mark Padmore and pianist Julius Drake of some of Wolf's settings of the poems of Joseph von Eichendorff.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Leading up to the centenary of the death of Hugo Wolf in February 2003, Voices will be recording the bulk of his prodigious song output. To launch this project Iain Burnside presents a specially recorded recital of some of Wolf's settings of the poems of Joseph von Eichendorff. 
+
+Hugo Wolf: Eichendorff-Lieder
+Mark Padmore (tenor)
+Julius Drake (piano)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:voices@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/voices.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075085'>
+        <BasicDescription>
+          <Title><![CDATA[In Tune]]></Title>
+          <Synopsis length='short'><![CDATA[Sean Rafferty presents a selection of music, plus news from the arts world. Email: in.tune@bbc.co.uk]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.10'>
+            <Name><![CDATA[Cultural]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:in.tune@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/intune.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/InTune'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075086'>
+        <BasicDescription>
+          <Title><![CDATA[Performance On 3]]></Title>
+          <Synopsis length='short'><![CDATA[Helen Huang on piano, and the London Philharmonic led by Kurt Masur perform Mozart's Piano Concerto No 23 in A, K488 and Bruckner's Symphony No 7 in E.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Kurt Masur At 75
+
+Sandy Burnett presents the second of three concerts given in the Royal Festival Hall in London by the London Philharmonic under their Principal Conductor, 75 this year. Tonight they perform one of Mozart's most exquisite piano concertos - for which they are joined by 19-year-old pianist Japanese-American pianist Helen Huang, alongside Bruckner's monumental Seventh Symphony.
+
+Mozart: Piano Concerto No 23 in A, K488
+
+Bruckner: Symphony No 7 in E
+
+Helen Huang (piano)
+London Philharmonic Orchestra
+Kurt Masur (conductor)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:performance.on.3@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/pon3.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PerformanceOn3'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075087'>
+        <BasicDescription>
+          <Title><![CDATA[Night Waves]]></Title>
+          <Synopsis length='short'><![CDATA[Richard Coles and guests discuss Woody Allen's new film and review a new exhibition of work by Albrecht Durer.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Richard Coles and guests discuss the latest Woody Allen film The Curse of the Jade Scorpion and explore a new exhibition of work by Albrecht Durer, perhaps the greatest German artist of the Renaissance era.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.4'>
+            <Name><![CDATA[Arts & Media]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:night.waves@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/speech/nightwaves.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/NightWaves'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075088'>
+        <BasicDescription>
+          <Title><![CDATA[Late Junction]]></Title>
+          <Synopsis length='short'><![CDATA[Verity Sharp introduces a selection of music from around the globe, including the Roots Stew album from Errol Linton's Blues Vibe.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.13'>
+            <Name><![CDATA[Cutting edge]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.28'>
+            <Name><![CDATA[Innovative]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1.4'>
+            <Name><![CDATA[Contemporary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:late.junction@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/world/latejunction.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LateJunction'/>
+      </ProgramInformation>
+    </ProgramInformationTable>
+  </ProgramDescription>
+</TVAMain>

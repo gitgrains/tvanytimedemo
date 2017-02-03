@@ -1,0 +1,1488 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<TVAMain xmlns='urn:tva:metadata:2002' xmlns:mpeg7='urn:mpeg:mpeg7:schema:2001' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='urn:tva:metadata:2002 I:\tv-anytime\Specifications\COR1_SP003v13\tva_metadata_v13.xsd'>
+  <!--Use of this BBC data for non-TV-Anytime purposes is strictly forbidden.-->
+  <ProgramDescription>
+    <ProgramInformationTable>
+      <ProgramInformation programId='crid://bbc.co.uk/276789476'>
+        <BasicDescription>
+          <Title><![CDATA[The Disappearing Act]]></Title>
+          <Synopsis length='short'><![CDATA[Remarkable true story about a mother's investigation into her son's disappearance after he has a tempestuous affair with a successful career woman. Stars Patty Duke and Robert Floyd. W/S. [1998]]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4'>
+            <Name><![CDATA[FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/films</mpeg7:MediaUri>
+            </MediaLocator>
+            <PromotionalText><![CDATA[ ]]></PromotionalText>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789477'>
+        <BasicDescription>
+          <Title><![CDATA[Skiing Weather]]></Title>
+          <Synopsis length='short'><![CDATA[A detailed weather forecast focusing on ski resorts.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/weather</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:weather@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789478'>
+        <BasicDescription>
+          <Title><![CDATA[BBC News 24]]></Title>
+          <Synopsis length='short'><![CDATA[BBC ONE joins the BBC's rolling news channel for a night of news, with bulletins on the hour and the headlines every 15 minutes.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/news</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:news24.comments@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789814'>
+        <BasicDescription>
+          <Title><![CDATA[Breakfast]]></Title>
+          <Synopsis length='short'><![CDATA[Start your day with all the latest news, sport, business and weather from the BBC's Breakfast team. Includes regional news at 25 and 55 minutes past each hour.]]></Synopsis>
+          <PromotionalInformation><![CDATA[SMS: 07736 100 100 (usual charges apply)]]></PromotionalInformation>
+          <PromotionalInformation><![CDATA[Tel: 08707 87 87 87 (usual charges apply)]]></PromotionalInformation>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:breakfastTV@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/breakfast</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Breakfast'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789815'>
+        <BasicDescription>
+          <Title><![CDATA[Kilroy]]></Title>
+          <Synopsis length='short'><![CDATA[Robert Kilroy-Silk hosts topical debate and discussion with his studio audience. Followed by BBC News and Weather.]]></Synopsis>
+          <PromotionalInformation><![CDATA[Tel: 08705 100 771 [National Rate]]]></PromotionalInformation>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:kilroy@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Kilroy'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789816'>
+        <BasicDescription>
+          <Title><![CDATA[Ruby]]></Title>
+          <Synopsis length='short'><![CDATA[A lively mix of celebrity chat, audience discussion and studio mayhem with Ruby Wax. W/S. Then News and Weather.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/ruby</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789817'>
+        <BasicDescription>
+          <Title><![CDATA[Big Strong Boys]]></Title>
+          <Synopsis length='short'><![CDATA[Warfield Split Bedroom: If you're living in a decorating disaster zone, then the interior design cavalry are here! Jake Robinson and Gavin Lowe tackle DIY incompetence head on.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.3.1'>
+            <Name><![CDATA[Do-it-yourself]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.3.20'>
+            <Name><![CDATA[Life/ House Keeping/Lifestyle]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/homes/bigstrongboys/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BigStrongBoys'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789818'>
+        <BasicDescription>
+          <Title><![CDATA[Trading Up]]></Title>
+          <Synopsis length='short'><![CDATA[Edgbaston: Design duo Colin McAllister and Justin Ryan are on the hunt for a home in Edgbaston for today's buyer. W/S. Followed by BBC News and Weather.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.3.1'>
+            <Name><![CDATA[Do-it-yourself]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.3.20'>
+            <Name><![CDATA[Life/ House Keeping/Lifestyle]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/tradingup/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:tradingup@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/TradingUp'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789819'>
+        <BasicDescription>
+          <Title><![CDATA[Cash In The Attic]]></Title>
+          <Synopsis length='short'><![CDATA[Sharples: Bill, a retired serviceman, has collected antiques for years. He now wants to move to a smaller home, so calls in the team to auction his treasures to raise �3000 for his new kitchen.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.3.26'>
+            <Name><![CDATA[Consumer advice]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2.4'>
+            <Name><![CDATA[Advice]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/antiques/cashintheattic/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/CashInTheAttic'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789820'>
+        <BasicDescription>
+          <Title><![CDATA[Wipeout]]></Title>
+          <Synopsis length='short'><![CDATA[Bob Monkhouse hosts the humorous general knowledge quiz where if you know the subject it's easy but if you don't, wipeout awaits.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.1'>
+            <Name><![CDATA[Game show]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.11'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.7'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/games/quizzes/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Wipeout'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789821'>
+        <BasicDescription>
+          <Title><![CDATA[BBC News]]></Title>
+          <Synopsis length='short'><![CDATA[The latest national and international news from the BBC this lunchtime, including Weather.]]></Synopsis>
+          <Keyword type='main'><![CDATA[News]]></Keyword>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.15'>
+            <Name><![CDATA[Public Affairs]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.16'>
+            <Name><![CDATA[Current affairs]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.6'>
+            <Name><![CDATA[National politics/National Assembly]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.8'>
+            <Name><![CDATA[Foreign/International]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/news</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BbcNews'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789822'>
+        <BasicDescription>
+          <Title><![CDATA[BBC London News]]></Title>
+          <Synopsis length='short'><![CDATA[The latest stories from the BBC London newsroom.]]></Synopsis>
+          <Keyword type='main'><![CDATA[London]]></Keyword>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.11'>
+            <Name><![CDATA[Local/regional]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.16'>
+            <Name><![CDATA[Current affairs]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.15'>
+            <Name><![CDATA[Public Affairs]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.12'>
+            <Name><![CDATA[Traffic]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/london</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BbcLondonNews'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789823'>
+        <BasicDescription>
+          <Title><![CDATA[Neighbours]]></Title>
+          <Synopsis length='short'><![CDATA[Tahnee continues to blackmail Nina, Michelle defies her parents and Summer goes to extremes to impress Max.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.2.1'>
+            <Name><![CDATA[Soap Opera]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2.1'>
+            <Name><![CDATA[Fictional portrayal of life]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/neighbours</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789824'>
+        <BasicDescription>
+          <Title><![CDATA[Diagnosis Murder]]></Title>
+          <Synopsis length='short'><![CDATA[Jake's Women: A bigamist is shot dead. The man's two wives are the prime suspects for the murder, but Dr Sloan soon discovers that there could have been other motives.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.1'>
+            <Name><![CDATA[General light drama]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/drama/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789825'>
+        <BasicDescription>
+          <Title><![CDATA[As Time Goes By]]></Title>
+          <Synopsis length='short'><![CDATA[Jean meets Lionel's father, an eccentric character with some rather surprising news.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.11'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.7'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/comedy</mpeg7:MediaUri>
+            </MediaLocator>
+            <PromotionalText><![CDATA[ ]]></PromotionalText>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>4:3</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789826'>
+        <BasicDescription>
+          <Title><![CDATA[Fimbles]]></Title>
+          <Synopsis length='short'><![CDATA[CBeebies. Furry Material: Florrie finds something furry, and before long there is a Pom-cat in Fimble Valley, along with a very funny, very tickly, kitten!]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1.1'>
+            <Name><![CDATA[age 4-7]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbeebies/fimbles</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:CBeebies@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Fimbles'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789827'>
+        <BasicDescription>
+          <Title><![CDATA[Woody Woodpecker]]></Title>
+          <Synopsis length='short'><![CDATA[CBBC. Woody's Ship of Fools/Bad Hair Day/Downsized Woody: More fun and hilarity with Woody Woodpecker and his pals Ms Meany, Wally Walrus, Buzz Buzzard, Chilly Willy and Winnie Woodpecker.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4'>
+            <Name><![CDATA[FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.3'>
+            <Name><![CDATA[CARTOON/ANIMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbbc/cartoons</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:cbbc@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbbc/cartoons/woody/index.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789828'>
+        <BasicDescription>
+          <Title><![CDATA[Mona The Vampire]]></Title>
+          <Synopsis length='short'><![CDATA[CBBC. The Baby Charmer: Mona is a ten year old girl who revels in the icky and eerie - when there's a ghoulish mystery to be solved she becomes Mona The Vampire!]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4'>
+            <Name><![CDATA[FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.3'>
+            <Name><![CDATA[CARTOON/ANIMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbbc/cartoons</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:cbbc@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/MonaTheVampire'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789829'>
+        <BasicDescription>
+          <Title><![CDATA[Basil Brush]]></Title>
+          <Synopsis length='short'><![CDATA[CBBC. Going For Broke: The famous Fox On The Box returns in his new comedy show with friends Molly and Dave and their hapless young uncle, Stephen.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.7'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbbc/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:cbbc@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789830'>
+        <BasicDescription>
+          <Title><![CDATA[Rugrats]]></Title>
+          <Synopsis length='short'><![CDATA[CBBC. And The Winner Is: Animated adventures in the world according to Tommy Pickles and his crew of toddling chums.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4'>
+            <Name><![CDATA[FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.3'>
+            <Name><![CDATA[CARTOON/ANIMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.7'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbbc/cartoons</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:cbbc@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789832'>
+        <BasicDescription>
+          <Title><![CDATA[Blue Peter]]></Title>
+          <Synopsis length='short'><![CDATA[CBBC. The team reveals the Junior Sports Personality of the Year nominees. Cabbages and prizes are at the ready for another round of Double or Drop and it's the penultimate episode of The Quest.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3'>
+            <Name><![CDATA[General non-fiction]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.1.1'>
+            <Name><![CDATA[Primary]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:bluepeter@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/bluepeter</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789831'>
+        <BasicDescription>
+          <Title><![CDATA[CBBC At The Fame Academy]]></Title>
+          <Synopsis length='short'><![CDATA[CBBC. Catch up with latest news and gossip from the Academy.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.1'>
+            <Name><![CDATA[Game show]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.4.1'>
+            <Name><![CDATA[Pop]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbbc</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:fameacademy.cbbc@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789833'>
+        <BasicDescription>
+          <Title><![CDATA[Newsround]]></Title>
+          <Synopsis length='short'><![CDATA[CBBC. Daily news magazine keeping you up to date on the latest stories and events happening at home and abroad.]]></Synopsis>
+          <PromotionalInformation><![CDATA[SMS: 07736 22 22 55 (usual rates apply)]]></PromotionalInformation>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3'>
+            <Name><![CDATA[General non-fiction]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3.1.1'>
+            <Name><![CDATA[Primary]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/newsround</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:newsround@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Newsround'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789835'>
+        <BasicDescription>
+          <Title><![CDATA[BBC News]]></Title>
+          <Synopsis length='short'><![CDATA[The latest national and international news from the BBC. Includes a weather summary.]]></Synopsis>
+          <Keyword type='main'><![CDATA[News]]></Keyword>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.15'>
+            <Name><![CDATA[Public Affairs]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.16'>
+            <Name><![CDATA[Current affairs]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.6'>
+            <Name><![CDATA[National politics/National Assembly]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.8'>
+            <Name><![CDATA[Foreign/International]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/news</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BbcNews'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789836'>
+        <BasicDescription>
+          <Title><![CDATA[BBC London News]]></Title>
+          <Synopsis length='short'><![CDATA[The latest stories from the BBC London newsroom. Followed by the national headlines and Weather.]]></Synopsis>
+          <Keyword type='main'><![CDATA[London]]></Keyword>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.11'>
+            <Name><![CDATA[Local/regional]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.16'>
+            <Name><![CDATA[Current affairs]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.15'>
+            <Name><![CDATA[Public Affairs]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.12'>
+            <Name><![CDATA[Traffic]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/london</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BbcLondonNews'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789837'>
+        <BasicDescription>
+          <Title><![CDATA[A Question Of Sport]]></Title>
+          <Synopsis length='short'><![CDATA[Sports quiz hosted by Sue Barker, with team captains Ally McCoist and John Parrott. With special guests Matt Le Tissier, Nigel Benn, Ilie Nastase and Paula Radcliffe.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Sue Barker has the questions which Ally McCoist and Frankie Dettori will be seeking to answer, alongside four of the biggest names in sport.
+
+On this evening's programme, Frankie teams up with the former Southampton and England footballer, Matt Le Tissier, and boxer Nigel Benn, the former world middleweight champion.
+
+Joining Ally is one of the most gifted tennis players of all time who won the French and US Open titles, Ilie Nastase, and the British long-distance athlete who has enjoyed an incredible year, racing to Commonwealth, European and World titles as well as the marathon world record - Paula Radcliffe.
+
+A special talent, Matt Le Tissier made over 400 appearances for Southampton and scored more than 200 memorable goals.
+
+Nigel Benn was the WBC Super Middleweight Champion and WBO Middleweight Champion of the world. 
+
+Romanian tennis star Ilie Nastase was the first player to be ranked number 1 on the ATP tour back in 1973. He won the US Open in 1972 and the French Open in 1973. Often controversial and flamboyant, Nastase played to an adoring crowd at Wimbledon, where he twice finished runner-up in the Men's Singles.
+
+In sporting terms, 2002 belongs to athlete Paula Radcliffe. She won the Commonwealth Games 5000m gold medal, the European Championships 10,000m title, the London and Chicago Marathons (the latter in a world record time), and the World Cross-country title.]]></Synopsis>
+          <PromotionalInformation><![CDATA[BBC Video: 30 Years of a Question of Sport]]></PromotionalInformation>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.2'>
+            <Name><![CDATA[SPORTS]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.1'>
+            <Name><![CDATA[Game show]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/questionofsport</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:question.of.sport@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/AQuestionOfSport'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789838'>
+        <BasicDescription>
+          <Title><![CDATA[Top Of The Pops]]></Title>
+          <Synopsis length='short'><![CDATA[Big hits from the cream of the pop crop, with performances from Daniel Bedingfield, Atomic Kitten, Darius, Anastacia, Scooter, Alicia Keys, Ronan Keating and Lulu, and Enrique Iglesias.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.4.1'>
+            <Name><![CDATA[Pop]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/totp/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:totp@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/TopOfThePops'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789839'>
+        <BasicDescription>
+          <Title><![CDATA[EastEnders]]></Title>
+          <Synopsis length='short'><![CDATA[Laura is relieved when Ian finally accepts her pregnancy, Sonia gets some upsetting news from DCI Marsden, while Kat and Anthony become too close for comfort.]]></Synopsis>
+          <Keyword type='main'><![CDATA[soap]]></Keyword>
+          <Keyword type='main'><![CDATA[London]]></Keyword>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.21'>
+            <Name><![CDATA[Gritty]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.1'>
+            <Name><![CDATA[General light drama]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.1'>
+            <Name><![CDATA[GENERAL AUDIENCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.2'>
+            <Name><![CDATA[Soap]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.15'>
+            <Name><![CDATA[Contemporary drama]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.20'>
+            <Name><![CDATA[Gripping]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.22'>
+            <Name><![CDATA[Gutsy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.11'>
+            <Name><![CDATA[Contemporary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1.1'>
+            <Name><![CDATA[Pure entertainment]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.2.1'>
+            <Name><![CDATA[Soap Opera]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2.1'>
+            <Name><![CDATA[Fictional portrayal of life]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/eastenders/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:eastenders@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/eastenders</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Eastenders'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789840'>
+        <BasicDescription>
+          <Title><![CDATA[Fame Academy]]></Title>
+          <Synopsis length='short'><![CDATA[With only four students remaining, the pressure is on and the prize is within close reach. Who will impress the public? Who will impress the teachers? And who will get through to the final?]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.1'>
+            <Name><![CDATA[Game show]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.4.1'>
+            <Name><![CDATA[Pop]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/fameacademy/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:fameacademy@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/cbbc</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:fameacademy.cbbc@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789841'>
+        <BasicDescription>
+          <Title><![CDATA[Have I Got News For You]]></Title>
+          <Synopsis length='short'><![CDATA[Another exciting round of the topical news quiz with prince of the put-down Ian Hislop and joker of the pack Paul Merton, plus special guest, Janet Street Porter.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.1'>
+            <Name><![CDATA[Game show]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.7'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1.1'>
+            <Name><![CDATA[Pure entertainment]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.16'>
+            <Name><![CDATA[Current affairs]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.4.2.1'>
+            <Name><![CDATA[Simple Game show]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.2'>
+            <Name><![CDATA[Quiz/Contest]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.5'>
+            <Name><![CDATA[Periodical/General]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.27'>
+            <Name><![CDATA[Humorous]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.19'>
+            <Name><![CDATA[Fun]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.11'>
+            <Name><![CDATA[Contemporary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.34'>
+            <Name><![CDATA[Outrageous]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.7.2'>
+            <Name><![CDATA[Society/show business/Gossip]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.3.1'>
+            <Name><![CDATA[Political]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.11'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1'>
+            <Name><![CDATA[STRUCTURED]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <CreditsList/>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/comedy</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/HaveIGotNewsForYou'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789842'>
+        <BasicDescription>
+          <Title><![CDATA[BBC News At Ten O'Clock]]></Title>
+          <Synopsis length='short'><![CDATA[National and international news, with reports from BBC correspondents worldwide.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/news</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BbcNewsAtTenOclock'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789843'>
+        <BasicDescription>
+          <Title><![CDATA[BBC London News]]></Title>
+          <Synopsis length='short'><![CDATA[The latest stories from the BBC London newsroom.]]></Synopsis>
+          <Keyword type='main'><![CDATA[London]]></Keyword>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.1'>
+            <Name><![CDATA[Daily news]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.13'>
+            <Name><![CDATA[Weather forecasts]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.1'>
+            <Name><![CDATA[Bulletin]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.2'>
+            <Name><![CDATA[INFORMATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.11'>
+            <Name><![CDATA[Local/regional]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.16'>
+            <Name><![CDATA[Current affairs]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.15'>
+            <Name><![CDATA[Public Affairs]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.12'>
+            <Name><![CDATA[Traffic]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/london</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BbcLondonNews'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789844'>
+        <BasicDescription>
+          <Title><![CDATA[Friday Night With Jonathan Ross]]></Title>
+          <Synopsis length='short'><![CDATA[Jonathan provides his quirky take on the week's news stories and chats with his guests David Attenborough, John McEnroe, Laurence Llewellyn Bowen, Melinda Messenger and Supergrass.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.11'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5.7'>
+            <Name><![CDATA[Comedy]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/entertainment/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/FridayNightWithJonathanRoss'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/276789845'>
+        <BasicDescription>
+          <Title><![CDATA[Switchback]]></Title>
+          <Synopsis length='short'><![CDATA[Tense thriller starring Dennis Quaid as an FBI agent hot on the tail of the man who kidnapped his son. Also stars Danny Glover and Jared Leto.  Contains strong language and violence. W/S. [1997]]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Relentless FBI agent Frank LaCrosse has spent a year pursuing a serial killer who has kidnapped his son. Against the bureau's wishes, he vows to continue his deadly manhunt. When a series of murders occurs in his district, Sheriff Buck Olmstead find himself torn between winning re-election and helping LaCrosse stay on the trail of the killer. Their attention is focused on the tracks of a former railroad man and a mysterious young hitchhiker, one of whom may hold the secret of their search.
+
+Stars Dennis Quaid, Danny Glover and Jared Leto. [1997]]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4'>
+            <Name><![CDATA[FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <CaptionLanguage closed='true'>EN-UK</CaptionLanguage>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/films/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+          <VideoAttributes>
+            <AspectRatio>16:9</AspectRatio>
+          </VideoAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+    </ProgramInformationTable>
+  </ProgramDescription>
+</TVAMain>

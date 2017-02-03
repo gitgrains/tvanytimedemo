@@ -1,0 +1,3120 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<TVAMain xmlns='urn:tva:metadata:2002' xmlns:mpeg7='urn:mpeg:mpeg7:schema:2001' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='urn:tva:metadata:2002 I:\tv-anytime\Specifications\COR1_SP003v13\tva_metadata_v13.xsd'>
+  <!--Use of this BBC data for non-TV-Anytime purposes is strictly forbidden.-->
+  <ProgramDescription>
+    <GroupInformationTable>
+      <GroupInformation groupId='crid://bbc.co.uk/HolbyCity'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Holby City]]></Title>
+          <Synopsis><![CDATA[Holby City]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Holbycity'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/MedicalDramas'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Society'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/BBCGroups'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[BBC Groups]]></Title>
+          <Synopsis><![CDATA[All BBC groups]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Groups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Groups'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Groups]]></Title>
+          <Synopsis><![CDATA[All groups]]></Synopsis>
+        </BasicDescription>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Holbycity'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Holby City]]></Title>
+          <Synopsis><![CDATA[Holby City]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Holbycity'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/MedicalDramas'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Society'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/LongrunningSeries'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Long-running series]]></Title>
+          <Synopsis><![CDATA[Long-running series groups]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/MedicalDramas'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Medical dramas]]></Title>
+          <Synopsis><![CDATA[Popular Medical Drama]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Medical'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Medical'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Medical]]></Title>
+          <Synopsis><![CDATA[Programmes about medical matters, health and hospitals]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Inform'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Inform'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Inform]]></Title>
+          <Synopsis><![CDATA[Informational programmes]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/IntentionOfProgramme'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/IntentionOfProgramme'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Intention of programme]]></Title>
+          <Synopsis><![CDATA[Educational, Informative and Entertaining Programmes]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Society'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Society]]></Title>
+          <Synopsis><![CDATA[Programmes about issues affecting society]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/BbcNewsAtTenOclock'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[BBC News At Ten O'Clock]]></Title>
+          <Synopsis><![CDATA[BBC News At Ten O'Clock]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/BbcLondonNews'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[BBC London News]]></Title>
+          <Synopsis><![CDATA[BBC London News]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/London'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/EarlyEveningNews'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Domesticaffairs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Inform'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/News'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/London'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[London]]></Title>
+          <Synopsis><![CDATA[London]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Regions'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Regions'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Regions]]></Title>
+          <Synopsis><![CDATA[Programmes related to a specific region or town in the UK]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Uk'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Uk'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[UK]]></Title>
+          <Synopsis><![CDATA[Progammes related to the UK]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Location'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Location'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Location]]></Title>
+          <Synopsis><![CDATA[Programmes grouped by some location-related information]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/EarlyEveningNews'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherChoice'/>
+        <BasicDescription>
+          <Title><![CDATA[Early evening news]]></Title>
+          <Synopsis><![CDATA[News at the beginning of the evening]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/News'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/News'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherChoice'/>
+        <BasicDescription>
+          <Title><![CDATA[News]]></Title>
+          <Synopsis><![CDATA[BBC News and Current Affairs]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Inform'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Domesticaffairs'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Domestic affairs]]></Title>
+          <Synopsis><![CDATA[Programmes about UK events and politics]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Inform'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/SeeHear'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[See Hear]]></Title>
+          <Synopsis><![CDATA[See Hear]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/HardOfHearing'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/HardOfHearing'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Hard of hearing]]></Title>
+          <Synopsis><![CDATA[Hard of hearing]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Audience'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Audience'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Audience]]></Title>
+          <Synopsis><![CDATA[Programmes aimed at a particular audience]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/People'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/People'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[People]]></Title>
+          <Synopsis><![CDATA[Programmes about, aimed at, particular people or groups of people]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/MonaTheVampire'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Mona The Vampire]]></Title>
+          <Synopsis><![CDATA[Mona The Vampire]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsCartoons'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/KidsCartoons'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Kids Cartoons]]></Title>
+          <Synopsis><![CDATA[Cool Cartoons for Kids]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Kids'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Kids'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Kids]]></Title>
+          <Synopsis><![CDATA[Kids programmes]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Audience'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Newsround'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Newsround]]></Title>
+          <Synopsis><![CDATA[Newsround]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/BbcNews'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[BBC News]]></Title>
+          <Synopsis><![CDATA[BBC News]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/EarlyEveningNews'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LateEveningNews'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/LateEveningNews'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherChoice'/>
+        <BasicDescription>
+          <Title><![CDATA[Late evening news]]></Title>
+          <Synopsis><![CDATA[News at the end of the day]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/News'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Watchdog'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Watchdog]]></Title>
+          <Synopsis><![CDATA[Watchdog]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Lifestyle'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Consumer'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Financebusiness'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Lifestyle'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Life-style]]></Title>
+          <Synopsis><![CDATA[Life-style]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Consumer'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Consumer]]></Title>
+          <Synopsis><![CDATA[Investigating consumer issues]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Secretsinvestigation'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Secretsinvestigation'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Secrets/Investigations]]></Title>
+          <Synopsis><![CDATA[Programmes that investigate things]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Secretsinvestigation'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[SecretsInvestigation]]></Title>
+          <Synopsis><![CDATA[SecretsInvestigation]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Financebusiness'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Finance/business]]></Title>
+          <Synopsis><![CDATA[Programmes about finance, money and business]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/AnimalHospital'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Animal Hospital]]></Title>
+          <Synopsis><![CDATA[Animal Hospital]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Cute'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Cute'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Cute]]></Title>
+          <Synopsis><![CDATA[Cute and cuddly animals]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Animals'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Animals'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Animals]]></Title>
+          <Synopsis><![CDATA[Explore the variety and diversity of the animal kingdom]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Biology'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Biology'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Biology]]></Title>
+          <Synopsis><![CDATA[The study of living things]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Science'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Science'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Science]]></Title>
+          <Synopsis><![CDATA[Programes exploring the exciting world of science]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/FawltyTowers'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Fawlty Towers]]></Title>
+          <Synopsis><![CDATA[Fawlty Towers]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ClassicComedies'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ProgrammesBefore1970'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/CultTv'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ClassicComedies'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Classic Comedies]]></Title>
+          <Synopsis><![CDATA[Comedies you used to laugh at when you were younger]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Comedy'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Comedy'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Comedy]]></Title>
+          <Synopsis><![CDATA[Go on, make me laugh]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ProgrammesBefore1970'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Programmes before 1970]]></Title>
+          <Synopsis><![CDATA[Programmes made before 1970]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/CreationTime'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/CreationTime'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Creation time]]></Title>
+          <Synopsis><![CDATA[Programmes first created or shown at a particular time]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Time'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Time'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Time]]></Title>
+          <Synopsis><![CDATA[Programmes grouped by some time-related information]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/CultTv'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Cult TV]]></Title>
+          <Synopsis><![CDATA[Cult and classic programmes]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/AntiquesRoadshow'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Antiques Roadshow]]></Title>
+          <Synopsis><![CDATA[Antiques Roadshow]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Thoughtprovokingdisc'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Consumer'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Institutions'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Realpeople'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Arts'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Antiques'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interactive'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Thoughtprovokingdisc'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Thought provoking discussion]]></Title>
+          <Synopsis><![CDATA[Discussions intended to stimulate the mind]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/FluffyConcepts'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Thoughtprovokingdisc'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[ThoughtProvokingDisc]]></Title>
+          <Synopsis><![CDATA[ThoughtProvokingDisc]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/FluffyConcepts'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/FluffyConcepts'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Fluffy concepts]]></Title>
+          <Synopsis><![CDATA[Vague concepts that relate programmes]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Institutions'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Institutions]]></Title>
+          <Synopsis><![CDATA[Long-running programmes that have become institutions]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/NotableProgrammes'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/NotableProgrammes'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Notable programmes]]></Title>
+          <Synopsis><![CDATA[Programmes that are notable, unusual or out-of-the-ordinary]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Realpeople'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Real people]]></Title>
+          <Synopsis><![CDATA[Programmes about real people]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/People'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Arts'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Arts]]></Title>
+          <Synopsis><![CDATA[Explore the Arts]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Antiques'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Antiques]]></Title>
+          <Synopsis><![CDATA[Explore the world of old artefacts and curiosities]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Lifestyle'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Interactive'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Interactive]]></Title>
+          <Synopsis><![CDATA[Programmes involving interactivity or audience participation]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Panorama'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Panorama]]></Title>
+          <Synopsis><![CDATA[Panorama]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Breakfast'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[breakfast]]></Title>
+          <Synopsis><![CDATA[breakfast]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interviews'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Earlyeveningnews'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Earlymorningnews'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Interviews'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Interviews]]></Title>
+          <Synopsis><![CDATA[Interviews with individuals]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/People'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Earlyeveningnews'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherChoice'/>
+        <BasicDescription>
+          <Title><![CDATA[Early evening news]]></Title>
+          <Synopsis><![CDATA[News at the beginning of the evening]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/News'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Earlymorningnews'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherChoice'/>
+        <BasicDescription>
+          <Title><![CDATA[Early morning news]]></Title>
+          <Synopsis><![CDATA[News at the beginning of the day]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/News'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Kilroy'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Kilroy]]></Title>
+          <Synopsis><![CDATA[Kilroy]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Realpeople'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Society'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Daytime'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Thoughtprovokingdisc'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Daytime'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Daytime]]></Title>
+          <Synopsis><![CDATA[Daytime]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Schedules'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Schedules'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Schedules]]></Title>
+          <Synopsis><![CDATA[Programmes at a specific time in the schedule]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Time'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/BigStrongBoys'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Big Strong Boys]]></Title>
+          <Synopsis><![CDATA[Big Strong Boys]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Diy'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Realpeople'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Diy'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[DIY]]></Title>
+          <Synopsis><![CDATA[Do-it-yourself]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Homes'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Homes'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Homes]]></Title>
+          <Synopsis><![CDATA[All about where we live]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Lifestyle'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TradingUp'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Trading Up]]></Title>
+          <Synopsis><![CDATA[Trading Up]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/HouseSellingmoving'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Housesellingmoving'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Location'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/HouseSellingmoving'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[House Selling/Moving]]></Title>
+          <Synopsis><![CDATA[How to buy or sell your home]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Homes'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/CashInTheAttic'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Cash in the Attic]]></Title>
+          <Synopsis><![CDATA[Cash in the Attic]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Antiques'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/HouseSellingmoving'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Wipeout'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Wipeout]]></Title>
+          <Synopsis><![CDATA[Wipeout]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/QuizShows'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/GameShows'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/QuizShows'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Quiz shows]]></Title>
+          <Synopsis><![CDATA[Shows in which members of the public compete]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interactive'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/GameShows'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Game shows]]></Title>
+          <Synopsis><![CDATA[Game shows]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PopCulture'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/PopCulture'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Pop culture]]></Title>
+          <Synopsis><![CDATA[Pop culture]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Fimbles'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Fimbles]]></Title>
+          <Synopsis><![CDATA[Fimbles]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Smart'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Smart]]></Title>
+          <Synopsis><![CDATA[Smart]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Painting'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Painting'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Painting]]></Title>
+          <Synopsis><![CDATA[Painting]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Arts'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Eastenders'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Eastenders]]></Title>
+          <Synopsis><![CDATA[Eastenders]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/London'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Flagships'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Eastenders'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Entertain'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Dramaticsoaps'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Primetime'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/DramaticSoaps'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Flagships'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Flagships]]></Title>
+          <Synopsis><![CDATA[Flagship programmes]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/NotableProgrammes'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Entertain'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Entertain]]></Title>
+          <Synopsis><![CDATA[Entertainment]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/IntentionOfProgramme'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Dramaticsoaps'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Dramatic Soaps]]></Title>
+          <Synopsis><![CDATA[Soaps about real lives, dealing with real issues]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/RealPeople'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/RealPeople'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Real people]]></Title>
+          <Synopsis><![CDATA[Programmes about real people]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/People'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Primetime'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Primetime]]></Title>
+          <Synopsis><![CDATA[Primetime]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Schedules'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/MyFamily'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[My Family]]></Title>
+          <Synopsis><![CDATA[My Family]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Comedy'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/FamilyViewing'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Homes'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Family'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/FamilyViewing'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Family viewing]]></Title>
+          <Synopsis><![CDATA[Family viewing]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Audience'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Family'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Family]]></Title>
+          <Synopsis><![CDATA[Families and how to survive them...]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/People'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/GroundForce'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Ground Force]]></Title>
+          <Synopsis><![CDATA[Ground Force]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/QuestionTime'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Question Time]]></Title>
+          <Synopsis><![CDATA[Question Time]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Domesticaffairs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Topicalnewsandcommen'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Inform'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interactive'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Politics'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Thoughtprovokingdisc'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Topicalnewsandcommen'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherChoice'/>
+        <BasicDescription>
+          <Title><![CDATA[Topical news and comment]]></Title>
+          <Synopsis><![CDATA[Question everything, believe nothing]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/News'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Topicalnewsandcommen'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[TopicalNewsAndCommen]]></Title>
+          <Synopsis><![CDATA[TopicalNewsAndCommen]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/News'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Politics'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Politics]]></Title>
+          <Synopsis><![CDATA[Programmes about UK politics]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/DomesticAffairs'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/DomesticAffairs'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Domestic affairs]]></Title>
+          <Synopsis><![CDATA[Programmes about UK events and politics]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Inform'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/AQuestionOfSport'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[a question of sport]]></Title>
+          <Synopsis><![CDATA[a question of sport]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Celebs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Gameshows'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Sports'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Celebs'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Celebs]]></Title>
+          <Synopsis><![CDATA[All about stars and celebrities]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/People'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Gameshows'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Game shows]]></Title>
+          <Synopsis><![CDATA[Game shows]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PopCulture'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Sports'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Sports]]></Title>
+          <Synopsis><![CDATA[Programmes related to sports]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TopOfThePops'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Top of the Pops]]></Title>
+          <Synopsis><![CDATA[Top of the Pops]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Top10s'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Popmusic'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Institutions'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/CurrentPopMusic'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Live'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Top10s'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Top 10s]]></Title>
+          <Synopsis><![CDATA[Programmes listing things in order]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Lists'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Lists'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Lists]]></Title>
+          <Synopsis><![CDATA[Programmes listing things]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/FluffyConcepts'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Popmusic'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Pop music]]></Title>
+          <Synopsis><![CDATA[The best in modern pop]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Music'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Music'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Music]]></Title>
+          <Synopsis><![CDATA[Explore the rich world of BBC Music]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Arts'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/CurrentPopMusic'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Current Pop music]]></Title>
+          <Synopsis><![CDATA[Poptastic!]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PopMusic'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/PopMusic'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Pop music]]></Title>
+          <Synopsis><![CDATA[The best in modern pop]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Music'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Live'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Live]]></Title>
+          <Synopsis><![CDATA[Unique Live music from the BBC]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PopMusic'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/HaveIGotNewsForYou'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Have I Got News For You]]></Title>
+          <Synopsis><![CDATA[Have I Got News For You]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Celebs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Comedy'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/TopicalComedy'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Topicalcomedy'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TopicalComedy'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Topical comedy]]></Title>
+          <Synopsis><![CDATA[Topical comedy]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Satire'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Satire'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Satire]]></Title>
+          <Synopsis><![CDATA[Outdated 60's style comedy]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Comedy'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/CliffordTheBigRedDog'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Clifford the Big Red Dog]]></Title>
+          <Synopsis><![CDATA[Clifford the Big Red Dog]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsCartoons'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Arthur'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Arthur]]></Title>
+          <Synopsis><![CDATA[Arthur]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsCartoons'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/SuperDuperSumos'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Super Duper Sumos]]></Title>
+          <Synopsis><![CDATA[Super Duper Sumos]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsCartoons'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheSaturdayShow'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The Saturday Show]]></Title>
+          <Synopsis><![CDATA[The Saturday Show]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsMusic'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsEntertainment'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/KidsMusic'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Kids Music]]></Title>
+          <Synopsis><![CDATA[Music for kids]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Kids'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/KidsEntertainment'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Kids Entertainment]]></Title>
+          <Synopsis><![CDATA[Entertainment for Kids]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Kids'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/MatchOfTheDayLive'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Match of the Day Live]]></Title>
+          <Synopsis><![CDATA[Match of the Day Live]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Football'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Football'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Football]]></Title>
+          <Synopsis><![CDATA[Football on the BBC]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Sports'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/FinalScore'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[final score]]></Title>
+          <Synopsis><![CDATA[final score]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Uk'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Casualty'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Casualty]]></Title>
+          <Synopsis><![CDATA[Casualty]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Biology'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Dramaticsoaps'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Casualty'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Holbycity'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Longrunningseries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/MedicalDramas'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Medicaldramas'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Longrunningseries'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Long-running series]]></Title>
+          <Synopsis><![CDATA[Long-running series groups]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/MatchOfTheDay'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Match of the Day]]></Title>
+          <Synopsis><![CDATA[Match of the Day]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Football'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheSkyAtNight'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The Sky At Night]]></Title>
+          <Synopsis><![CDATA[The Sky At Night]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Astronomy'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Astronomy'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Astronomy]]></Title>
+          <Synopsis><![CDATA[The Science of the night sky]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Science'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/EurekaTv'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Eureka TV]]></Title>
+          <Synopsis><![CDATA[Eureka TV]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Science'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/AceLightning'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Ace Lightning]]></Title>
+          <Synopsis><![CDATA[Ace Lightning]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Holiday'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Holiday]]></Title>
+          <Synopsis><![CDATA[Holiday]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Tourism'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Tourism'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Tourism]]></Title>
+          <Synopsis><![CDATA[Programmes about tourism and holidays]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Location'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/999'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[999]]></Title>
+          <Synopsis><![CDATA[999]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/LiquidNews'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Liquid News]]></Title>
+          <Synopsis><![CDATA[Liquid News]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Celebs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Entertain'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Popculture'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Topicalnewsandcommen'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Currentpopmusic'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interviews'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Popculture'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Pop culture]]></Title>
+          <Synopsis><![CDATA[Pop culture]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Currentpopmusic'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Current Pop music]]></Title>
+          <Synopsis><![CDATA[Poptastic!]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PopMusic'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/BargainHunt'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Bargain Hunt]]></Title>
+          <Synopsis><![CDATA[Bargain Hunt]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Antiques'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/VivaSClub'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Viva S Club]]></Title>
+          <Synopsis><![CDATA[Viva S Club]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheGoodLife'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The Good Life]]></Title>
+          <Synopsis><![CDATA[The Good Life]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Classiccomedies'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ProgrammesBefore1980'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Relationships'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Classiccomedies'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Classic Comedies]]></Title>
+          <Synopsis><![CDATA[Comedies you used to laugh at when you were younger]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Comedy'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ProgrammesBefore1980'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Programmes before 1980]]></Title>
+          <Synopsis><![CDATA[Programmes made before 1980]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/CreationTime'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Relationships'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Relationships]]></Title>
+          <Synopsis><![CDATA[How people relate to one another]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/People'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/HomeFront'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Home Front]]></Title>
+          <Synopsis><![CDATA[Home Front]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Lifestyle'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Realitytv'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Diy'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Realpeople'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Realitytv'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Reality TV]]></Title>
+          <Synopsis><![CDATA[Reality TV]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PopCulture'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Newsnight'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Newsnight]]></Title>
+          <Synopsis><![CDATA[Newsnight]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Thoughtprovokingdisc'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Topicalnewsandcommen'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Domesticaffairs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Internationalaffairs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interviews'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Politics'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LateEveningNews'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Internationalaffairs'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[International affairs]]></Title>
+          <Synopsis><![CDATA[Programmes about international events]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Inform'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ReadySteadyCook'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Ready Steady Cook]]></Title>
+          <Synopsis><![CDATA[Ready Steady Cook]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Cooking'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/GameShows'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Cooking'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Cooking]]></Title>
+          <Synopsis><![CDATA[How to cook, or at least watch other people cook]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Lifestyle'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheWeakestLink'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The Weakest Link]]></Title>
+          <Synopsis><![CDATA[The Weakest Link]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Popculture'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Realpeople'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Quizshows'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Quizshows'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Quiz shows]]></Title>
+          <Synopsis><![CDATA[Shows in which members of the public compete]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interactive'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheSimpsons'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The Simpsons]]></Title>
+          <Synopsis><![CDATA[The Simpsons]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Comedy'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Cartoons'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Culttv'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Americana'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/CultTv'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Cartoons'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Cartoons]]></Title>
+          <Synopsis><![CDATA[Animation]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Culttv'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Cult TV]]></Title>
+          <Synopsis><![CDATA[Cult and classic programmes]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Americana'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Americana]]></Title>
+          <Synopsis><![CDATA[Programmes related to the US]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/OtherCountries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/OtherCountries'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Other countries]]></Title>
+          <Synopsis><![CDATA[Programmes related to countries other than the UK]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Location'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Totp2'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[TOTP2]]></Title>
+          <Synopsis><![CDATA[TOTP2]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Urban'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Celebs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Popmusic'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Popculture'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PreviousPopMusic'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Rockmusic'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Urban'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Urban]]></Title>
+          <Synopsis><![CDATA[Urban music]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Uk'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Radio1'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Radio1'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Radio 1]]></Title>
+          <Synopsis><![CDATA[The nations youth and new music station]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PopMusic'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/PreviousPopMusic'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Previous pop music]]></Title>
+          <Synopsis><![CDATA[Groovy, baby!]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PopMusic'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Rockmusic'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Rock Music]]></Title>
+          <Synopsis><![CDATA[Let's rock!]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Music'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/AndyPandy'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Andy Pandy]]></Title>
+          <Synopsis><![CDATA[Andy Pandy]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsCartoons'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/WorkingLunch'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Working Lunch]]></Title>
+          <Synopsis><![CDATA[Working Lunch]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Consumer'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Financebusiness'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Topicalnewsandcommen'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/AnimalPark'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Animal Park]]></Title>
+          <Synopsis><![CDATA[Animal Park]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Cute'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Animals'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/FreshPrinceOfBelAir'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Fresh Prince Of Bel Air]]></Title>
+          <Synopsis><![CDATA[Fresh Prince Of Bel Air]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Comedy'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Relationships'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Family'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Horizon'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Horizon]]></Title>
+          <Synopsis><![CDATA[Horizon]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Secretsinvestigation'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Science'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Documentaries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Documentaries'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Documentaries]]></Title>
+          <Synopsis><![CDATA[Documentaries]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Inform'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TruthWillOut'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Truth Will Out]]></Title>
+          <Synopsis><![CDATA[Truth Will Out]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ThoughtProvokingDisc'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ThoughtProvokingDisc'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Thought provoking discussion]]></Title>
+          <Synopsis><![CDATA[Discussions intended to stimulate the mind]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/FluffyConcepts'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ThoughtProvokingDisc'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[ThoughtProvokingDisc]]></Title>
+          <Synopsis><![CDATA[ThoughtProvokingDisc]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/FluffyConcepts'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/NewsnightReview'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Newsnight Review]]></Title>
+          <Synopsis><![CDATA[Newsnight Review]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Culture'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Domesticaffairs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Arts'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Culture'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Culture]]></Title>
+          <Synopsis><![CDATA[Society and culture]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Society'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/SaturdayKitchen'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Saturday Kitchen]]></Title>
+          <Synopsis><![CDATA[Saturday Kitchen]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Cooking'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Smile'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Smile]]></Title>
+          <Synopsis><![CDATA[Smile]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TopGear'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Top Gear]]></Title>
+          <Synopsis><![CDATA[Top Gear]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Cars'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Cars'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Cars]]></Title>
+          <Synopsis><![CDATA[Programmes about cars]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Transport'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Transport'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Transport]]></Title>
+          <Synopsis><![CDATA[Programmes about transport]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Inform'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Correspondent'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Correspondent]]></Title>
+          <Synopsis><![CDATA[Correspondent]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Thoughtprovokingdisc'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Topicalnewsandcommen'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Worldnews'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Politicalinvestigati'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Worldnews'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[World News]]></Title>
+          <Synopsis><![CDATA[World News]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/EarlyMorningNews'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/OtherCountries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/EarlyMorningNews'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherChoice'/>
+        <BasicDescription>
+          <Title><![CDATA[Early morning news]]></Title>
+          <Synopsis><![CDATA[News at the beginning of the day]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/News'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Politicalinvestigati'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Political investigations]]></Title>
+          <Synopsis><![CDATA[Investigating political issues]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Secretsinvestigation'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Politicalinvestigati'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[PoliticalInvestigati]]></Title>
+          <Synopsis><![CDATA[PoliticalInvestigati]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Secretsinvestigation'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/DeadRingers'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Dead Ringers]]></Title>
+          <Synopsis><![CDATA[Dead Ringers]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/TopicalComedy'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheRaccoons'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The Raccoons]]></Title>
+          <Synopsis><![CDATA[The Raccoons]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsCartoons'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/BbcFourNews'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[bbc four news]]></Title>
+          <Synopsis><![CDATA[bbc four news]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Domesticaffairs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Lateeveningnews'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Internationalaffairs'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Lateeveningnews'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherChoice'/>
+        <BasicDescription>
+          <Title><![CDATA[Late evening news]]></Title>
+          <Synopsis><![CDATA[News at the end of the day]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/News'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheDvdCollection'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[the dvd collection]]></Title>
+          <Synopsis><![CDATA[the dvd collection]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Film'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Culture'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Film'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Film]]></Title>
+          <Synopsis><![CDATA[Films and programmes about films]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Arts'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Witness'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[witness]]></Title>
+          <Synopsis><![CDATA[witness]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Eras'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/History'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Realpeople'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Nostalgia'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interviews'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Eras'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Eras]]></Title>
+          <Synopsis><![CDATA[Programmes about, or set in particular eras]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/History'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/History'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[History]]></Title>
+          <Synopsis><![CDATA[Explore the past]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Time'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Nostalgia'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Nostalgia]]></Title>
+          <Synopsis><![CDATA[Programmes associated with nostalgia about a certain period]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/History'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheTalkShow'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The Talk Show]]></Title>
+          <Synopsis><![CDATA[The Talk Show]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/PaintingTheWeather'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Painting the Weather]]></Title>
+          <Synopsis><![CDATA[Painting the Weather]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Painting'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheStateWereIn'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[the state we're in]]></Title>
+          <Synopsis><![CDATA[the state we're in]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Topicalcomedy'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Domesticaffairs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Topicalnewsandcommen'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Internationalaffairs'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Topicalcomedy'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Topical comedy]]></Title>
+          <Synopsis><![CDATA[Topical comedy]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Satire'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Diners'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[diners]]></Title>
+          <Synopsis><![CDATA[diners]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Celebs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Realitytv'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Realpeople'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheRalfLittleShow'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The Ralf Little Show]]></Title>
+          <Synopsis><![CDATA[The Ralf Little Show]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Comedy'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/15StoreysHigh'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[15 Storeys High]]></Title>
+          <Synopsis><![CDATA[15 Storeys High]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Comedy'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Popculture'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/EastendersRevealed'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[EastEnders Revealed]]></Title>
+          <Synopsis><![CDATA[EastEnders Revealed]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Celebs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Eastenders'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Biographies'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interviews'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Family'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Biographies'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Biographies]]></Title>
+          <Synopsis><![CDATA[Biographics of people]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/People'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Parkinson'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Parkinson]]></Title>
+          <Synopsis><![CDATA[Parkinson]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interesting'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Thoughtprovokingdisc'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Celebs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/People'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Longrunningseries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Starnames'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interviews'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/MichaelParkinson'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Interesting'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Interesting]]></Title>
+          <Synopsis><![CDATA[Programmes about interesting things]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/FluffyConcepts'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Starnames'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Star names]]></Title>
+          <Synopsis><![CDATA[Star names]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PopCulture'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/MichaelParkinson'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Michael Parkinson]]></Title>
+          <Synopsis><![CDATA[Michael Parkinson]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/StarNames'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/StarNames'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Star names]]></Title>
+          <Synopsis><![CDATA[Star names]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PopCulture'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/WhatNotToWear'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[What not to Wear]]></Title>
+          <Synopsis><![CDATA[What not to Wear]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Realpeople'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Shopping'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Clothes'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Shopping'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Shopping]]></Title>
+          <Synopsis><![CDATA[Explore the number one national pastime]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Lifestyle'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Clothes'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Clothes]]></Title>
+          <Synopsis><![CDATA[Explore the world of fashion]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Lifestyle'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ShootingStars'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Shooting Stars]]></Title>
+          <Synopsis><![CDATA[Shooting Stars]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/MusicGameshows'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/MusicGameshows'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Music gameshows]]></Title>
+          <Synopsis><![CDATA[Gameshows and panel games about music]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Music'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/WorldBusinessReport'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[World Business Report]]></Title>
+          <Synopsis><![CDATA[World Business Report]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Financebusiness'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TalkingMovies'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Talking Movies]]></Title>
+          <Synopsis><![CDATA[Talking Movies]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Celebs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Film'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Analysis'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Analysis]]></Title>
+          <Synopsis><![CDATA[Analysis]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Secretsinvestigation'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ScienceInAction'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Science in Action]]></Title>
+          <Synopsis><![CDATA[Science in Action]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Science'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Newshour'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Newshour]]></Title>
+          <Synopsis><![CDATA[Newshour]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/HealthMatters'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Health Matters]]></Title>
+          <Synopsis><![CDATA[Health Matters]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PersonalHealth'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/PersonalHealth'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Personal health]]></Title>
+          <Synopsis><![CDATA[Programmes about personal health and fitness]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Medical'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/GoDigital'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Go Digital]]></Title>
+          <Synopsis><![CDATA[Go Digital]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Technology'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Technology'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Technology]]></Title>
+          <Synopsis><![CDATA[Applications of Science]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Science'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Westway'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Westway]]></Title>
+          <Synopsis><![CDATA[Westway]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/London'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/DramaticSoaps'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/DramaticSoaps'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Dramatic Soaps]]></Title>
+          <Synopsis><![CDATA[Soaps about real lives, dealing with real issues]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/RealPeople'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/JohnPeel'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[John Peel]]></Title>
+          <Synopsis><![CDATA[John Peel]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Alt'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Alt'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Alt]]></Title>
+          <Synopsis><![CDATA[The best of Alternative Music]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Radio1'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/WhatsTheProblem'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[What's the Problem?]]></Title>
+          <Synopsis><![CDATA[What's the Problem?]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PersonalHealth'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Selfhelp'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Selfhelp'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Self-help]]></Title>
+          <Synopsis><![CDATA[Programmes offering self-help advice]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Inform'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/OnePlanet'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[One Planet]]></Title>
+          <Synopsis><![CDATA[One Planet]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Environmental'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Environmental'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Environmental]]></Title>
+          <Synopsis><![CDATA[Investigating environmental issues]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Secretsinvestigation'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/LetterFromAmerica'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Letter From America]]></Title>
+          <Synopsis><![CDATA[Letter From America]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/InternationalAffairs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Americana'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/InternationalAffairs'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[International affairs]]></Title>
+          <Synopsis><![CDATA[Programmes about international events]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Inform'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/LookAndRead'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Look and Read]]></Title>
+          <Synopsis><![CDATA[Look and Read]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsFactual'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Books'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/KidsFactual'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Kids Factual]]></Title>
+          <Synopsis><![CDATA[Kids Factual]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Kids'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Books'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Books]]></Title>
+          <Synopsis><![CDATA[Read a good book lately?]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Arts'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ZigZag'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Zig Zag]]></Title>
+          <Synopsis><![CDATA[Zig Zag]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsFactual'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Landmarks'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Landmarks]]></Title>
+          <Synopsis><![CDATA[Landmarks]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsFactual'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsHistory'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/KidsHistory'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Kids History]]></Title>
+          <Synopsis><![CDATA[Kids History]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Kids'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ScienceZone'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Science zone]]></Title>
+          <Synopsis><![CDATA[Science zone]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsFactual'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsScience'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/KidsScience'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Kids Science]]></Title>
+          <Synopsis><![CDATA[Kids Science]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Kids'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Xchange'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Xchange]]></Title>
+          <Synopsis><![CDATA[Xchange]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/GrangeHill'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Grange Hill]]></Title>
+          <Synopsis><![CDATA[Grange Hill]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/StitchUp'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Stitch up]]></Title>
+          <Synopsis><![CDATA[Stitch up]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsComedy'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/KidsComedy'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Kids Comedy]]></Title>
+          <Synopsis><![CDATA[Kids Comedy]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Kids'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Megamaths'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Megamaths]]></Title>
+          <Synopsis><![CDATA[Megamaths]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsFactual'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsMaths'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/KidsMaths'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Kids Maths]]></Title>
+          <Synopsis><![CDATA[Kids Maths]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Kids'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheExperimenter'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The experimenter]]></Title>
+          <Synopsis><![CDATA[The experimenter]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsWildlife'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsFactual'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/KidsWildlife'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Kids Wildlife]]></Title>
+          <Synopsis><![CDATA[Kids Wildlife]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Kids'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/BluePeterUnleashed'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Blue Peter Unleashed]]></Title>
+          <Synopsis><![CDATA[Blue Peter Unleashed]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BluePeter'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/BluePeter'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='show'/>
+        <BasicDescription>
+          <Title><![CDATA[Blue Peter]]></Title>
+          <Synopsis><![CDATA[Popular Kids Magazine Programme]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BluePeter'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsFactual'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/BykerGrove'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Byker Grove]]></Title>
+          <Synopsis><![CDATA[Byker Grove]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/UkTop40'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[UK Top 40]]></Title>
+          <Synopsis><![CDATA[UK Top 40]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsMusic'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Techno'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Techno]]></Title>
+          <Synopsis><![CDATA[Techno]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsFactual'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Newsbeat'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Newsbeat]]></Title>
+          <Synopsis><![CDATA[Newsbeat]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/OneWorld'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[One World]]></Title>
+          <Synopsis><![CDATA[One World]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/NewMusic'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Dance'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/NewMusic'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[New Music]]></Title>
+          <Synopsis><![CDATA[New, contemporary or cutting edge music]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Music'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Dance'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Dance]]></Title>
+          <Synopsis><![CDATA[The best of Dance]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Radio1'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Radio1RapShow'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Radio 1 Rap Show]]></Title>
+          <Synopsis><![CDATA[Radio 1 Rap Show]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Urban'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/FabioAndGrooverider'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Fabio and Grooverider]]></Title>
+          <Synopsis><![CDATA[Fabio and Grooverider]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Urban'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/JudgeJules'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Judge Jules]]></Title>
+          <Synopsis><![CDATA[Judge Jules]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Dance'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/AnnieNightingale'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Annie Nightingale]]></Title>
+          <Synopsis><![CDATA[Annie Nightingale]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Dance'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheDreemTeem'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The Dreem Teem]]></Title>
+          <Synopsis><![CDATA[The Dreem Teem]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Urban'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/SundaySurgery'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Sunday Surgery]]></Title>
+          <Synopsis><![CDATA[Sunday Surgery]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PersonalHealth'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Selfhelp'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TrevorNelson'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Trevor Nelson]]></Title>
+          <Synopsis><![CDATA[Trevor Nelson]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Urban'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/LamacqLive'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Lamacq Live]]></Title>
+          <Synopsis><![CDATA[Lamacq Live]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Alt'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Live'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheLockUp'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The Lock Up]]></Title>
+          <Synopsis><![CDATA[The Lock Up]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Alt'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/BobHarrisCountry'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Bob Harris Country]]></Title>
+          <Synopsis><![CDATA[Bob Harris Country]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/CountryMusic'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/CountryMusic'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Country music]]></Title>
+          <Synopsis><![CDATA[Both kinds: country and western]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Music'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/PickOfThePops'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Pick of the Pops]]></Title>
+          <Synopsis><![CDATA[Pick of the Pops]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/DaleWinton'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Nostalgia'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/DaleWinton'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Dale Winton]]></Title>
+          <Synopsis><![CDATA[Dale Winton]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/StarNames'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/BobHarris'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Bob Harris]]></Title>
+          <Synopsis><![CDATA[Bob Harris]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Music'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/GoodMorningSunday'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Good Morning Sunday]]></Title>
+          <Synopsis><![CDATA[Good Morning Sunday]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Religion'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Religion'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Religion]]></Title>
+          <Synopsis><![CDATA[Programmes about religion]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Society'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ComposerOfTheWeek'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Composer of the Week]]></Title>
+          <Synopsis><![CDATA[Composer of the Week]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Composers'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Composers'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Composers]]></Title>
+          <Synopsis><![CDATA[Programmes with music by, or about, specific composers]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Music'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/InTune'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[In Tune]]></Title>
+          <Synopsis><![CDATA[In Tune]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ClassicalMusic'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Music'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Arts'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ClassicalMusic'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Classical music]]></Title>
+          <Synopsis><![CDATA[The best classical music]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Music'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/PerformanceOn3'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Performance on 3]]></Title>
+          <Synopsis><![CDATA[Performance on 3]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ClassicalMusic'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/NightWaves'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Night Waves]]></Title>
+          <Synopsis><![CDATA[Night Waves]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/TopicalNewsAndCommen'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Arts'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TopicalNewsAndCommen'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherChoice'/>
+        <BasicDescription>
+          <Title><![CDATA[Topical news and comment]]></Title>
+          <Synopsis><![CDATA[Question everything, believe nothing]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/News'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TopicalNewsAndCommen'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[TopicalNewsAndCommen]]></Title>
+          <Synopsis><![CDATA[TopicalNewsAndCommen]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/News'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/LateJunction'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Late Junction]]></Title>
+          <Synopsis><![CDATA[Late Junction]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/NewMusic'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Jazzrelated'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Jazzrelated'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Jazz-related]]></Title>
+          <Synopsis><![CDATA[Containing jazz or jazz-influenced music]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Jazz'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Jazz'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Jazz]]></Title>
+          <Synopsis><![CDATA[Jazz]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Music'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/JazzLegends'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Jazz Legends]]></Title>
+          <Synopsis><![CDATA[Jazz Legends]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ModernJazz'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ModernJazz'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Modern Jazz]]></Title>
+          <Synopsis><![CDATA[Bop, Hard bop, Modal jazz]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Jazz'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/JazzOn3'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Jazz On 3]]></Title>
+          <Synopsis><![CDATA[Jazz On 3]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/NewMusic'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ContemporaryJazz'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ContemporaryJazz'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Contemporary Jazz]]></Title>
+          <Synopsis><![CDATA[Jazz from today]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Jazz'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/PrivatePassions'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Private Passions]]></Title>
+          <Synopsis><![CDATA[Private Passions]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interviews'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/WorldRoutes'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[World Routes]]></Title>
+          <Synopsis><![CDATA[World Routes]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/WorldMusic'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/WorldMusic'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[World music]]></Title>
+          <Synopsis><![CDATA[Ethnic and popular music from countries other than the UK, US and Western Europe]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/OtherCountries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/JazzLineup'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Jazz Line-up]]></Title>
+          <Synopsis><![CDATA[Jazz Line-up]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ModernJazz'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/JazzRecordRequests'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Jazz Record Requests]]></Title>
+          <Synopsis><![CDATA[Jazz Record Requests]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ModernJazz'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/JazzFile'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Jazz File]]></Title>
+          <Synopsis><![CDATA[Jazz File]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ModernJazz'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/OperaOn3'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Opera on 3]]></Title>
+          <Synopsis><![CDATA[Opera on 3]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Opera'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Opera'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Opera]]></Title>
+          <Synopsis><![CDATA[Opera]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Music'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheVerb'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The Verb]]></Title>
+          <Synopsis><![CDATA[The Verb]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Books'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/MixingIt'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Mixing It]]></Title>
+          <Synopsis><![CDATA[Mixing It]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/NewMusic'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Today'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Today]]></Title>
+          <Synopsis><![CDATA[Today]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/EarlyMorningNews'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/BookOfTheWeek'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Book of the Week]]></Title>
+          <Synopsis><![CDATA[Book of the Week]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/RadioPlays'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Books'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/RadioPlays'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Radio plays]]></Title>
+          <Synopsis><![CDATA[Drama on the radio]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Arts'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/WomansHour'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Woman's Hour]]></Title>
+          <Synopsis><![CDATA[Woman's Hour]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Women'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Culture'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ThoughtProvokingDisc'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Topicalnewsandcommen'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Radioplays'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interviews'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Thoughtprovokingdisc'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Women'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Women]]></Title>
+          <Synopsis><![CDATA[Programes for the Ladies]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Audience'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Radioplays'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Radio plays]]></Title>
+          <Synopsis><![CDATA[Drama on the radio]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Arts'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/YouAndYours'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[You And Yours]]></Title>
+          <Synopsis><![CDATA[You And Yours]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Consumer'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheWorldAtOne'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[the world at one]]></Title>
+          <Synopsis><![CDATA[the world at one]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Domesticaffairs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Internationalaffairs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/News'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheArchers'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The Archers]]></Title>
+          <Synopsis><![CDATA[The Archers]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Twee'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Dramaticsoaps'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Regions'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/TheArchers'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Institutions'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/DramaticSoaps'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Relationships'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Radioplays'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/RadioPlays'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Family'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Twee'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Twee]]></Title>
+          <Synopsis><![CDATA[Twee programmes]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/FluffyConcepts'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/AfternoonPlay'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Afternoon Play]]></Title>
+          <Synopsis><![CDATA[Afternoon Play]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Culture'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Radioplays'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/RadioPlays'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/MakingHistory'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Making History]]></Title>
+          <Synopsis><![CDATA[Making History]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/History'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/AGoodRead'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[A Good Read]]></Title>
+          <Synopsis><![CDATA[A Good Read]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Books'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/FrontRow'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Front Row]]></Title>
+          <Synopsis><![CDATA[Front Row]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Arts'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/FileOn4'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[File on 4]]></Title>
+          <Synopsis><![CDATA[File on 4]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Documentaries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/InTouch'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[In Touch]]></Title>
+          <Synopsis><![CDATA[In Touch]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/HardOfHearing'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PartiallySighted'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/PartiallySighted'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Partially sighted]]></Title>
+          <Synopsis><![CDATA[How can you read this?]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Audience'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/CaseNotes'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Case Notes]]></Title>
+          <Synopsis><![CDATA[Case Notes]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Medical'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PersonalHealth'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/BookAtBedtime'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Book at Bedtime]]></Title>
+          <Synopsis><![CDATA[Book at Bedtime]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/RadioPlays'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Books'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/FarmingToday'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Farming Today]]></Title>
+          <Synopsis><![CDATA[Farming Today]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Environmental'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ThinkingAllowed'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Thinking Allowed]]></Title>
+          <Synopsis><![CDATA[Thinking Allowed]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ThoughtProvokingDisc'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/MelvynBraggInOurTime'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Melvyn Bragg: In Our Time]]></Title>
+          <Synopsis><![CDATA[Melvyn Bragg: In Our Time]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ThoughtProvokingDisc'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/History'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/CrossingContinents'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Crossing Continents]]></Title>
+          <Synopsis><![CDATA[Crossing Continents]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Financebusiness'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Culture'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/OtherCountries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Othercountries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Traveljourneys'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/InternationalAffairs'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Documentaries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Thrusting'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Thoughtprovokingdisc'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Traveljourneys'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Travel/journeys]]></Title>
+          <Synopsis><![CDATA[Programmes involving travelling or journeys]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Location'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Thrusting'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Thrusting]]></Title>
+          <Synopsis><![CDATA[Innovative programmes]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/FluffyConcepts'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/OpenCountry'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Open Country]]></Title>
+          <Synopsis><![CDATA[Open Country]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Regions'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheMaterialWorld'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The Material World]]></Title>
+          <Synopsis><![CDATA[The Material World]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Secretsinvestigation'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Science'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/LeadingEdge'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Leading Edge]]></Title>
+          <Synopsis><![CDATA[Leading Edge]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Technology'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/DesertIslandDiscs'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Desert Island Discs]]></Title>
+          <Synopsis><![CDATA[Desert Island Discs]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Lists'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Institutions'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interviews'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/AWorldInYourEar'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[A World In Your Ear]]></Title>
+          <Synopsis><![CDATA[A World In Your Ear]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Culture'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/OtherCountries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/VegTalk'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Veg Talk]]></Title>
+          <Synopsis><![CDATA[Veg Talk]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Food'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Biology'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Food'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Food]]></Title>
+          <Synopsis><![CDATA[All about food]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Lifestyle'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/WordOfMouth'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Word of Mouth]]></Title>
+          <Synopsis><![CDATA[Word of Mouth]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Books'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheNewsQuiz'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The News Quiz]]></Title>
+          <Synopsis><![CDATA[The News Quiz]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/TopicalComedy'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/AnyQuestions'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Any Questions?]]></Title>
+          <Synopsis><![CDATA[Any Questions?]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interactive'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Politics'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/GreatLives'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Great Lives]]></Title>
+          <Synopsis><![CDATA[Great Lives]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Biographies'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/HomeTruths'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Home Truths]]></Title>
+          <Synopsis><![CDATA[Home Truths]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ForParents'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Family'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ForParents'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[For parents]]></Title>
+          <Synopsis><![CDATA[Programmes for parents]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Audience'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ExcessBaggage'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Excess Baggage]]></Title>
+          <Synopsis><![CDATA[Excess Baggage]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Traveljourneys'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/MoneyBox'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Money Box]]></Title>
+          <Synopsis><![CDATA[Money Box]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Financebusiness'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/AnyAnswers'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Any Answers?]]></Title>
+          <Synopsis><![CDATA[Any Answers?]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Phoneins'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interactive'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Politics'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Phoneins'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Phone-ins]]></Title>
+          <Synopsis><![CDATA[Phone-in programmes]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Interactive'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheSaturdayPlay'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The Saturday Play]]></Title>
+          <Synopsis><![CDATA[The Saturday Play]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/RadioPlays'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/WeekendWomansHour'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Weekend Woman's Hour]]></Title>
+          <Synopsis><![CDATA[Weekend Woman's Hour]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Women'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/BackRow'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Back Row]]></Title>
+          <Synopsis><![CDATA[Back Row]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Film'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/SaturdayReview'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Saturday Review]]></Title>
+          <Synopsis><![CDATA[Saturday Review]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Arts'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/SomethingUnderstood'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Something Understood]]></Title>
+          <Synopsis><![CDATA[Something Understood]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Religion'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/ImSorryIHaventAClue'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[I'm Sorry I Haven't a Clue]]></Title>
+          <Synopsis><![CDATA[I'm Sorry I Haven't a Clue]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/CultComedy'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/CultComedy'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[Cult Comedy]]></Title>
+          <Synopsis><![CDATA[Great comedy from the past]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Comedy'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/TheFoodProgramme'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[The Food Programme]]></Title>
+          <Synopsis><![CDATA[The Food Programme]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Food'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/OpenBook'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Open Book]]></Title>
+          <Synopsis><![CDATA[Open Book]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Books'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/Go4it'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Go4It]]></Title>
+          <Synopsis><![CDATA[Go4It]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/KidsComedy'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/FourCorners'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Four Corners]]></Title>
+          <Synopsis><![CDATA[Four Corners]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/OtherCountries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/FiGlover'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Fi Glover]]></Title>
+          <Synopsis><![CDATA[Fi Glover]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Phoneins'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/UpAllNight'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Up all night]]></Title>
+          <Synopsis><![CDATA[Up all night]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/WorldNews'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/WorldNews'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='otherCollection'/>
+        <BasicDescription>
+          <Title><![CDATA[World News]]></Title>
+          <Synopsis><![CDATA[World News]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/BBCGroups'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/EarlyMorningNews'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LongrunningSeries'/>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/OtherCountries'/>
+      </GroupInformation>
+      <GroupInformation groupId='crid://bbc.co.uk/CraigCharlesFunkShow'>
+        <GroupType xsi:type='ProgramGroupTypeType' value='series'/>
+        <BasicDescription>
+          <Title><![CDATA[Craig Charles Funk Show]]></Title>
+          <Synopsis><![CDATA[Craig Charles Funk Show]]></Synopsis>
+        </BasicDescription>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/Jazzrelated'/>
+      </GroupInformation>
+    </GroupInformationTable>
+  </ProgramDescription>
+</TVAMain>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<TVAMain xmlns='urn:tva:metadata:2002' xmlns:mpeg7='urn:mpeg:mpeg7:schema:2001' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='urn:tva:metadata:2002 I:\tv-anytime\Specifications\COR1_SP003v13\tva_metadata_v13.xsd'>
+  <!--Use of this BBC data for non-TV-Anytime purposes is strictly forbidden.-->
+  <ProgramDescription>
+    <ProgramLocationTable>
+      <Schedule serviceIDRef='BBCRTwo'>
+        <ScheduleEvent>
+          <Program crid='crid://bbc.co.uk/3257009518'/>
+          <ProgramURL>dvb://233a.4000.c222;56e@2002-12-03T14:00:00Z/PT03H05M</ProgramURL>
+          <PublishedStartTime>2002-12-03T14:00:00+00:00</PublishedStartTime>
+          <PublishedDuration>PT03H05M00S</PublishedDuration>
+        </ScheduleEvent>
+        <ScheduleEvent>
+          <Program crid='crid://bbc.co.uk/3257009519'/>
+          <ProgramURL>dvb://233a.4000.c222;56f@2002-12-03T17:05:00Z/PT01H55M</ProgramURL>
+          <PublishedStartTime>2002-12-03T17:05:00+00:00</PublishedStartTime>
+          <PublishedDuration>PT01H55M00S</PublishedDuration>
+        </ScheduleEvent>
+        <ScheduleEvent>
+          <Program crid='crid://bbc.co.uk/3257009520'/>
+          <ProgramURL>dvb://233a.4000.c222;570@2002-12-03T19:00:00Z/PT01H00M</ProgramURL>
+          <PublishedStartTime>2002-12-03T19:00:00+00:00</PublishedStartTime>
+          <PublishedDuration>PT01H00M00S</PublishedDuration>
+        </ScheduleEvent>
+        <ScheduleEvent>
+          <Program crid='crid://bbc.co.uk/3257009521'/>
+          <ProgramURL>dvb://233a.4000.c222;571@2002-12-03T20:00:00Z/PT00H30M</ProgramURL>
+          <PublishedStartTime>2002-12-03T20:00:00+00:00</PublishedStartTime>
+          <PublishedDuration>PT00H30M00S</PublishedDuration>
+        </ScheduleEvent>
+        <ScheduleEvent>
+          <Program crid='crid://bbc.co.uk/3257009522'/>
+          <ProgramURL>dvb://233a.4000.c222;572@2002-12-03T20:30:00Z/PT01H00M</ProgramURL>
+          <PublishedStartTime>2002-12-03T20:30:00+00:00</PublishedStartTime>
+          <PublishedDuration>PT01H00M00S</PublishedDuration>
+        </ScheduleEvent>
+        <ScheduleEvent>
+          <Program crid='crid://bbc.co.uk/3257009523'/>
+          <ProgramURL>dvb://233a.4000.c222;573@2002-12-03T21:30:00Z/PT00H30M</ProgramURL>
+          <PublishedStartTime>2002-12-03T21:30:00+00:00</PublishedStartTime>
+          <PublishedDuration>PT00H30M00S</PublishedDuration>
+        </ScheduleEvent>
+        <ScheduleEvent>
+          <Program crid='crid://bbc.co.uk/3257009524'/>
+          <ProgramURL>dvb://233a.4000.c222;574@2002-12-03T22:00:00Z/PT00H30M</ProgramURL>
+          <PublishedStartTime>2002-12-03T22:00:00+00:00</PublishedStartTime>
+          <PublishedDuration>PT00H30M00S</PublishedDuration>
+        </ScheduleEvent>
+        <ScheduleEvent>
+          <Program crid='crid://bbc.co.uk/3257009525'/>
+          <ProgramURL>dvb://233a.4000.c222;575@2002-12-03T22:30:00Z/PT01H30M</ProgramURL>
+          <PublishedStartTime>2002-12-03T22:30:00+00:00</PublishedStartTime>
+          <PublishedDuration>PT01H30M00S</PublishedDuration>
+        </ScheduleEvent>
+      </Schedule>
+    </ProgramLocationTable>
+  </ProgramDescription>
+</TVAMain>

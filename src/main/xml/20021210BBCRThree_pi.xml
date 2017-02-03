@@ -1,0 +1,736 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<TVAMain xmlns='urn:tva:metadata:2002' xmlns:mpeg7='urn:mpeg:mpeg7:schema:2001' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='urn:tva:metadata:2002 I:\tv-anytime\Specifications\COR1_SP003v13\tva_metadata_v13.xsd'>
+  <!--Use of this BBC data for non-TV-Anytime purposes is strictly forbidden.-->
+  <ProgramDescription>
+    <ProgramInformationTable>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076985'>
+        <BasicDescription>
+          <Title><![CDATA[Through The Night]]></Title>
+          <Synopsis length='short'><![CDATA[With Jonathan Swain. Includes music from Schubert, Roux, Dubois, Kapp, Clerambault, Mozart, Brahms, Dvorak, Chopin, Telemann, Scheidt, Josquin, Pezel, Beethoven, Haydn, Fontei and Bach.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[With Jonathan Swain
+
+12.05am
+Schubert: Overture Fierrabras (D.796) 
+Netherlands Radio Chamber Orchestra
+
+12.15am
+Patrick Roux: Tango contra Tango 
+Canadian Guitar Quartet
+
+12.25am
+Pierre Max Dubois: Quartet for flutes
+Valentinas Kazlauskas
+
+12.35am
+John Carmichael: Trumpet Concerto
+Kevin Johnston (trumpet)
+
+1.00am
+A concert given by the Canadian Guitar Quartet 
+Bach (arr. J. Sparks): Sonata in E flat (BWV.1031) 
+
+2.05am
+Eugen Kapp: Dances from the ballet Kalevipoeg 
+Estonian Radio Symphony Orchestra
+
+2.25am
+Cl�rambault: Leandre et Hero - cantata 
+Isabelle Poulenard (soprano)
+
+2.45am
+Mozart: Violin Concerto No.5 in A major (K.219) 
+Igor Oistrach (violin/conductor)
+
+3.15am
+Brahms: Symphony No.2 in D major  
+Polish Radio National Symphony Orchestra Katowice 
+
+3.55am
+Dvor�k: Scherzo capriccioso (Op.66) 
+Slovak Radio Symphony Orchestra Bratislava
+
+4.10am
+Chopin: Scherzo No.4 in E major (Op.54)
+Valerie Tryon (piano)
+
+4.20am
+Alphons Diepenbrock: Preghiera alla Madonna
+Christoph Pr�gardien (tenor)
+
+4.30am
+Telemann: Overture in F major 
+Collegium Aureum
+
+4.40am
+Scheidt: Hymnus Christe, qui lux es et dies
+Bert Matter (organ )
+
+4.50am
+Josquin des Pres: Motet Inviolata, integra et casta es 
+Studio de Musique Ancienne de Montr�al
+
+5.00am
+Johann Christoph Pezel: Tower Music from Leipzig Intrada 1, 2 & 3
+The Graham Ashton Brass Ensemble
+
+5.10am
+Beethoven: Piano Sonata No.24 in F sharp major (Op.78)
+Heinrich Neuhaus (piano)
+
+5.20am
+Haydn: Divertimento in E flat major (H.2.21) 
+St Christopher Chamber Orchestra Vilnius
+
+5.40am
+Nicolo Fontei: Vecchia cantatrice & Strano accidenti in bella donna 
+Catherine Bott (soprano)
+
+5.50am
+Bach: Toccata and Fugue in D minor (BWV.565) 
+Simon Preston (organ)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/ttn.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076986'>
+        <BasicDescription>
+          <Title><![CDATA[Morning On 3]]></Title>
+          <Synopsis length='short'><![CDATA[Presented by Penny Gore. Music includes Bach: Partita No 5; Vaughan Williams: Oboe Concerto; Sibelius: Nightride and Sunrise; Handel: Let thy hand; Ravel: Piano Concerto and Nicholson: 42nd St Stomp.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Presented by Penny Gore
+
+6.00am
+Bach
+Partita No.5, BWV829
+Andras Schiff (piano)
+
+6.35am
+Vaughan Williams
+Concerto for Oboe and Strings
+David Theodore (oboe)
+London Symphony Orchestra/ Bryden Thomson (conductor)
+
+7.00am
+Sibelius
+Nightride and Sunrise Op.55
+London Symphony Orchestra/ Colin Davis (conductor)
+
+7.45am
+Handel
+Let thy hand be strengthened
+Choir of Kings College, Cambridge
+The Academy of Ancient Music/ Stephen Cleobury (conductor)
+
+8.05am
+Ravel
+Piano Concerto in G
+Pascal Rog� (piano)
+Montreal Symphony Orchestra/ Charles Dutoit (conductor)
+
+8.30am
+Alasdair Nicholson
+42nd Street Stomp
+Joanna MacGregor (piano)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:morningon3@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/mon3.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076987'>
+        <BasicDescription>
+          <Title><![CDATA[Composer Of The Week]]></Title>
+          <Synopsis length='short'><![CDATA[Max Bruch (1838-1920): Donald Macleod introduces music by the German composer including Symphony No 1; Odysseus (excs) and Scottish Fantasy, Op 46 3rd movement.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Max Bruch (1838-1920)
+
+Presented by Donald Macleod
+
+Symphony no. 1 in E flat, op 28
+Leipzig Gewandhaus Orchestra/Kurt Masur
+
+Odysseus op 41 (extracts)
+Xenia-Maria Mann (mezzo-soprano)
+Jeffrey Kneebone (baritone) Michael Burt (bass-baritone)
+NDR Radio Choir
+Budapest Radio Choir
+Philharmonic Orchestra of NDR Hannover/Leon Botstein
+
+Scottish Fantasy op 46 (Finale)
+Tasmin Little (violin)
+Royal Scottish National Orchestra/Vernon Handley]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.4'>
+            <Name><![CDATA[Arts & Media]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/cotw.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ComposerOfTheWeek'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076988'>
+        <BasicDescription>
+          <Title><![CDATA[CD Masters]]></Title>
+          <Synopsis length='short'><![CDATA[With Rob Cowan. Music includes Grieg: Peer Gynt; Mendelssohn:  Lieblingspl�tzchen, Op. 99 No. 3; Brahms: Lerchengesang, Op. 70 No. 2 and Haydn: Symphony No. 47 in G major.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[With Rob Cowan
+
+Listener Request
+Grieg 
+Wedding March; Ingrid's Lament; Morning (Incidental music to Peer Gynt)
+Royal Philharmonic Orchestra
+conductor Sir Thomas Beecham
+
+Mendelssohn  
+Lieblingspl�tzchen, Op. 99 No. 3; Auf Fl�geln des Gesanges, Op. 34 No. 2
+
+Brahms 
+Lerchengesang, Op. 70 No. 2
+Erna Berger (soprano)
+Michael Raucheisen (piano)
+
+Haydn
+Symphony No. 47 in G major
+Polish Chamber Orchestra
+conductor Jerzy Maksymiuk
+
+Grieg 
+Arabian Dance;  Peer Gynt's Homecoming (Incidental music to Peer Gynt)
+All Russia Radio Orchestra
+conductor Nikolai Golovanov
+
+Listener Request
+Bart�k
+3 Rondos on Folk Tunes, Sz84
+Lili Kraus (piano)
+
+Verdi
+Rigoletto (Act II, conclusion)
+Gilda: Erna Berger (soprano)
+Rigoletto: Leonard Warren (baritone)
+Robert Shaw Chorale
+RCA Victor Symphony Orchestra
+conductor Renato Cellini
+
+Grieg
+Anitras Dance; Solveig's Song; Dance of the Mountain King's Daughter (Incidental music to Peer Gynt)
+London Symphony Orchestra
+conductor Olvin Fjeldstad]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/cdmasters.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076989'>
+        <BasicDescription>
+          <Title><![CDATA[Morning Performance]]></Title>
+          <Synopsis length='short'><![CDATA[Tommy Pearson talks to pianist Joanna MacGregor and introduces some of her recordings, including her own music and pieces by Piazzolla, Cage, Jonathan Harvey, Bach and Hugh Wood.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Artist In Focus: Joanna MacGregor
+
+Tommy Pearson is in conversation with the pianist whose recent appearance at the Mercury Music Awards was described by the Guardian as the most rock'n'roll performance of the night.
+
+arr. MacGregor 4 Russian folk songs.
+
+Astor Piazzolla: Michelangelo 70
+Dmitry Sitkovetsky, violin
+James Crabb, accordion 
+Horacio Malvicino, guitar 
+Hector Console, double bass 
+Joanna MacGregor, piano
+
+John Cage: Water Music
+Joanna MacGregor: Dance It
+Jonathan Harvey: Tombeau de Messiaen
+JS Bach: Allemande (Partita no. 4)Joanna MacGregor piano
+
+Astor Piazzolla: Mumuki
+Dmitry Sitkovetsky, violin
+James Crabb, accordion 
+Horacio Malvicino, guitar 
+Hector Console, double bass 
+Joanna MacGregor, piano
+
+Hugh Wood: Concerto for piano and orchestra
+BBC Symphony Orchestra
+Joanna MacGregor, piano
+Andrew Davis, conductor]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:morning.performance@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/morningp.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076990'>
+        <BasicDescription>
+          <Title><![CDATA[Lunchtime Concert]]></Title>
+          <Synopsis length='short'><![CDATA[Sean Rafferty presents a recital by the young Irish violinist Catherine Leonard given at Belfast's Waterfront Hall with the pianist Charles Owen.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Sean Rafferty presents a recital by the young Irish violinist Catherine Leonard given at Belfast's Waterfront Hall with the pianist Charles Owen.
+
+Jan�cek       Violin Sonata
+Kod�ly         Adagio
+Brahms        Sonata
+
+Encore :  Debussy (arr. J. Heifetz)  Beau Soir]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/r3lunch.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:lunchtime.concert@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076991'>
+        <BasicDescription>
+          <Title><![CDATA[BBC Orchestras]]></Title>
+          <Synopsis length='short'><![CDATA[BBC Symphony Orchestra In Bad Kissingen: Nikolaj Znaider wields his Stradivarius to thrilling effect in Brahms' Violin Concerto recorded this year in the sumptuous surroundings of Bad Kissingen.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[BBC Symphony Orchestra in Bad Kissingen
+
+Nikolaj Znaider wields his Stradivarius to thrilling effect in Brahms' Violin Concerto recorded earlier this year in the sumptuous surroundings of Bad Kissingens Regentenbau. And Maestro Belohlavek stamps his authority on Dvorak's high-spirited Sixth Symphony. 
+
+Presented by Tommy Pearson. 
+
+
+Brahms:                     Violin Concerto
+Conductor:                 Jiri Belohlavek
+Violin:                         Nikolaj Znaider
+
+
+Martinu:                      Niponari
+Conductor:                 Jiri Belohlavek
+Mezzo-Soprano:        Marta Benackova
+
+
+Dvorak:                       Symphony no. 6
+Conductor:                 Jiri Belohlavek]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:bbc.orchestras@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/bbcorchestras.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076992'>
+        <BasicDescription>
+          <Title><![CDATA[Voices]]></Title>
+          <Synopsis length='short'><![CDATA[Hugo Wolf: Iain Burnside presents a programme dedicated to performances of some of Wolf's settings of the poems of Eduard M�rike.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Leading up to the centenary of the death of Hugo Wolf in February 2003, Voices will be recording the bulk of his prodigious song output. Iain Burnside presents a programme dedicated to performances of some of Wolf's settings of the poems of  Eduard M�rike.
+
+Hugo Wolf  M�rike-Lieder
+
+Simon Keenlyside - baritone
+Julius Drake  piano
+Joan Rodgers  soprano
+Roger Vignoles - piano]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:voices@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/voices.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076993'>
+        <BasicDescription>
+          <Title><![CDATA[In Tune]]></Title>
+          <Synopsis length='short'><![CDATA[Sean Rafferty presents a selection of music, news and reviews from the arts world. Email: in.tune@bbc.co.uk]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.10'>
+            <Name><![CDATA[Cultural]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:in.tune@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/intune.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/InTune'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076994'>
+        <BasicDescription>
+          <Title><![CDATA[Performance On 3]]></Title>
+          <Synopsis length='short'><![CDATA[Sophie's Choice: Nicholas Maw's opera Sophie's Choice, based on the William Styron novel, direct from Covent Garden. Angelika Kirchschlager sings the title role, and Simon Rattle conducts.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Sophie's Choice
+
+A powerful new opera by Nicholas Maw, commissioned by BBC Radio 3 in association with the Royal Opera House.
+
+Based on William Styron's compelling and poignant novel, the story emerges from the intriguing triangle of three people in post-Second World War Brooklyn: Stingo, a young southerner struggling to write his first novel, Nathan, a tortured but brilliant American Jew, and his lover Sophie, a beautiful Polish woman whose wrist bears the grim tattoo of a Nazi concentration camp, and who is hiding a terrible secret.
+
+Presented by Andrew McGregor.
+
+Narrator                               Dale Duesing (baritone)
+Sophie                                 Angelika Kirchschlager (mezzo-soprano)
+Nathan                                 Rodney Gilfry (baritone)
+Stingo                                  Gordon Gietz (tenor)
+Yetta Zimmerman                Frances McCafferty (mezzo-soprano)
+Zbigniew Bieganski             Stafford Dean (bass)
+Rudolph Franz Hoss           Jorma Silvasti (tenor)
+Doctor                                 Alan Opie (baritone)
+Wanda                                Stephanie Friede (soprano)
+Larry Landau                      Quentin Hayes (bass)
+Librarian                             Adrian Clarke (baritone)
+Old Woman on Train           Gillian Knight (mezzo-soprano)
+Bartender                           Darren Jeffrey (baritone)
+Young Man on Train           Neil Gillespie (tenor)
+
+Orchestra of the Royal Opera House, Covent Garden
+The Royal Opera Chorus (Chorus Director - Terry Edwards)
+Conducted by Simon Rattle]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:performance.on.3@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/pon3.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PerformanceOn3'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076995'>
+        <BasicDescription>
+          <Title><![CDATA[Twenty Minutes]]></Title>
+          <Synopsis length='short'><![CDATA[The Making Of Sophie's Choice: Christopher Cook discusses tonight's opera with composer, conductor, director and cast.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[The Making Of Sophie's Choice
+
+Christopher Cook talks to the composer, conductor, director, and members of the cast of Sophie's Choice about the background to this major new commission and the psychological effects of dealing with such intense subject matter.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.4'>
+            <Name><![CDATA[Arts & Media]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:twenty.minutes@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/speech/twentymins.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076996'>
+        <BasicDescription>
+          <Title><![CDATA[Performance On 3]]></Title>
+          <Synopsis length='short'><![CDATA[Acts 3 and 4 of Nicholas Maw's opera Sophie's Choice direct from Covent Garden. Angelika Kirchschlager sings the title role, and Simon Rattle conducts.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:performance.on.3@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/pon3.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PerformanceOn3'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076997'>
+        <BasicDescription>
+          <Title><![CDATA[Late Junction]]></Title>
+          <Synopsis length='short'><![CDATA[Verity Sharp opens windows on distant musical worlds, including 12th-century Aquitanian polyphony sung by Ensemble Organum, and Naseer Shamma with the lute of Baghdad.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.13'>
+            <Name><![CDATA[Cutting edge]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.28'>
+            <Name><![CDATA[Innovative]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1.4'>
+            <Name><![CDATA[Contemporary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:late.junction@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/world/latejunction.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LateJunction'/>
+      </ProgramInformation>
+    </ProgramInformationTable>
+  </ProgramDescription>
+</TVAMain>

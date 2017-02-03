@@ -1,0 +1,679 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<TVAMain xmlns='urn:tva:metadata:2002' xmlns:mpeg7='urn:mpeg:mpeg7:schema:2001' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='urn:tva:metadata:2002 I:\tv-anytime\Specifications\COR1_SP003v13\tva_metadata_v13.xsd'>
+  <!--Use of this BBC data for non-TV-Anytime purposes is strictly forbidden.-->
+  <ProgramDescription>
+    <ProgramInformationTable>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076386'>
+        <BasicDescription>
+          <Title><![CDATA[Through The Night]]></Title>
+          <Synopsis length='short'><![CDATA[Jonathan Swain plays pieces by Gluck, Fodor, Mozart, Britten, Mozetich, Ponchielli, Donizetti, Kunileid, Couperin, Paganini, Rossini, Finzi, Turina, Duparc, Rossi, Handel and Holst.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[With Jonathan Swain
+
+1.00am
+Gluck: Orfeo ed Eurydice  opera in 3 Acts 
+Zbor RTZ Choir
+Zagreb Philharmonic Orchestra 
+Lovro von Matacic (conductor)  
+
+2.50am
+Carolus Fodor: Piano Sonata in F major (Op.2 No.1) 
+Arthur Schoonderwoerd (fortepiano)
+
+3.05am
+Mozart: Violin Concerto No.1 in B flat major (K.207) 
+Benjamin Schmid (violin)
+The Danish Radio Concert Orchestra
+Adam Fischer (conductor) 
+
+3.25am
+Britten: Canadian Carnival (Op.19)
+Edmonton Symphony Orchestra
+Uri Mayer (conductor) 
+
+3.40am
+Marjan Mozetich: Postcards from the Sky 
+CBC Vancouver Orchestra
+Mario Bernardi (conductor)
+
+3.55am
+Amilcare Ponchielli: Capriccio for oboe and piano
+Hyun-Soo Chi (piano)
+
+4.05am
+Donizetti: Edgars aria from Lucia di Lammermoor
+Hungarian State Opera Orchestra
+J�nos Ferencsik (conductor)
+
+4.20am
+Kunileid: Mu Isamaa On Minu Arm (My Fatherland you are my love); Sind Surmani (Until I die)
+Estonian Radio Mixed Choir
+Toomas Kapten (conductor)
+
+4.30am
+Couperin: La Fran�oise (La pucelle)  sonata (Les Nations  ordre No.1 in E minor) 
+Ricercar Consort
+Henri Ledroit (conductor) 
+
+4.40am
+Paganini: Variazioni con Bravara 
+Arto Noras (cello)
+
+4.45am
+Rossini: La Gazza Ladra  The Thieving Magpie: overture 
+Polish Radio Orchestra
+Wojciech Rajski (conductor) 
+
+5.00am
+Gluck: Dance of the Furies, from Act II of Orfeo ed Euridice
+Zagreb Philharmonic Orchestra
+
+Gerald Finzi: White-flowering days for chorus
+BBC Singers
+
+5.05am
+Turina: Circulo 
+Daniel Blumental (piano)
+
+5.20am
+Duparc: El�gie 
+Stephen Ralls (piano) 
+
+Debussy: Pr�lude � lapr�s-midi dun faune 
+
+5.30am
+Salomone Rossi: Sinfonia grave a 5 
+
+5.40am
+Handel: Concerto Grosso in A minor (Op.6 No.4) 
+The Sixth Floor Ensemble
+
+5.50am
+Holst: Ave Maria (Hail Mary)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/ttn.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076387'>
+        <BasicDescription>
+          <Title><![CDATA[Morning On 3]]></Title>
+          <Synopsis length='short'><![CDATA[Martin Handley plays Bach's Chaconne, Britten's Variations,Handel's Concerto, Dvorak's Golden Spinning Wheel, Shostakovich's Overture and Strauss' Till Eulenspiegel.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Presented by Martin Handley
+
+6.10am
+Bach/Busoni: Chaconne in D minor (from Violin Partita No.2)
+Jorge Bolet (piano)
+ 
+6.30am
+Britten: Variations on a theme by Frank Bridge
+English Chamber Orchestra
+Benjamin Britten (conductor)
+
+7.00am
+Handel: Concerto grosso in F major, Op.3 No.4
+Tafelmusik
+Jeanne Lamon (director)
+
+7.35am
+Dvorak: The golden spinning wheel
+Czech Philharmonic Orchestra
+Jiri Belohlavek (conductor)
+
+8.00am
+Shostakovich: Festive Overture
+The Philadelphia Orchestra
+Riccardo Muti (conductor)
+
+8.40am
+Strauss: Til Eulenspiegels lustige Streiche
+The Cleveland Orchestra
+Christoph von Dohnanyi (conductor)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:morningon3@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/mon3.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076388'>
+        <BasicDescription>
+          <Title><![CDATA[CD Review]]></Title>
+          <Synopsis length='short'><![CDATA[Andrew McGregor reviews new CDs and looks at Beethoven's Spring Sonata, new Rodrigo CDs and Donizetti's Lucia de Lammermoor, and interviews Paul Hillier.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[With Andrew McGregor who plays some of this month's newest releases.
+
+In Building a Library, Misha Donat compares the currently available recordings of Beethoven's Violin Sonata No.5, Op.24 Spring.
+ 
+There's a round-up of some recently reissued recordings, David Huckvale reviews some recent recordings of Rodrigo's music, marking the close of his centenary year, and there's an interview with singer and choral director Paul Hillier, whose most recent recordings include the masses of William Byrd, and an anthology of choral music from the countries around the Baltic Sea.
+
+Disc Of The Week:
+
+Donizetti:  Lucie De Lammermoor
+Natalie Dessay (Lucie)
+Roberto Alagna (Edgar)
+Orchestra & Chorus of Lyon National Opera, 
+Evelino Pido (conductor)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.10'>
+            <Name><![CDATA[Cultural]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:cdreview@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/cdreview.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076389'>
+        <BasicDescription>
+          <Title><![CDATA[Private Passions]]></Title>
+          <Synopsis length='short'><![CDATA[Michael Berkeley meets Nicholas de Jongh, chief theatre critic of the London Evening Standard, whose choice of music includes Bach, Schubert, Mozart, Richard Strauss and Mahler.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Today Michael Berkeley talks to Nicholas de Jongh, Chief Theatre Critic of The Evening Standard, and author of Politics, Prudery And Perversions, a history of the censorship imposed on the English stage from 1901 until 1968, when a row involving the plays of Edward Bond finally forced the Wilson government to abolish the practice.
+
+Nicholas de Jongh's musical choices include a Bach cello suite, Schubert's Death and the Maiden String Quartet, a Mozart piano concerto, and the closing pages of Strauss' Elektra and Mahler's Ninth Symphony]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/privpass.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PrivatePassions'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076390'>
+        <BasicDescription>
+          <Title><![CDATA[World Routes]]></Title>
+          <Synopsis length='short'><![CDATA[Lucy Duran introduces sacred chant performed live in the studio by twenty Tibetan monks from Labrang monastery. Plus a round-up of new world music discs with Charlie Gillett.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Lucy Duran is joined live in the studio by a group of twenty Tibetan monks who are visiting the U.K for the first time. From the famous Labrang monastery in the frontier town of Xiahe, they bring with them conch shells, flutes, tuned cloud gongs, drums, mouth organs, and of course, their unique sacred chanting.
+
+Plus a round-up of new releases on the world music scene with DJ Charlie Gillett.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.9'>
+            <Name><![CDATA[World/Traditional/Ethnic/Folk music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/world/worldroutes.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/WorldRoutes'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076391'>
+        <BasicDescription>
+          <Title><![CDATA[Listeners' Choice]]></Title>
+          <Synopsis length='short'><![CDATA[Humphrey Carpenter introduces listeners' requests, including Delius' Piano Concerto, Debussy's Premiere Rapsodie and Arnold's Brass Quintet No 1.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Humphrey Carpenter introduces this week's selection of listeners requests, including: 
+
+Delius: Piano Concerto
+Benno Moisewitsch (piano)
+Philharmonia Orchestra
+Constant Lambert (conductor)
+
+Debussy: Premiere Rapsodie for clarinet and orchestra
+Gervaise de Peyer (clarinet)
+BBC Symphony Orchestra
+Rudolf Kempe (conductor)
+
+Arnold: Brass Quintet No.1
+Center City Brass Quintet]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:listeners.choice@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/listeners.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076392'>
+        <BasicDescription>
+          <Title><![CDATA[Jazz Line-Up]]></Title>
+          <Synopsis length='short'><![CDATA[Claire Martin talks to singer Jane Monheit. Plus a round-up of new releases and gig news from around the country.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.2'>
+            <Name><![CDATA[Jazz]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:jazzlineup@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/jazz/jazzlineup.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/JazzLineup'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076393'>
+        <BasicDescription>
+          <Title><![CDATA[Jazz Record Requests]]></Title>
+          <Synopsis length='short'><![CDATA[With Geoffrey Smith. Request your favourite jazz cut by E mail: jazz.record.requests@bbc.co.uk]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.2'>
+            <Name><![CDATA[Jazz]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:jazz.record.requests@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/jazz/jrr.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/JazzRecordRequests'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076394'>
+        <BasicDescription>
+          <Title><![CDATA[Jazz File]]></Title>
+          <Synopsis length='short'><![CDATA[The Dark Keys: Kevin Le Gendre explores the issue of race in the UK jazz scene in the second of two programmes.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[The Dark Keys - Part Two
+
+The concluding part of this series exploring the issue of race on the British Jazz scene.
+
+Presenter Kevin Le Gendre looks at how welcoming the established London jazz clubs are to black musicians and examines the nature of Britain's jazz audiences: does the black community support its musicians, and does the black media give the music the profile it deserves?]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.2'>
+            <Name><![CDATA[Jazz]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/jazz/jazzfile.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/JazzFile'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076395'>
+        <BasicDescription>
+          <Title><![CDATA[Opera On 3]]></Title>
+          <Synopsis length='short'><![CDATA[The winter season of relays from the New York Met begins with Beethoven's Fidelio, starring Waltraud Meier, Johan Botha and Matti Salminen. Peter Schneider conducts.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Fidelio.
+
+Beethoven's unique operatic hymn to freedom launches this winter's season of Radio 3 operas live from the Metropolitan Opera in New York. In one of the simplest and most moving of all opera plots, the heroine Leonora - disguised as a boy called Fidelio - strives to rescue her beloved husband Florestan from political imprisonment. 
+
+Leonore ...... Waltraud Meier (mezzo-soprano)
+Florestan ...... Johan Botha (tenor)
+Rocco, his gaoler ...... Matti Salminen (bass)
+Marzelline, Roccos daughter ...... Hei-Kyung Hong (soprano)
+Jaquino, the turnkey ...... Paul Charles Clarke (tenor)
+Don Pizarro, Florestans enemy ...... Richard Paul Fink (baritone)
+Don Fernando, Florestans boss ...... Alan Held (baritone)
+
+Chorus and Orchestra of the New York Metropolitan Opera 
+Conducted by Peter Schneider]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/opera/index.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/OperaOn3'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076396'>
+        <BasicDescription>
+          <Title><![CDATA[The Met Opera Quiz]]></Title>
+          <Synopsis length='short'><![CDATA[Opera buffs pit their wits against teasers sent in by listeners. Brian Zeger is in the chair and the panel are Martin Bernheimer, Ken Benson and Alan Wagner.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076397'>
+        <BasicDescription>
+          <Title><![CDATA[Opera Snaps]]></Title>
+          <Synopsis length='short'><![CDATA[Rodney Milnes takes a sideways glance at tonight's opera: Beethoven's Fidelio.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076398'>
+        <BasicDescription>
+          <Title><![CDATA[Opera On 3]]></Title>
+          <Synopsis length='short'><![CDATA[Act 2 of Beethoven's Fidelio direct from the Metropolitan Opera, New York.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/opera/index.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/OperaOn3'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076399'>
+        <BasicDescription>
+          <Title><![CDATA[The Borodins Play Shostakovich]]></Title>
+          <Synopsis length='short'><![CDATA[The Borodin Quartet play Shostakovich's String Quartet No 9 at last year's Aldeburgh Festival.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076400'>
+        <BasicDescription>
+          <Title><![CDATA[The Verb]]></Title>
+          <Synopsis length='short'><![CDATA[Ian McMillan explores language, including a story by Nigerian Helon Habila, the University of East Anglia's creative writing course, and poet and storyteller Rosemary Harris.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[This week in The Verb, Radio 3's international showcase of new writing, performance and language, there's a specially commissioned story by Helon Habila, the Nigerian novelist. He won acclaim -and the Caine Prize for African Writing - for his first novel Waiting for an Angel, about a young journalist living in one for the most dangerous cities in the world, Lagos under the military regime.
+
+Habila has recently been on Britains best-known creative writing course at the University of East Anglia. The novelists Michele Roberts and Patricia Duncker are just reaching the end their first term as the two new professors running it and they submit their end of term report to the beady scrutiny of Ian McMillan, and introduce some voices to listen out for.
+
+There's a performance piece from Rosemary Harris, a poet and storyteller from Australia who casts a pretty beady gaze on her society and ours too.
+
+And Ian McMillan and his guests will consider the wonder and horror of language in the air, the language of the moment.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.4'>
+            <Name><![CDATA[Arts & Media]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/speech/theverb/</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/TheVerb'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076401'>
+        <BasicDescription>
+          <Title><![CDATA[Hear And Now]]></Title>
+          <Synopsis length='short'><![CDATA[New music from this year's Huddersfield Festival by Danes Per Norgard and Pelle Gudmundsen-Holmgreen and by Billy Cowie, Simon Bainbridge, Joe Duddell and Stuart Macrae.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[In the second programme from this year's Huddersfield Festival, Verity Sharp and Alwynne Pritchard introduce highlights from three concerts given by the BBC Singers, the BBC Scottish Symphony Orchestra and the Athelas ensemble.
+
+The programme includes works by N�rg�rd, Cowie and Bainbridge and the world premieres of two BBC Commissions, Joe Duddell's Not Waving But Drowning and Stuart MacRae's Ancrene Wisse. 
+
+Plus, the first performance of the a cappella version of Duddell's The Real Side. 
+
+And from Denmark, the British premieres of Gudmundsen-Holmgreens and N�rg�rds R�ves en Plein Lumi�]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.13'>
+            <Name><![CDATA[Cutting edge]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.28'>
+            <Name><![CDATA[Innovative]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1.4'>
+            <Name><![CDATA[Contemporary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/world/hearandnow.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+    </ProgramInformationTable>
+  </ProgramDescription>
+</TVAMain>

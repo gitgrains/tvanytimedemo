@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<TVAMain xmlns='urn:tva:metadata:2002' xmlns:mpeg7='urn:mpeg:mpeg7:schema:2001' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='urn:tva:metadata:2002 I:\tv-anytime\Specifications\COR1_SP003v13\tva_metadata_v13.xsd'>
+  <!--Use of this BBC data for non-TV-Anytime purposes is strictly forbidden.-->
+  <ProgramDescription>
+    <ServiceInformationTable>
+      <ServiceInformation serviceId='BBCOne'>
+        <Name>BBC One</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a.1004.107f</ServiceURL>
+      </ServiceInformation>
+      <ServiceInformation serviceId='BBCTwo'>
+        <Name>BBC Two</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a.1004.1080</ServiceURL>
+      </ServiceInformation>
+      <ServiceInformation serviceId='BBCNewsTF'>
+        <Name>BBC News 24</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a.1004.1100</ServiceURL>
+      </ServiceInformation>
+      <ServiceInformation serviceId='BBCThree'>
+        <Name>BBC Three</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a.1004.10c0</ServiceURL>
+      </ServiceInformation>
+      <ServiceInformation serviceId='BBCFour'>
+        <Name>BBC Four</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a.4000.11c0</ServiceURL>
+      </ServiceInformation>
+      <ServiceInformation serviceId='BBCCBBC'>
+        <Name>CBBC</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a.1004.1200</ServiceURL>
+      </ServiceInformation>
+      <ServiceInformation serviceId='BBCCeebeebies'>
+        <Name>Cbeeb</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a.4000.1240</ServiceURL>
+      </ServiceInformation>
+      <ServiceInformation serviceId='BBCParl'>
+        <Name>BBC Parliament</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a.4000.1180</ServiceURL>
+      </ServiceInformation>
+      <ServiceInformation serviceId='BBCWrld'>
+        <Name>BBC World Service</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a.4000.c226</ServiceURL>
+      </ServiceInformation>
+      <ServiceInformation serviceId='BBCROne'>
+        <Name>BBC Radio 1</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a.4000.c221</ServiceURL>
+      </ServiceInformation>
+      <ServiceInformation serviceId='BBCRTwo'>
+        <Name>BBC Radio 2</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a.4000.c222</ServiceURL>
+      </ServiceInformation>
+      <ServiceInformation serviceId='BBCRThree'>
+        <Name>BBC Radio 3</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a.4000.c223</ServiceURL>
+      </ServiceInformation>
+      <ServiceInformation serviceId='BBCRFour'>
+        <Name>BBC Radio 4</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a.4000.c224</ServiceURL>
+      </ServiceInformation>
+      <ServiceInformation serviceId='BBCRFiveL'>
+        <Name>BBC Radio 5 Live</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a.4000.c225</ServiceURL>
+      </ServiceInformation>
+      <ServiceInformation serviceId='BBCSixMU'>
+        <Name>BBC Radio 6 Music</Name>
+        <Owner>BBC</Owner>
+        <ServiceURL>dvb://233a.4000.c22b</ServiceURL>
+      </ServiceInformation>
+    </ServiceInformationTable>
+  </ProgramDescription>
+</TVAMain>

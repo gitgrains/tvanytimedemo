@@ -1,0 +1,648 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<TVAMain xmlns='urn:tva:metadata:2002' xmlns:mpeg7='urn:mpeg:mpeg7:schema:2001' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='urn:tva:metadata:2002 I:\tv-anytime\Specifications\COR1_SP003v13\tva_metadata_v13.xsd'>
+  <!--Use of this BBC data for non-TV-Anytime purposes is strictly forbidden.-->
+  <ProgramDescription>
+    <ProgramInformationTable>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076402'>
+        <BasicDescription>
+          <Title><![CDATA[Through The Night]]></Title>
+          <Synopsis length='short'><![CDATA[Jonathan Swain plays Tchaikovsky, Scriabin, Wagner, Schafer, Brahms, Auletta, Glazunov, Beethoven, Albicastro, Bach, Dalza, Telemann, Bizet, Faure, Bach, Howells and Holst.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[With Jonathan Swain
+
+1.00am
+Tchaikovsky: Symphony No. 1 in G minor Winter daydreams           
+Scriabin: Prometheus (The Poem of Fire (Op.60) 
+Wagner: Leb wohl and Magic Fire Music; The Ride of the Valkyries
+Crouch End Festival Chorus
+
+2.25am
+Dirk Sch�fer: Piano Quintet in D flat major (Op.5) 
+Orpheus String Quartet 
+Jacob Bogaart (piano)
+
+3.05am
+Brahms: Piano Sonata No.3 in F minor (Op.5) 
+Mikhail Pletnev (piano) 
+
+3.40am
+Domenico Auletta: Harpsichord Concerto  
+Cappella della Piet� deTurchini
+
+4.00am
+Glazunov: Lyric poem in D flat major (Op.12)
+West Australian Symphony Orchestra
+Vladimir Verbitsky (conductor)
+
+4.10am
+Beethoven: Romance in F major (Op.50) 
+Young-Lan Han (piano)
+
+4.20am
+Henri Albicastro: Concerto � 4
+Ensemble 415
+Chiara Banchini (director)
+
+4.30am
+Bach: Prelude and fugue in F major (Das Wohltemperierte Klavier, Book.2 No.11)
+Andreas Staier (harpsichord) 
+
+4.40am
+Joan-Ambrosio Dalza:Tastar de corde Padoana & Calata 
+Marcel Benoit (lute) 
+
+4.50am
+Telemann: Martedi (TWV42: B3) (Pyrmonter Kurwoche)
+Wolfgang Hochstein (harpsichord)
+
+5.00am
+Bizet:  Extracts from  LArl�sienne Suites Nos.1 & 2 
+Netherlands Radio Symphony Orchestra
+Kenneth Montgomery (conductor)
+
+5.20am
+Faur�: Nocturne No.6 in D flat major (Op.63)
+Jean-Yves Thibaudet (piano)
+
+5.30am
+Bach: Viola da gamba Sonata  No. 3 in G minor
+Leif Ove Andsnes (piano) 
+
+5.45am
+Howells: Psalm-prelude No.3 in C major 
+Ian Sadler (organ)
+
+5.55am
+Holst: Nunc dimittis 
+BBC Singers
+Nicholas Kok (conductor)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/ttn.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076403'>
+        <BasicDescription>
+          <Title><![CDATA[Morning On 3]]></Title>
+          <Synopsis length='short'><![CDATA[Martin Handley plays Glinka's Trio pathetique, Vivaldi's Salve regina, Mozart's Horn Concerto No 3, Barber's First Essay, Tchaikovsky's Voyevoda and Poulenc's Gloria.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Presented by Martin Handley
+
+6.00am
+Glinka: Trio pathetique in D minor
+The Borodin Trio
+
+6.40am
+Vivaldi: Salve regina
+Andreas Scholl (countertenor)
+Australian Brandenburg Orchestra
+Paul Dyer (conductor)
+
+7.30am
+Mozart: Horn concerto No.3 in E flat
+Barry Tuckwell (horn & director)
+English Chamber Orchestra
+
+7.50am
+Barber: 1st Essay for orchestra
+Baltimore Symphony Orchestra
+David Zinman (conductor)
+
+8.05am
+Tchaikovsky: Voyevoda
+Saint Louis Symphony Orchestra
+Leonard Slatkin (conductor)
+
+8.30am
+Poulenc: Gloria
+Sylvia Greenberg (soprano)
+Suisse Romande Radio Choir, Pro Arte de Lausanne Choir
+Orchestra of the Suisse Romande
+Jesus Lopez-Cobos (conductor)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:morningon3@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/mon3.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076404'>
+        <BasicDescription>
+          <Title><![CDATA[Sunday Live]]></Title>
+          <Synopsis length='short'><![CDATA[Stephanie Hughes presents the best of recent performances from around Europe including choral music by Haydn and Arvo P�rt, plus music from the Carl Czerny Music Festival.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Stephanie Hughes presents the best of recent performances from around Europe including choral music by Haydn and 
+Arvo P�rt, plus music from the Carl Czerny Music Festival, Edmonton, which took place earlier this year. Stephanie's guest this morning is the composer and broadcaster Howard Goodall.
+
+Czerny: Grand Overture in C minor
+Edmonton Symphony Orchestra 
+Grzegorz Nowak (conductor)
+(Performance from the Winspear Centre for Music, Edmonton, Canada, during the Carl Czerny Music Festival
+
+Haydn:The Storm
+Vienna Chamber Choir
+New Austro-Hungarian Haydn Philharmonic Orchestra
+Ad�m Fischer (conductor)
+Performance from the Esterh�zy Castle, Eisenstadt, Austria, during the 2002 International Haydn Days)
+
+F.X. Mozart:Sonata in E
+Steven Isserlis (cello), 
+Melvyn Tan (fortepiano)
+BBC recording at the Bath Mozartfest, Bath, UK
+
+Poulenc: Concert champ�tre for harpsichord and orchestra
+Jory Vinikour (harpsichord)
+Radio France Philharmonic Orchestra
+Marc Minkowski (conductor)
+Performance from the Olivier Messiaen Hall, Radio France, Paris, France, during the Radio France Philharmonic Orchestra 2002 season
+
+Messiaen:Transports de joie (L'Ascension)
+Aigars Reinis (organ)
+Performance from Riga Cathedral, Riga, Latvia)
+
+Schumann: Andante & Variations in B flat major, Op.46
+Peter Donohoe & Martin Roscoe (pianos)
+BBC recording at the Assembly Rooms, Bath, UK, during the Bath Mozartfest
+
+Ravel:Piano Concerto in D for the left hand
+Leon Fleisher (piano)
+Frankfurt Radio Symphony Orchestra
+Hugh Wolff (conductor)
+Performance as part of the Frankfurt Radio Symphony]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.4'>
+            <Name><![CDATA[Arts & Media]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:sunday.live@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/sundaylive.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076405'>
+        <BasicDescription>
+          <Title><![CDATA[Performing Bach]]></Title>
+          <Synopsis length='short'><![CDATA[In the second of three programmes exploring favourite Bach works on record, Anthony Burton surveys recordings of the violin concertos.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[In the second programme reviewing the history of favourite Bach works on record, Anthony Burton surveys recordings of the ever-popular Violin Concertos by David Oistrakh, Andrew Manze, Gidon Kremer, Yehudi Menuhin, Monica Huggett, Isaac Stern and others.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076406'>
+        <BasicDescription>
+          <Title><![CDATA[Lunchtime Concert]]></Title>
+          <Synopsis length='short'><![CDATA[Last Monday's Wigmore Hall recital by soprano Barbara Bonney with pianist Malcolm Martineau of songs by Haydn, Schubert and Brahms.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/r3lunch.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:lunchtime.concert@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076407'>
+        <BasicDescription>
+          <Title><![CDATA[BBC Legends]]></Title>
+          <Synopsis length='short'><![CDATA[BBC recordings by the Melos Quartet, including Schubert's Quartet in D,  and Beethoven's Quartet in C minor.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.4'>
+            <Name><![CDATA[Documentary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/bbclegends.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076408'>
+        <BasicDescription>
+          <Title><![CDATA[Private Passions]]></Title>
+          <Synopsis length='short'><![CDATA[Michael Berkeley meets Nicholas de Jongh, chief theatre critic of the London Evening Standard, whose choice of music includes Bach, Schubert, Mozart, Richard Strauss and Mahler.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Today Michael Berkeley talks to Nicholas de Jongh, Chief Theatre Critic of The Evening Standard, and author of Politics, Prudery And Perversions, a history of the censorship imposed on the English stage from 1901 until 1968, when a row involving the plays of Edward Bond finally forced the Wilson government to abolish the practice.
+
+Nicholas de Jongh's musical choices include a Bach cello suite, Schubert's Death and the Maiden String Quartet, a Mozart piano concerto, and the closing pages of Strauss' Elektra and Mahler's Ninth Symphony.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/privpass.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PrivatePassions'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076409'>
+        <BasicDescription>
+          <Title><![CDATA[Brian Kay's Light Programme]]></Title>
+          <Synopsis length='short'><![CDATA[This week's selection of music features Eric Coates's Cinderella Phantasy, seasonal pieces from Philip Lane and Kennedy Russell, and Robert Farnon and his orchestra with Vera Lynn.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Eric Coates' Cinderella Phantasy is the main work in today's programme alongside seasonal offerings from Philip Lane and Kennedy Russell, and Robert Farnon and his orchestra team up with Vera Lynn for Once Upon a Winter Time.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.3.2'>
+            <Name><![CDATA[Easy listening]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.3.8'>
+            <Name><![CDATA[Soundtrack]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:bklp@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/bklp.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076410'>
+        <BasicDescription>
+          <Title><![CDATA[Discovering Music]]></Title>
+          <Synopsis length='short'><![CDATA[Chris de Souza explores the Trittico Botticelliano - Respighi's orchestral evocation of paintings from the Italian Renaissance.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Chris de Souza gets to grips with Ottorino Respighi's vivid depiction of paintings from the Italian Renaissance, the Trittico Botticelliano. Specially-recorded musical illustrations are played by the BBC National Orchestra of Wales conducted by Peter Stark.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/discover.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076411'>
+        <BasicDescription>
+          <Title><![CDATA[The John Tusa Interview]]></Title>
+          <Synopsis length='short'><![CDATA[John Tusa talks to the distinguished Chinese-American architect I M Pei.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[John Tusa continues his series of conversations with some of the world's greatest artistic originators. This week he meets Chinese-American architect, and creator of the Louvre's glass pyramid entrance, I. M. Pei.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.4'>
+            <Name><![CDATA[Arts & Media]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1'>
+            <Name><![CDATA[NON-FICTION]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.1.5'>
+            <Name><![CDATA[Discussion/Interview/Debate]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076412'>
+        <BasicDescription>
+          <Title><![CDATA[Drama On 3]]></Title>
+          <Synopsis length='short'><![CDATA[Hilary Mantel's dramatisation of her novel The Giant, O'Brien, loosely based on two 18th-century characters, Irishman Charles O'Brien and Scottish scientist John Hunter.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[The Giant, O'Brien by Hilary Mantel.
+
+The year is 1781. Our hero is Charles O'Brien, bard and giant.
+
+The Giant, O' Brien is an unforgettable story; lyrical, shocking and spliced by black comedy; Mantel's dialogue is rich and clear and her story, based onfact, is an absorbing portrait of London at the end of the eighteenth century and an acutely observed fable about our fear of the unusual and the foreign.  The evidence on which the story is based lies in the Royal College of Surgeons at Lincolns Inn Fields where the bones of the giant, Charles O' Brien can be seen today.  His bones measure seven feet ten inches and he was said to have been only twenty-one years old at his death.
+
+Giant O' Brien ...... Lloyd Hutchinson
+Joe Vance ...... Kieran Lagan
+Ferris ...... Dermot Crowley
+Pybus ...... Owen Sharpe
+Claffy ...... Niall Buggy
+John Hunter ...... Alex Norton
+Bitch Mary ......Dorothy Duffy
+Aiofe ...... Marcella Riordan
+Bride Caskey ......Frances Tomelty
+Howison ...... Stuart McQuarrie
+Anne Hunter ...... Deborah Findlay
+Pressmen/ Sailors/ Graverobbers ......John Hartley, Tom George & Ben Crowe.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.1'>
+            <Name><![CDATA[General light drama]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/speech/sundayplay.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076413'>
+        <BasicDescription>
+          <Title><![CDATA[Choirworks]]></Title>
+          <Synopsis length='short'><![CDATA[Paul Guinery with the year's top choral CDs, including music by Stravinsky, Dufay, Arvo Part, Haydn, Lili Boulanger, Hummel, James MacMillan, Padilla, Zespedes and Rautavaara.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Paul Guinery introduces a selection of the best of the year's choral CD releases.
+
+Including:
+
+Stravinsky: Exaudi orationem meam (Symphony of Psalms)
+Monteverdi Choir/London Symphony Orchestra/ John Eliot Gardiner
+
+Dufay: Kyrie  (Fons bonitatis)
+The Clerks' Group/Edward Wickham
+
+Part: Como cierva sedienta (extract)
+Swedish Radio Choir and Symphony Orchestra / Tonu Kaljuste
+
+Haydn: Gloria (Harmoniemesse)
+Monteverdi Choir/English Baroque Soloists/John Eliot Gardiner
+
+Boulanger: Psalm 129
+Monteverdi Choir/London Symphony Orchestra/John Eliot Gardiner
+
+Hummel: Credo (Mass in D, Op. 111)
+Collegium Musicum 90/ Richard Hickox
+
+Macmillan: O bone Jesu
+The Sixteen/ Harry Christophers
+
+De Padilla: Sanctus & Agnus Dei (Missa Ego flos campi)
+De Zespedes Convidendo esta la noche
+The Harp Consort / Andrew Lawrrence-King
+
+Rautavaara: Lorca Suite Op.72
+Estonian Philharmonic Chamber Choir/ Paul Hillier]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.2.1'>
+            <Name><![CDATA[Religion]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.8'>
+            <Name><![CDATA[ENRICHMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/choirworks.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076414'>
+        <BasicDescription>
+          <Title><![CDATA[Gillian Weir]]></Title>
+          <Synopsis length='short'><![CDATA[Organ recital given earlier this year in Symphony Hall, Birmingham. Jongen:'s Sonata eroica, Durufle's Scherzo, and Widor's Organ Symphony No 6 are the pieces.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257076415'>
+        <BasicDescription>
+          <Title><![CDATA[Mixing It]]></Title>
+          <Synopsis length='short'><![CDATA[Mark Russell and Robert Sandall present a unique mix of musical styles and influences, including an interview with New Yorker El-P about his innovative approach to hip-hop.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Mark Russell and Robert Sandall present a unique mix of musical styles and influences, including an interview with New Yorker El-P about his innovative approach to hip-hop with Company Flow and Cannibal Ox, and as a solo artist.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.13'>
+            <Name><![CDATA[Cutting edge]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.28'>
+            <Name><![CDATA[Innovative]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1.4'>
+            <Name><![CDATA[Contemporary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/world/mixingit.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/MixingIt'/>
+      </ProgramInformation>
+    </ProgramInformationTable>
+  </ProgramDescription>
+</TVAMain>

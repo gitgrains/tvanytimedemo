@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<ContentReferencingTable xmlns='http://www.tv-anytime.org/2002/02/ContentReferencing' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' version='1' xsi:schemaLocation='http://www.tv-anytime.org/2002/02/ContentReferencing  I:\tv-anytime\schema\content_refv1.2spec(validateslocally).xsd'>
+  <Result CRID='crid://bbc.co.uk/297827976' status='resolved' complete='true' acquire='any'>
+    <LocationsResult>
+      <Locator>dvb://233a.4000.11c0;7e88@2002-12-10T20:29:52Z/PT00H29M</Locator>
+      <Locator>dvb://233a.4000.11c0;7e8c@2002-12-11T00:01:47Z/PT00H29M</Locator>
+    </LocationsResult>
+  </Result>
+  <Result CRID='crid://bbc.co.uk/297827977' status='resolved' complete='true' acquire='any'>
+    <LocationsResult>
+      <Locator>dvb://233a.4000.11c0;7e89@2002-12-10T21:00:24Z/PT01H20M</Locator>
+      <Locator>dvb://233a.4000.11c0;7e8d@2002-12-11T00:31:57Z/PT01H20M</Locator>
+    </LocationsResult>
+  </Result>
+  <Result CRID='crid://bbc.co.uk/297827978' status='resolved' complete='true' acquire='any'>
+    <LocationsResult>
+      <Locator>dvb://233a.4000.11c0;7e8a@2002-12-10T22:21:51Z/PT00H39M</Locator>
+      <Locator>dvb://233a.4000.11c0;7e8e@2002-12-11T01:52:54Z/PT00H39M</Locator>
+    </LocationsResult>
+  </Result>
+  <Result CRID='crid://bbc.co.uk/297827983' status='resolved' complete='true' acquire='any'>
+    <LocationsResult>
+      <Locator>dvb://233a.4000.11c0;7e8f@2002-12-11T02:32:02Z/PT00H25M</Locator>
+      <Locator>dvb://233a.4000.11c0;8079@2002-12-11T02:57:05Z/PT00H02M</Locator>
+      <Locator>dvb://233a.4000.11c0;807a@2002-12-11T03:00:00Z/PT09H00M</Locator>
+      <Locator>dvb://233a.4000.11c0;807b@2002-12-11T12:00:00Z/PT06H58M</Locator>
+    </LocationsResult>
+  </Result>
+  <Result CRID='crid://bbc.co.uk/297828476' status='resolved' complete='true' acquire='any'>
+    <LocationsResult>
+      <Locator>dvb://233a.4000.11c0;807c@2002-12-11T18:58:20Z/PT00H02M</Locator>
+    </LocationsResult>
+  </Result>
+  <Result CRID='crid://bbc.co.uk/297828477' status='resolved' complete='true' acquire='any'>
+    <LocationsResult>
+      <Locator>dvb://233a.4000.11c0;807d@2002-12-11T19:00:21Z/PT00H09M</Locator>
+    </LocationsResult>
+  </Result>
+  <Result CRID='crid://bbc.co.uk/297828478' status='resolved' complete='true' acquire='any'>
+    <LocationsResult>
+      <Locator>dvb://233a.4000.11c0;807e@2002-12-11T19:09:44Z/PT00H49M</Locator>
+    </LocationsResult>
+  </Result>
+  <Result CRID='crid://bbc.co.uk/297828479' status='resolved' complete='true' acquire='any'>
+    <LocationsResult>
+      <Locator>dvb://233a.4000.11c0;807f@2002-12-11T20:00:00Z/PT00H28M</Locator>
+    </LocationsResult>
+  </Result>
+  <Result CRID='crid://bbc.co.uk/297828480' status='resolved' complete='true' acquire='any'>
+    <LocationsResult>
+      <Locator>dvb://233a.4000.11c0;8080@2002-12-11T20:29:42Z/PT00H29M</Locator>
+    </LocationsResult>
+  </Result>
+  <Result CRID='crid://bbc.co.uk/297828481' status='resolved' complete='true' acquire='any'>
+    <LocationsResult>
+      <Locator>dvb://233a.4000.11c0;8081@2002-12-11T20:59:34Z/PT00H59M</Locator>
+      <Locator>dvb://233a.4000.11c0;8084@2002-12-11T23:49:18Z/PT00H59M</Locator>
+    </LocationsResult>
+  </Result>
+  <Result CRID='crid://bbc.co.uk/297828482' status='resolved' complete='true' acquire='any'>
+    <LocationsResult>
+      <Locator>dvb://233a.4000.11c0;8082@2002-12-11T21:59:30Z/PT00H49M</Locator>
+    </LocationsResult>
+  </Result>
+  <Result CRID='crid://bbc.co.uk/297828483' status='resolved' complete='true' acquire='any'>
+    <LocationsResult>
+      <Locator>dvb://233a.4000.11c0;8083@2002-12-11T22:49:53Z/PT00H58M</Locator>
+    </LocationsResult>
+  </Result>
+</ContentReferencingTable>

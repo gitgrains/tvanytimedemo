@@ -1,0 +1,878 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<TVAMain xmlns='urn:tva:metadata:2002' xmlns:mpeg7='urn:mpeg:mpeg7:schema:2001' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='urn:tva:metadata:2002 I:\tv-anytime\Specifications\COR1_SP003v13\tva_metadata_v13.xsd'>
+  <!--Use of this BBC data for non-TV-Anytime purposes is strictly forbidden.-->
+  <ProgramDescription>
+    <ProgramInformationTable>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077298'>
+        <BasicDescription>
+          <Title><![CDATA[Through The Night]]></Title>
+          <Synopsis length='short'><![CDATA[Jonathan Swain plays Beethoven, Strauss, Haydn, Kreisler, Mielczewski, Gerber, Clerambault, Geminiani, Eespere, Dittersdorf, Schreker, Strauss, Liszt and Matz.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[With Jonathan Swain
+
+12.05am
+Beethoven: 13 Variationen �ber Es war einmal ein
+Theo Bruins (piano) 
+
+12.15am
+Richard Strauss: Le Bourgois Gentilhomme, suite  
+Norwegian Radio Orchestra 
+Peter Szilvay (conductor) 
+
+1.00am
+A concert given by Concerto Copenhagen, conducted by Lars Ulrik Mortensen with Ronald Brautigam (piano) recorded at the Queens Hall, New Royal Danish Library on 3 October 2001 
+Haydn:  Piano Concerto No.11 in D major 
+Haydn: Symphony No. 52 in C minor
+Beethoven: Piano Concerto No. 2 in B flat major 
+
+2.05am
+Fritz Kreisler:String Quartet in A minor 
+Tobias Ringborg & Christian Bergqvist (violin)
+Ingegerd Kierkegaard (viola)
+John Ehde (cello)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/ttn.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077299'>
+        <BasicDescription>
+          <Title><![CDATA[Morning on 3]]></Title>
+          <Synopsis length='short'><![CDATA[Jonathan Swain plays Schumann's Marchenerzahlungen, Rodrigo's Concierto de Aranjuez,  Arnold's English Dances, Vivaldi's sparkling Winter and Mussorgsky's terrifying Night on Bare Mountain.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[With Jonathan Swain
+
+12.05am
+Beethoven: 13 Variationen �ber Es war einmal ein 
+Theo Bruins (piano) 
+
+12.15am
+Richard Strauss: Le Bourgois Gentilhomme, suite (Op.60) 
+Norwegian Radio Orchestra 
+Peter Szilvay (conductor) 
+
+1.00am
+A concert given by Concerto Copenhagen, conducted by Lars Ulrik Mortensen with Ronald Brautigam (piano) recorded at the Queens Hall, New Royal Danish Library on 3 October 2001 
+Haydn:  Piano Concerto No.11 in D major (H.18.11)
+Haydn: Symphony No. 52 in C minor (H.1.52)
+Beethoven:  Piano Concerto No. 2 in B flat major 
+
+2.05am
+Fritz Kreisler: String Quartet in A minor 
+Tobias Ringborg & Christian Bergqvist (violin)
+Ingegerd Kierkegaard (viola)
+John Ehde (cello)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077300'>
+        <BasicDescription>
+          <Title><![CDATA[Composer Of The Week]]></Title>
+          <Synopsis length='short'><![CDATA[Music by Max Bruch (1838-1920) including Four Swedish Dances for orchestra, Symphony No 3, Four Swedish Dances for clarinet and piano and Violin Concerto No 3 (1st mvt).]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Max Bruch (1838-1920)
+
+Presented by Donald Macleod
+
+Schwedische T�nze (Swedish Dances) Op 63 No 3
+Leipzig Gewandhaus Orchestra
+Kurt Masur
+
+Kol Nidrei Op 47
+Han-na Chang (cello)
+London Symphony Orchestra
+Mstislav Rostropovich
+Symphony No 3 in E op 51 (3rd Movt Scherzo)
+Leipzig Gewandhaus Orchestra
+Dieter Kl�cker (clarinet)
+Werner Genuit (piano)
+
+Violin Concerto No 3 in D minor, op 58 (1st movement)
+Salvatore Accardo (violin)
+Leipzig Gewandhaus Orchestra
+Kurt Masur]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.4'>
+            <Name><![CDATA[Arts & Media]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/cotw.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ComposerOfTheWeek'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077301'>
+        <BasicDescription>
+          <Title><![CDATA[CD Masters]]></Title>
+          <Synopsis length='short'><![CDATA[Rob Cowan plays Fibich's Overture, Paganini, Grieg, Byrd, Mozart's Entfuhrung, Mascagni's Intermezzo, Schubert songs and Grieg's Holberg Suite.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[With Rob Cowan
+
+Fibich: Comenius Festive Overture, Op. 34
+Prague Symphony Orchestra
+Vladimir V�lek (conductor)
+
+Paganini arr. Kreisler: I palpiti, Op. 13
+Ruggiero Ricci (violin)
+Louis Pesinger (piano)
+
+Grieg: 2 Elegiac Melodies, Op. 34
+Concertgebow Orchestra
+Willem Mengelberg (conductor)
+
+Byrd: First Pavan & Galliard
+Glenn Gould (piano)
+
+Mozart: "Martern aller Arten" (Die Entf�hrung aus dem Serail, Act II)
+Erna Berger (soprano)
+Philharmonia
+Josef Krips (conductor)
+
+Mascagni: Intermezzo (Cavalleria Rusticana)
+Philharmonia
+Herbert von Karajan (conductor)
+
+Schubert: Die junge Nonne, D.828;  Ave Maria, D.839;  Nacht und Tr�ume, D.827
+Erna Berger (soprano)
+Michael Raucheisen (piano)
+
+Grieg: Holberg Suite
+Academy of St Martin in the Fields
+Sir Neville Marriner (conductor)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/cdmasters.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077302'>
+        <BasicDescription>
+          <Title><![CDATA[Morning Performance]]></Title>
+          <Synopsis length='short'><![CDATA[Tommy Pearson talks to pianist Joanna MacGregor and introduces her recordings. There's music by Bach, Fairclough, Satoh, Satie, Monk, Andrew Toovey and Cage.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Artist in Focus: Joanna MacGregor
+
+"Rapidly becoming our best-loved pianist (Evening Standard), Joanna MacGregor talks to Tommy Pearson about how she chooses her bewilderingly diverse repertoire.
+
+JS Bach: Pieces from Anna Magdalena notebook
+Joanna MacGregor (piano)
+
+Trad African: Yaa yaa kole
+Ensemble Bash
+Joanna MacGregor (piano)
+
+Matthew Fairclough : ...ltered ends, revealed beginnings 
+Joanna MacGregor (piano)
+
+Somei Satoh: Incarnation II
+Erik Satie: Gnossiennes 1 & 5; Gymnopedies 1 & 3
+Joanna MacGregor (piano)
+
+Erik Satie: Memoirs of an Amnesiac Remembered (exc)
+Thelonius: Monk Round midnight; Monks point
+Dizzy Gillespie/Tadd Dameron:  Good bait
+Joanna MacGregor (piano)
+
+Andrew Toovey: Out - concerto for 2 pianos and orchestra
+Andrew West & Joanna MacGregor (piano)
+EOS
+Charles Hazlewood (conductor)
+
+John Cage: Sonatas and interludes 
+Joanna MacGregor (piano)
+
+Trad. African: Kumpo 
+Ensemble Bash 
+Joanna MacGregor (piano)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:morning.performance@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/morningp.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077303'>
+        <BasicDescription>
+          <Title><![CDATA[Lunchtime Concert]]></Title>
+          <Synopsis length='short'><![CDATA[Tenor Mark Padmore, pianist Roger Vignoles and the Emperor Quartet play Haydn's String Quartet, Op 50 No 3, Dvorak's Cypresses and Vaughan Williams' On Wenlock Edge.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/r3lunch.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:lunchtime.concert@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077304'>
+        <BasicDescription>
+          <Title><![CDATA[BBC Orchestras]]></Title>
+          <Synopsis length='short'><![CDATA[The BBC SO led by Jiri Belohlavek plays Weber's Overture (Der Freischutz), Schumann's Cello Concerto (soloist Pieter Wispelwey), Brahms' Symphony No 2 and Stravinsky's Firebird Suite.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[The second of this week's concerts recorded amidst the therapeutic springs of Bad Kissingen during the BBC SO's annual trip to the spa town. Jiri Belohlavek tests the waters in readiness for a weighty programme of German Romanticism, as well as Stravinsky's fantastic Firebird Suite. Presented by Tommy Pearson. 
+
+Weber: Der Freischutz, Overture
+Schumann: Cello Concerto
+Jiri Belohlavek (conductor)
+Pieter Wispelwey (cello)
+
+Beethoven: Symphony no. 7
+Philippe Auguin (conductor)
+
+Stravinsky: Firebird Suite (1945)
+Jiri Belohlavek (conductor)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:bbc.orchestras@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/bbcorchestras.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077305'>
+        <BasicDescription>
+          <Title><![CDATA[Choral Evensong]]></Title>
+          <Synopsis length='short'><![CDATA[Direct from York Minster, a service of hymns and readings.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Live from York Minster.
+
+Introit: Lord, we beseech thee (Batten)
+
+Responses: John Holmes
+
+Psalms: 59, 60, 61 (Smart, Kelway, Rimbault, Goss)
+
+First Reading: Daniel 9 vv 1-10, 15-19
+
+Canticles: Magdalen Service (Leighton)
+
+Second Reading: Luke 23 vv 13-25
+
+Anthem: And I saw a new heaven (Bainton)
+
+Hymn: The Lord will come (St Stephen)
+
+Organ Voluntary: Fantasia and Fugue in C Minor "The Great", BWV 537 (J.S. Bach)
+
+Master of the Music: Philip Moore
+
+Organist: John Scott Whiteley]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.2.1'>
+            <Name><![CDATA[Religion]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.8'>
+            <Name><![CDATA[ENRICHMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/choral.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077306'>
+        <BasicDescription>
+          <Title><![CDATA[In Tune]]></Title>
+          <Synopsis length='short'><![CDATA[Sean Rafferty presents a selection of music, plus news from the arts world. Email: in.tune@bbc.co.uk]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.10'>
+            <Name><![CDATA[Cultural]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:in.tune@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/intune.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/InTune'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077307'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[Richard Coles presents an evening of talk, music documentaries and poetry exploring the English Civil War and current research in this field.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Which side are you on?  In the year of the Golden Jubilee, Richard Coles presents a live evening of talk, music, documentaries and poetry to remember a time when a English king had his head cut off and the country went to war with itself. Studio guests Ronald Hutton, Elaine Hobby, John Morrill and Mark Stoyle discuss some of the fascinating areas of new historical research on the Civil War, the role of ordinary people a long way from Cromwell and King Charles and the question of allegiances.  Did ordinary people want the war to go away or did they join in and take sides? How did it happen that towns and villages and even families were divided against themselves?]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077308'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[A Civil War Song Book: When Cannons Are Roaring. The City Waites perform the first of five songs from both sides of the conflict]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Civil War Song Book: "When Cannons Are Roaring". Lucie Skeaping and musicians The City Waites live in the studio perform the first of a series of songs from both sides of the conflict.  
+
+Lucie Skeaping (voice, violin) 
+Douglas Wootton (voice, cittern, lute)
+Roddy Skeaping (voice, fiddle, bass viol)
+Nick Perry (cornett, curtal, bagpipes)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077309'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[The Wrong but Romantic versus the Right but Repulsive: Richard Coles travels around England to find out what we think about the Civil War today]]></Synopsis>
+          <Synopsis length='long'><![CDATA["The Wrong but Wromantic versus the Right but Repulsive". So 1066 and All That sketched the Civil War of 1642-1646 and ever since it finished - if it ever has - each generation has made its version of the war.  Was it a early proletarian revolution or did it make a martyr of a tyrant?  Whose eye does Westminster seek today - Cromwel'ls statue or King Charles?  
+
+Richard Coles travels the country to find out how we think of the civil war in 2002. It remains one of the most contested periods of our history and continues to divide historians (as to how and why it happened) and many would argue the country itself (in its legacy). With Lord Baker, Blair Worden and Justin Champion.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077310'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[Postcard from the Front: People from Bristol talk about how they are continuing to live with the Civil War in a city that switched sides from King to Parliament and back again]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Postcard from the Front: Tonight's Civil War Night is live from Bristol and comes just yards from streets and fields where dramatic battles were fought as the city switched sides from the King to Parliament and back again. In the first of a series of snapshots, a variety of people talk about how they are continuing to live with the war. Retired Bath schoolmaster and expert local historian John Wroughton takes us back to 1643 and the Battle of Lansdowne.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077311'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[Battlefield Poem: The Ring. The first of three commissioned poems from a site of bloodshed and hardship in the Civil War. Ken Smith's poem on Exeter charts a city under siege]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077312'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[A Civil War Song Book: When the King Enjoys His Own Again is performed by Lucie Skeaping and the City Waites]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Battlefield Poem: The Ring. The first of three commissioned poems from a site of bloodshed and hardship in the war.  Ken Smith's poem on Exeter charts a city under siege.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077313'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[Postcard from the Front: What impact did the religious turmoil of the English Civil War have on the lives of ordinary villagers?]]></Synopsis>
+          <Synopsis length='long'><![CDATA[What impact did the religious turmoil of the Civil War have on the lives of ordinary villagers? A 21st century Warwickshire vicar explains how a 1644 prayer book fired his imagination.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077314'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[Women and the War: A studio discussion on the role of women in the English Civil War in the context of new historical evidence]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Women and the War - a studio discussion on the role of women in the Civil War - long ignored or even suppressed  - now new historical evidence is being unearthed to radically alter our understanding.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077315'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[A Civil War Song Book: Love Lies A-Bleeding. Performed by Lucie Skeaping and the City Waites]]></Synopsis>
+          <Synopsis length='long'><![CDATA[A Civil War Song Book:  "Love Lies A-Bleeding"
+
+Lucie Skeaping and musicians The City Waites.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077316'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[Battlefield Poem: A poem by Lavinia Greenlaw - the second of three commissioned poems about a site in the Civil War, it focuses on Essex]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Battlefield Poem: How it came to pass that Colchester was besieged. Lavinia Greenlaw listens for ghosts in Essex.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077317'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[A discussion of how discoveries about the fate of small communities in the English Civil War are revising the bigger picture of the conflict]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Local Lives, Local Loyalties: A studio discussion about how new micro-histories about the fate of small communities through the Civil War are turning up remarkable new stories and revising the bigger picture.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077318'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[Postcard from the Front: A reconstructed 17th-century farmstead provides evidence of how people worked, what they grew, why some went to war and how the conflict changed lives]]></Synopsis>
+          <Synopsis length='long'><![CDATA[One reconstructed 17th century farmstead provides evidence of how people worked, what they grew, why some were willing to go to war, and how the conflict changed their everyday lives.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077319'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[A Civil War Song Book: Vive La Roy. Performed by Lucie Skeaping and the City Waites]]></Synopsis>
+          <Synopsis length='long'><![CDATA[A Civil War Song Book: "Vive La Roy"
+
+Lucie Skeaping and musicians The City Waites.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077320'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[Battlefield Poem: The last of three commissioned poems from a site of bloodshed and hardship in the Civil War. Peter Reading goes out in Ludlow to take sides in his poem Civil]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Peter Reading goes out on the streets of Ludlow to take sides in his poem Civil.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077321'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[Postcard from the Front: The final on-location report exploring how the Civil War inspires private passions in the 21st century]]></Synopsis>
+          <Synopsis length='long'><![CDATA[The final on-location report exploring how the Civil War inspires private passions in the 21st century.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077322'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[A studio discussion asking whether the English Civil War was inevitable and exploring how we will view the war in the future]]></Synopsis>
+          <Synopsis length='long'><![CDATA["Under these circumstances war was inevitable" - was it? - a concluding studio discussion.  How will our new century live with the Civil War?]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077323'>
+        <BasicDescription>
+          <Title><![CDATA[Civil War Night]]></Title>
+          <Synopsis length='short'><![CDATA[A Civil War Song Book: Hey Then Up We Go. Performed by Lucie Skeaping and the City Waites]]></Synopsis>
+          <Synopsis length='long'><![CDATA[A Civil War Song Book: "Hey Then Up We Go"Lucie Skeaping and musicians The City Waites.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257077324'>
+        <BasicDescription>
+          <Title><![CDATA[Late Junction]]></Title>
+          <Synopsis length='short'><![CDATA[Verity Sharp introduces music including Ives's The Celestial Railroad and Glenn Gould playing a Mozart fantasy]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.13'>
+            <Name><![CDATA[Cutting edge]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.28'>
+            <Name><![CDATA[Innovative]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1.4'>
+            <Name><![CDATA[Contemporary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:late.junction@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/world/latejunction.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LateJunction'/>
+      </ProgramInformation>
+    </ProgramInformationTable>
+  </ProgramDescription>
+</TVAMain>

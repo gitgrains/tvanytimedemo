@@ -1,0 +1,700 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<TVAMain xmlns='urn:tva:metadata:2002' xmlns:mpeg7='urn:mpeg:mpeg7:schema:2001' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='urn:tva:metadata:2002 I:\tv-anytime\Specifications\COR1_SP003v13\tva_metadata_v13.xsd'>
+  <!--Use of this BBC data for non-TV-Anytime purposes is strictly forbidden.-->
+  <ProgramDescription>
+    <ProgramInformationTable>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075753'>
+        <BasicDescription>
+          <Title><![CDATA[Through The Night]]></Title>
+          <Synopsis length='short'><![CDATA[Jonathan Swain plays pieces by Verdi, Touchemoulin, Brahms, Bach, Vivaldi, Abel, Mozart, Schubert, Wagner, Marcello, Haydn, Mozart, Dukas, Durufle, Vivaldi, Glinka and Beethoven.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[With Jonathan Swain.
+
+12.05am
+Verdi: String Quartet in E minor 
+Vertavo Quartet 
+
+12.40am
+Touchemoulin: Sinfonia in C major 
+Neue D�sseldorfer Hofsmusik 
+
+1.00am
+Rudolf Firkusny plays Brahms' Piano Concerto No.1 in D minor 
+Danish National Radio Symphony Orchestra
+Henry Swoboda (conductor) 
+Recorded at the Danish Radio Concert Hall on 3rd April 1952
+
+1.45am
+Bach: Sonata in G minor (BWV.1001) 
+Hopkinson Smith (Baroque Lute) 
+
+2.00am
+Vivaldi: Dixit Dominus in D major (RV.595)
+Choir of Latvian Radio and the Riga Chamber Players
+Sigvards Klava (conductor)
+
+2.30am
+Carl Friedrich Abel: Flute Concerto (Op.6 No.2) in E minor
+Karl Kaiser (flute)
+La Stagione Frankfurt
+
+2.50am
+Mozart: Serenade in E flat major (K.375)
+P�ter Pongr�cz, Lajos T�th (oboes)
+
+3.15am
+Schubert: 3 pieces (D.946) 
+Alfred Brendel (piano) 
+
+3.40am
+Wagner (orch. Felix Mottl):  Wesendonk Lieder 
+Netherlands Radio Philharmonic Orchestra
+Kurt Masur (conductor)
+
+4.00am
+Marcello: Concerto in D minor 
+Jonathan Freeman-Attwood (trumpet)
+Colm Carey (organ)
+
+4.15am
+Haydn: Symphony No.4 in D major (H.1.4)
+Ondrej Len�rd (conductor)
+
+4.30am
+Mozart: Motet - Exultate Jubilate 
+Takuo Yuasa (conductor)
+
+4.45am
+Dukas: The Sorcerers Apprentice
+The Hungarian Radio Orchestra
+
+5.00am
+Durufl�: Quatre motets sur des th�mes gr�goriens
+Evi Eespere (director)
+
+5.10am
+Vivaldi: Concerto da Camera in G minor
+Camerata K�ln: Karl Kaiser (flute)
+
+5.25am
+Glinka: Memories of a Summer Night in Madrid
+Slovak Radio Symphony Orchestra
+
+5.35am
+Beethoven: Variations on Bei M�nnern, welche Liebe f�hlen 
+Zara Nelsova (cello)
+
+5.45am
+Brahms: Academic Festival Overture 
+BBC National Orchestra of Wales
+Grant Llewellyn (conductor)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/ttn.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075754'>
+        <BasicDescription>
+          <Title><![CDATA[Morning On 3]]></Title>
+          <Synopsis length='short'><![CDATA[Penny Gore plays Veracini's Overture No 6, Haydn's String Quartet, Schumann's Five Pieces, Handel's Organ Concerto, Op 4 No 13, Strauss' Serenade and Kodaly's Theatre Overture.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Presented by Penny Gore
+
+6.00am
+Veracini: Overture No.6 in B flat
+Musica Antiqua K�ln
+Reinhard Goebel (director)
+
+6.35am
+Haydn: String Quartet in G minor, Op.20 No.3
+Hagen Quartet
+
+7.10am
+Schumann: 5 Pieces in Folk Style, Op.102
+Mstislav Rostropovich (cello)
+Benjamin Britten (piano)
+
+7.45am
+Handel: Organ Concerto in F, Op.4 No.13 - The Cuckoo & the Nightingale
+Ton Koopman (organ & director)
+Amsterdam Baroque Orchestra
+
+8.00am
+Strauss: Serenade in E flat, Op.7
+London Winds
+Michael Collins (director)
+
+8.40am
+Kodaly: Theatre Overture
+New York Philharmonic
+Kurt Masur (conductor)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:morningon3@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/mon3.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075755'>
+        <BasicDescription>
+          <Title><![CDATA[Composer Of The Week]]></Title>
+          <Synopsis length='short'><![CDATA[The final years of pianist Billy Mayerl today, with Song of the Fir Tree, Bats in the Belfry, Railroad Rhythm, Steak and Kidney, Smoke gets in your eyes, Poor little rich girl and Shallow Waters.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Billy Mayerl (1902 to 1959)
+
+Donald Macleod looks at how the Second World War transformed Billy Mayerl's career, and how he changed direction.  Mayerl's biographer, Professor Peter Dickinson, discusses the influence and interest in Mayerl's music.
+
+Fireside Fusiliers
+Slovak Radio Symphony Orchestra
+Gary Carpenter
+
+Resting
+Richard Tauber (tenor)
+
+The Big Top
+Winter Suite 
+Eric Parkin (piano)
+
+Caprinella
+Reginald Leopold (violin)
+Max Byfield (piano)
+
+Moods in Contrast
+Phillip Dyson (piano)
+BBC Concert Orchestra
+Roderick Dunk
+
+Filigree
+Billy Mayerl (piano)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.4'>
+            <Name><![CDATA[Arts & Media]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/cotw.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/ComposerOfTheWeek'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075756'>
+        <BasicDescription>
+          <Title><![CDATA[CD Masters]]></Title>
+          <Synopsis length='short'><![CDATA[Rob Cowan plays Bax's Coronation March, Purcell's I was glad, Prokofiev's Piano Sonata No 7, Beethoven's Violin Concerto in D, and Schubert's Ganymed and Der Musensohn.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[With Rob Cowan
+
+Bax: Coronation March
+London Symphony Orchestra
+Sir Malcolm Sargent (conductor)
+
+Purcell: I was glad, Z.19
+Choir of Westminster Abbey
+Harry Bicket (organ)
+Simon Preston (conductor)
+
+Prokofiev: Piano Sonata No. 7, Op. 83
+Vladimir Horowitz (piano)
+
+Beethoven: Violin Concerto in D major, Op. 61
+Lucerne Festival Orchestra
+Wilhelm Furtw�ngler (conductor)
+
+Schubert :Ganymed, D.544;
+Der Musensohn, D.764
+Elisabeth Schwarzkopf (soprano)
+Edwin Fischer (piano)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/cdmasters.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075757'>
+        <BasicDescription>
+          <Title><![CDATA[Morning Performance]]></Title>
+          <Synopsis length='short'><![CDATA[Bath Mozartfest 2002: The fourth of five programmes from Bath's annual celebration of Mozart's music, including the Trio for clarinet, viola and piano. Presented by Stephanie Hughes.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Stephanie Hughes introduces highlights from this years Mozartfest including Mozart's Trio for clarinet, viola and piano played by Michael Collins, Isabelle van Keulen and Kathryn Stott.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:morning.performance@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/morningp.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075758'>
+        <BasicDescription>
+          <Title><![CDATA[Lunchtime Concert]]></Title>
+          <Synopsis length='short'><![CDATA[Music for London Churches: Stephen Layton conducts Polyphony in a concert of 20th-century choral music by Finzi, Part, Parry, Warlock and Walton at St Jude-on-the-Hill, Hampstead.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/r3lunch.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:lunchtime.concert@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075759'>
+        <BasicDescription>
+          <Title><![CDATA[BBC Orchestras]]></Title>
+          <Synopsis length='short'><![CDATA[The BBC National Orchestra of Wales led by Mark Wigglesworth perform Schoenberg's Lied der Waldtaube (Gurrelieder), Berg's Violin Concerto and Mahler's Symphony No 4 in G.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[BBC National Orchestra Of Wales: Great Orchestrators
+
+Mahler virtually reinvented the orchestra with every symphony he wrote, demanding new sounds to express grand ideas on life, the universe and everything.
+
+Today, the BBC National Orchestra of Wales takes on the Fourth Symphony, remarkable for its use of scordatura violin representing Death the Fiddler, and for its closing song, A Child's Vision - for solo soprano.
+
+Presented by Sandy Burnett. 
+
+Schoenberg: Lied der Waldtaube (from Gurrelieder) (chamber version)
+Susan Bickley (mezzo-soprano)
+
+Berg: Violin Concerto
+Kyoko Takezewa (violin)
+
+Mahler: Symphony No. 4
+Amanda Roocroft (soprano)
+Mark Wigglesworth (conductor)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:bbc.orchestras@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/bbcorchestras.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075760'>
+        <BasicDescription>
+          <Title><![CDATA[Making Tracks]]></Title>
+          <Synopsis length='short'><![CDATA[Music for younger listeners presented by CBBC's Angellica Bell and Adrian Dickson.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.5'>
+            <Name><![CDATA[AMUSEMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6'>
+            <Name><![CDATA[MUSIC]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntendedAudienceCS:2002:4.2.1'>
+            <Name><![CDATA[Children]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/makingtracks/index.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075761'>
+        <BasicDescription>
+          <Title><![CDATA[Music Restored]]></Title>
+          <Synopsis length='short'><![CDATA[Concert marking the 400th anniversary of the birth of Chiara Margarita Cozzolani given by Musica Secreta at St Bartholemew the Great in London.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Lucie Skeaping introduces a recent concert given by the vocal group Musica Secreta at the church of St. Bartholomew the Great in London. The concert celebrates the 400th anniversary of the birth of Chiara Margarita Cozzolani. Little was known about this extraordinary Bolognese composer until recently, but her music, composed within the four walls of the Santa Radagonda convent in Milan, is quite breathtaking.
+
+Cozzolani - Vespers (1650)
+Musica Secreta
+Matthew Halls - organ
+Frances Kelly - harp
+Angier Hauksson - chitarrone
+Andrew van der Beek - Sackbutt
+Deborah Roberts & Laurie Stras (director)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/musicrest.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075762'>
+        <BasicDescription>
+          <Title><![CDATA[In Tune]]></Title>
+          <Synopsis length='short'><![CDATA[Sean Rafferty presents a selection of music, plus news from the arts world. Email: in.tune@bbc.co.uk]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.1.10'>
+            <Name><![CDATA[Cultural]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:in.tune@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/intune.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/InTune'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075763'>
+        <BasicDescription>
+          <Title><![CDATA[Performance On 3]]></Title>
+          <Synopsis length='short'><![CDATA[The London Symphony Orchestra under Mariss Jansons performs Mahler's Symphony No 6 in A minor.]]></Synopsis>
+          <Synopsis length='long'><![CDATA[Mariss Jansons joins the LSO at the Barbican this Autumn to conduct Mahler's powerfully grief-laden Sixth Symphony  a work that plumbs the depths of human experience and points the way onwards towards the infinite.
+
+Mahler: Symphony No. 6
+London Symphony Orchestra
+Mariss Jansons (conductor)]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:performance.on.3@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/classical/pon3.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/PerformanceOn3'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075764'>
+        <BasicDescription>
+          <Title><![CDATA[American Britten]]></Title>
+          <Synopsis length='short'><![CDATA[The BBC Singers under Nicholas Kok perform choral music encompassing Benjamin Britten's stay in America in the 1940s. Pieces are Britten's AMDG and Hymn to St Cecilia.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1'>
+            <Name><![CDATA[Classical music]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075765'>
+        <BasicDescription>
+          <Title><![CDATA[Night Waves]]></Title>
+          <Synopsis length='short'><![CDATA[Sarah Dunant presents tonight's edition of the arts magazine.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.1.4'>
+            <Name><![CDATA[Arts & Media]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.3'>
+            <Name><![CDATA[EDUCATION]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:night.waves@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/speech/nightwaves.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/NightWaves'/>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075766'>
+        <BasicDescription>
+          <Title><![CDATA[The Wire]]></Title>
+          <Synopsis length='short'><![CDATA[Written and directed by Zinnie Harris. Christie sits at his piano making a tape to explain recent events in his life. With Stuart McQuarrie as Christie.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.4.1'>
+            <Name><![CDATA[General light drama]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.2'>
+            <Name><![CDATA[REPRESENTATION/PLAY]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/speech/thewire.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+      </ProgramInformation>
+      <ProgramInformation programId='crid://bbc.co.uk/3257075767'>
+        <BasicDescription>
+          <Title><![CDATA[Late Junction]]></Title>
+          <Synopsis length='short'><![CDATA[Verity Sharp's late-night listening selection includes Jeremy Peyton Jones played by Regular Music II from their album North South East West.]]></Synopsis>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.13'>
+            <Name><![CDATA[Cutting edge]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:AtmosphereCS:2002:8.28'>
+            <Name><![CDATA[Innovative]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:ContentCS:2002:3.6.1.4'>
+            <Name><![CDATA[Contemporary]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:FormatCS:2002:2.5'>
+            <Name><![CDATA[ARTISTIC PERFORMANCE]]></Name>
+          </Genre>
+          <Genre href='urn:tva:metadata:cs:IntentionCS:2002:1.1'>
+            <Name><![CDATA[ENTERTAINMENT]]></Name>
+          </Genre>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:14'>
+              <Name>Support</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>mailto:late.junction@bbc.co.uk</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+          <RelatedMaterial>
+            <HowRelated href='urn:tva:metadata:cs:HowRelatedCS:2002:10'>
+              <Name>For more information</Name>
+            </HowRelated>
+            <MediaLocator>
+              <mpeg7:MediaUri>http://www.bbc.co.uk/radio3/world/latejunction.shtml</mpeg7:MediaUri>
+            </MediaLocator>
+          </RelatedMaterial>
+        </BasicDescription>
+        <AVAttributes>
+          <AudioAttributes>
+            <NumOfChannels>2</NumOfChannels>
+          </AudioAttributes>
+        </AVAttributes>
+        <MemberOf xsi:type='MemberOfType' crid='crid://bbc.co.uk/LateJunction'/>
+      </ProgramInformation>
+    </ProgramInformationTable>
+  </ProgramDescription>
+</TVAMain>
